@@ -1,3 +1,11 @@
+-- =====================================================================
+-- Script: find-value-in-columns.sql
+-- Descripción: Busca un valor específico en todas las columnas de tipo 
+-- texto dentro de todas las tablas del esquema 'dbo'.
+-- Fecha: 2025-04-05
+-- Autor: Brian Estevez
+-- =====================================================================
+
 DECLARE @searchValue NVARCHAR(100) = 'X';
 
 IF OBJECT_ID('tempdb..#results') IS NOT NULL
