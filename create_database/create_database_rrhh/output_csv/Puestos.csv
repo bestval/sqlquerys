@@ -1,0 +1,9 @@
+ID_Puesto,Nombre_Puesto,Departamento,Nivel
+1,Dependiente/a,Ventas,Operativo
+2,Encargado/a,Ventas,Mando intermedio
+3,Cajero/a,Operaciones,Operativo
+4,Visual merchandiser,Marketing,Especialista
+5,Responsable RR. HH.,RRHH,Mando medio
+6,Almacén,Logística,Operativo
+7,Gerente tienda,Dirección tienda,Manager
+8,Personal limpieza,Servicios,Operativo

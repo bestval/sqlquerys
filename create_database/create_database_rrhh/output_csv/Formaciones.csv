@@ -1,0 +1,901 @@
+ID_Formacion,ID_Empleado,Curso,Fecha_Inicio,Fecha_Fin,Horas,Certificado
+1,470,Moda Sostenible,2024-05-20,2024-05-25,15,Certificado Moda Sostenible
+2,376,Atención al cliente,2024-05-02,2024-05-05,11,Certificado Atención al cliente
+3,988,Visual Merchandising,2024-01-29,2024-02-01,5,Certificado Visual Merchandising
+4,398,Atención al cliente,2024-01-15,2024-01-16,18,Certificado Atención al cliente
+5,924,Gestión de Inventario,2024-03-31,2024-04-05,12,Certificado Gestión de Inventario
+6,65,Prevención Riesgos,2023-08-20,2023-08-21,11,Certificado Prevención Riesgos
+7,798,Gestión de Inventario,2024-07-05,2024-07-06,7,Certificado Gestión de Inventario
+8,769,Moda Sostenible,2024-05-06,2024-05-07,18,Certificado Moda Sostenible
+9,900,Moda Sostenible,2023-07-22,2023-07-24,10,Certificado Moda Sostenible
+10,789,Gestión de Inventario,2024-06-07,2024-06-09,17,Certificado Gestión de Inventario
+11,224,Visual Merchandising,2024-05-30,2024-05-31,16,Certificado Visual Merchandising
+12,742,Atención al cliente,2024-04-03,2024-04-05,6,Certificado Atención al cliente
+13,113,Gestión de Inventario,2023-10-07,2023-10-08,21,Certificado Gestión de Inventario
+14,738,Prevención Riesgos,2024-08-28,2024-08-31,17,Certificado Prevención Riesgos
+15,90,Liderazgo de equipos,2024-12-13,2024-12-15,15,Certificado Liderazgo de equipos
+16,873,Visual Merchandising,2025-02-23,2025-02-28,23,Certificado Visual Merchandising
+17,854,Moda Sostenible,2025-04-10,2025-04-13,10,Certificado Moda Sostenible
+18,915,Visual Merchandising,2024-06-08,2024-06-13,13,Certificado Visual Merchandising
+19,294,Visual Merchandising,2023-12-02,2023-12-03,6,Certificado Visual Merchandising
+20,30,Gestión de Inventario,2025-03-17,2025-03-18,24,Certificado Gestión de Inventario
+21,221,Atención al cliente,2024-04-25,2024-04-26,24,Certificado Atención al cliente
+22,826,Moda Sostenible,2024-12-30,2025-01-04,8,Certificado Moda Sostenible
+23,801,Visual Merchandising,2025-01-29,2025-01-30,24,Certificado Visual Merchandising
+24,363,Moda Sostenible,2024-09-03,2024-09-04,17,Certificado Moda Sostenible
+25,933,Prevención Riesgos,2025-01-07,2025-01-12,8,Certificado Prevención Riesgos
+26,473,Liderazgo de equipos,2025-04-15,2025-04-17,9,Certificado Liderazgo de equipos
+27,992,Prevención Riesgos,2023-12-07,2023-12-08,4,Certificado Prevención Riesgos
+28,630,Moda Sostenible,2024-05-07,2024-05-12,19,Certificado Moda Sostenible
+29,633,Visual Merchandising,2025-01-29,2025-01-30,6,Certificado Visual Merchandising
+30,424,Visual Merchandising,2023-12-30,2023-12-31,17,Certificado Visual Merchandising
+31,416,Gestión de Inventario,2023-10-20,2023-10-22,5,Certificado Gestión de Inventario
+32,210,Prevención Riesgos,2024-11-06,2024-11-07,20,Certificado Prevención Riesgos
+33,486,Prevención Riesgos,2024-12-02,2024-12-03,15,Certificado Prevención Riesgos
+34,56,Visual Merchandising,2024-10-02,2024-10-07,14,Certificado Visual Merchandising
+35,310,Gestión de Inventario,2023-07-12,2023-07-17,5,Certificado Gestión de Inventario
+36,738,Atención al cliente,2025-04-17,2025-04-20,13,Certificado Atención al cliente
+37,628,Gestión de Inventario,2025-01-06,2025-01-09,9,Certificado Gestión de Inventario
+38,886,Atención al cliente,2024-12-06,2024-12-09,17,Certificado Atención al cliente
+39,699,Prevención Riesgos,2024-02-10,2024-02-11,7,Certificado Prevención Riesgos
+40,652,Prevención Riesgos,2023-11-27,2023-12-02,18,Certificado Prevención Riesgos
+41,204,Prevención Riesgos,2025-03-31,2025-04-05,16,Certificado Prevención Riesgos
+42,221,Liderazgo de equipos,2024-06-16,2024-06-18,9,Certificado Liderazgo de equipos
+43,180,Liderazgo de equipos,2024-12-08,2024-12-09,23,Certificado Liderazgo de equipos
+44,146,Prevención Riesgos,2024-06-07,2024-06-08,10,Certificado Prevención Riesgos
+45,410,Moda Sostenible,2024-09-27,2024-09-30,21,Certificado Moda Sostenible
+46,67,Prevención Riesgos,2023-07-23,2023-07-24,4,Certificado Prevención Riesgos
+47,923,Prevención Riesgos,2024-07-05,2024-07-10,4,Certificado Prevención Riesgos
+48,926,Liderazgo de equipos,2023-08-26,2023-08-31,17,Certificado Liderazgo de equipos
+49,802,Moda Sostenible,2024-11-02,2024-11-04,20,Certificado Moda Sostenible
+50,439,Liderazgo de equipos,2025-05-13,2025-05-18,11,Certificado Liderazgo de equipos
+51,451,Atención al cliente,2023-09-06,2023-09-11,8,Certificado Atención al cliente
+52,478,Liderazgo de equipos,2024-07-01,2024-07-02,9,Certificado Liderazgo de equipos
+53,297,Visual Merchandising,2024-07-04,2024-07-07,15,Certificado Visual Merchandising
+54,605,Visual Merchandising,2023-06-19,2023-06-22,8,Certificado Visual Merchandising
+55,518,Atención al cliente,2023-09-08,2023-09-11,14,Certificado Atención al cliente
+56,657,Moda Sostenible,2024-06-24,2024-06-29,22,Certificado Moda Sostenible
+57,591,Atención al cliente,2024-10-08,2024-10-09,4,Certificado Atención al cliente
+58,174,Gestión de Inventario,2024-05-10,2024-05-15,23,Certificado Gestión de Inventario
+59,579,Liderazgo de equipos,2025-01-28,2025-01-29,21,Certificado Liderazgo de equipos
+60,799,Gestión de Inventario,2023-09-29,2023-10-01,19,Certificado Gestión de Inventario
+61,548,Gestión de Inventario,2023-07-21,2023-07-23,9,Certificado Gestión de Inventario
+62,864,Atención al cliente,2023-12-18,2023-12-23,4,Certificado Atención al cliente
+63,448,Liderazgo de equipos,2025-03-04,2025-03-05,9,Certificado Liderazgo de equipos
+64,681,Visual Merchandising,2024-06-06,2024-06-07,13,Certificado Visual Merchandising
+65,834,Gestión de Inventario,2025-03-27,2025-03-29,8,Certificado Gestión de Inventario
+66,391,Gestión de Inventario,2024-02-21,2024-02-23,9,Certificado Gestión de Inventario
+67,317,Atención al cliente,2024-10-31,2024-11-01,13,Certificado Atención al cliente
+68,473,Moda Sostenible,2024-09-23,2024-09-25,18,Certificado Moda Sostenible
+69,434,Gestión de Inventario,2025-02-18,2025-02-21,19,Certificado Gestión de Inventario
+70,27,Moda Sostenible,2024-01-12,2024-01-13,17,Certificado Moda Sostenible
+71,948,Gestión de Inventario,2024-05-02,2024-05-05,17,Certificado Gestión de Inventario
+72,768,Gestión de Inventario,2024-10-15,2024-10-16,16,Certificado Gestión de Inventario
+73,81,Atención al cliente,2023-11-11,2023-11-14,16,Certificado Atención al cliente
+74,408,Atención al cliente,2024-12-09,2024-12-10,18,Certificado Atención al cliente
+75,360,Liderazgo de equipos,2024-05-28,2024-05-30,19,Certificado Liderazgo de equipos
+76,959,Liderazgo de equipos,2023-10-13,2023-10-18,22,Certificado Liderazgo de equipos
+77,773,Atención al cliente,2025-02-06,2025-02-08,19,Certificado Atención al cliente
+78,170,Gestión de Inventario,2024-04-18,2024-04-19,24,Certificado Gestión de Inventario
+79,712,Atención al cliente,2024-05-11,2024-05-13,15,Certificado Atención al cliente
+80,936,Gestión de Inventario,2024-03-29,2024-04-03,14,Certificado Gestión de Inventario
+81,50,Liderazgo de equipos,2023-11-01,2023-11-02,16,Certificado Liderazgo de equipos
+82,789,Moda Sostenible,2025-02-01,2025-02-06,6,Certificado Moda Sostenible
+83,405,Moda Sostenible,2024-06-26,2024-06-27,24,Certificado Moda Sostenible
+84,824,Gestión de Inventario,2023-07-27,2023-07-29,20,Certificado Gestión de Inventario
+85,417,Prevención Riesgos,2024-10-27,2024-10-28,4,Certificado Prevención Riesgos
+86,564,Gestión de Inventario,2023-06-26,2023-06-27,8,Certificado Gestión de Inventario
+87,958,Gestión de Inventario,2024-12-23,2024-12-24,12,Certificado Gestión de Inventario
+88,887,Atención al cliente,2024-12-14,2024-12-17,7,Certificado Atención al cliente
+89,271,Prevención Riesgos,2024-05-15,2024-05-17,5,Certificado Prevención Riesgos
+90,438,Atención al cliente,2025-05-17,2025-05-22,17,Certificado Atención al cliente
+91,966,Liderazgo de equipos,2025-01-20,2025-01-23,15,Certificado Liderazgo de equipos
+92,606,Moda Sostenible,2024-10-25,2024-10-30,9,Certificado Moda Sostenible
+93,619,Gestión de Inventario,2023-06-30,2023-07-05,6,Certificado Gestión de Inventario
+94,406,Atención al cliente,2023-12-07,2023-12-10,17,Certificado Atención al cliente
+95,998,Gestión de Inventario,2024-11-12,2024-11-15,5,Certificado Gestión de Inventario
+96,345,Atención al cliente,2023-09-02,2023-09-03,15,Certificado Atención al cliente
+97,155,Moda Sostenible,2024-07-27,2024-07-29,8,Certificado Moda Sostenible
+98,585,Liderazgo de equipos,2025-05-21,2025-05-24,16,Certificado Liderazgo de equipos
+99,697,Visual Merchandising,2023-12-11,2023-12-14,11,Certificado Visual Merchandising
+100,493,Gestión de Inventario,2023-12-22,2023-12-23,17,Certificado Gestión de Inventario
+101,66,Liderazgo de equipos,2024-02-13,2024-02-16,12,Certificado Liderazgo de equipos
+102,756,Prevención Riesgos,2023-10-17,2023-10-20,15,Certificado Prevención Riesgos
+103,201,Liderazgo de equipos,2023-12-01,2023-12-04,18,Certificado Liderazgo de equipos
+104,272,Visual Merchandising,2023-11-09,2023-11-11,12,Certificado Visual Merchandising
+105,634,Visual Merchandising,2023-10-30,2023-11-01,11,Certificado Visual Merchandising
+106,420,Visual Merchandising,2023-10-13,2023-10-14,18,Certificado Visual Merchandising
+107,793,Liderazgo de equipos,2025-01-19,2025-01-22,8,Certificado Liderazgo de equipos
+108,493,Liderazgo de equipos,2023-06-16,2023-06-17,9,Certificado Liderazgo de equipos
+109,51,Gestión de Inventario,2024-11-11,2024-11-14,19,Certificado Gestión de Inventario
+110,805,Visual Merchandising,2024-12-23,2024-12-24,4,Certificado Visual Merchandising
+111,365,Moda Sostenible,2024-04-29,2024-05-02,13,Certificado Moda Sostenible
+112,339,Atención al cliente,2024-11-23,2024-11-25,13,Certificado Atención al cliente
+113,741,Moda Sostenible,2024-08-10,2024-08-15,12,Certificado Moda Sostenible
+114,578,Liderazgo de equipos,2024-04-21,2024-04-23,21,Certificado Liderazgo de equipos
+115,418,Gestión de Inventario,2024-07-12,2024-07-15,21,Certificado Gestión de Inventario
+116,87,Prevención Riesgos,2024-04-27,2024-04-30,20,Certificado Prevención Riesgos
+117,578,Atención al cliente,2024-03-22,2024-03-27,4,Certificado Atención al cliente
+118,984,Prevención Riesgos,2025-05-09,2025-05-12,15,Certificado Prevención Riesgos
+119,247,Atención al cliente,2024-06-30,2024-07-01,19,Certificado Atención al cliente
+120,682,Gestión de Inventario,2023-07-30,2023-07-31,21,Certificado Gestión de Inventario
+121,989,Gestión de Inventario,2023-09-11,2023-09-14,5,Certificado Gestión de Inventario
+122,878,Atención al cliente,2024-10-23,2024-10-28,16,Certificado Atención al cliente
+123,561,Prevención Riesgos,2024-06-06,2024-06-08,23,Certificado Prevención Riesgos
+124,836,Visual Merchandising,2025-03-25,2025-03-26,18,Certificado Visual Merchandising
+125,857,Prevención Riesgos,2025-03-28,2025-03-29,6,Certificado Prevención Riesgos
+126,103,Prevención Riesgos,2024-02-13,2024-02-18,5,Certificado Prevención Riesgos
+127,784,Gestión de Inventario,2024-02-17,2024-02-18,8,Certificado Gestión de Inventario
+128,516,Gestión de Inventario,2023-09-19,2023-09-24,18,Certificado Gestión de Inventario
+129,590,Atención al cliente,2024-08-11,2024-08-16,24,Certificado Atención al cliente
+130,353,Moda Sostenible,2025-04-06,2025-04-07,14,Certificado Moda Sostenible
+131,340,Gestión de Inventario,2023-10-14,2023-10-17,21,Certificado Gestión de Inventario
+132,685,Gestión de Inventario,2025-02-10,2025-02-11,20,Certificado Gestión de Inventario
+133,309,Liderazgo de equipos,2024-05-17,2024-05-18,5,Certificado Liderazgo de equipos
+134,752,Gestión de Inventario,2025-02-16,2025-02-21,13,Certificado Gestión de Inventario
+135,501,Atención al cliente,2024-10-21,2024-10-26,23,Certificado Atención al cliente
+136,987,Moda Sostenible,2024-08-01,2024-08-04,16,Certificado Moda Sostenible
+137,455,Prevención Riesgos,2023-08-30,2023-09-02,24,Certificado Prevención Riesgos
+138,578,Liderazgo de equipos,2024-06-11,2024-06-12,15,Certificado Liderazgo de equipos
+139,134,Prevención Riesgos,2023-07-02,2023-07-04,11,Certificado Prevención Riesgos
+140,791,Liderazgo de equipos,2024-08-29,2024-09-03,21,Certificado Liderazgo de equipos
+141,94,Visual Merchandising,2024-05-05,2024-05-07,20,Certificado Visual Merchandising
+142,389,Visual Merchandising,2023-08-23,2023-08-26,19,Certificado Visual Merchandising
+143,88,Visual Merchandising,2023-11-25,2023-11-28,18,Certificado Visual Merchandising
+144,900,Prevención Riesgos,2025-05-19,2025-05-22,22,Certificado Prevención Riesgos
+145,421,Visual Merchandising,2025-05-14,2025-05-16,20,Certificado Visual Merchandising
+146,277,Moda Sostenible,2023-11-17,2023-11-19,22,Certificado Moda Sostenible
+147,40,Visual Merchandising,2024-12-14,2024-12-19,8,Certificado Visual Merchandising
+148,88,Liderazgo de equipos,2024-05-15,2024-05-17,18,Certificado Liderazgo de equipos
+149,628,Atención al cliente,2023-06-26,2023-06-28,19,Certificado Atención al cliente
+150,444,Visual Merchandising,2023-07-03,2023-07-04,13,Certificado Visual Merchandising
+151,342,Gestión de Inventario,2025-05-12,2025-05-15,20,Certificado Gestión de Inventario
+152,769,Atención al cliente,2023-11-20,2023-11-22,11,Certificado Atención al cliente
+153,667,Atención al cliente,2025-04-15,2025-04-18,8,Certificado Atención al cliente
+154,621,Moda Sostenible,2023-08-15,2023-08-16,6,Certificado Moda Sostenible
+155,154,Moda Sostenible,2024-02-18,2024-02-21,24,Certificado Moda Sostenible
+156,441,Moda Sostenible,2025-04-04,2025-04-06,5,Certificado Moda Sostenible
+157,900,Atención al cliente,2023-10-16,2023-10-17,11,Certificado Atención al cliente
+158,396,Gestión de Inventario,2023-12-04,2023-12-07,22,Certificado Gestión de Inventario
+159,461,Atención al cliente,2024-05-20,2024-05-21,20,Certificado Atención al cliente
+160,743,Moda Sostenible,2023-07-06,2023-07-11,24,Certificado Moda Sostenible
+161,736,Atención al cliente,2025-02-13,2025-02-14,20,Certificado Atención al cliente
+162,750,Atención al cliente,2023-07-16,2023-07-21,10,Certificado Atención al cliente
+163,22,Moda Sostenible,2024-07-25,2024-07-28,17,Certificado Moda Sostenible
+164,63,Moda Sostenible,2023-10-01,2023-10-04,6,Certificado Moda Sostenible
+165,708,Visual Merchandising,2024-03-10,2024-03-12,6,Certificado Visual Merchandising
+166,129,Moda Sostenible,2024-09-29,2024-09-30,7,Certificado Moda Sostenible
+167,368,Atención al cliente,2023-11-07,2023-11-10,16,Certificado Atención al cliente
+168,598,Prevención Riesgos,2024-12-05,2024-12-10,18,Certificado Prevención Riesgos
+169,314,Liderazgo de equipos,2023-06-12,2023-06-14,9,Certificado Liderazgo de equipos
+170,412,Gestión de Inventario,2023-12-01,2023-12-04,15,Certificado Gestión de Inventario
+171,680,Atención al cliente,2024-06-20,2024-06-22,19,Certificado Atención al cliente
+172,125,Atención al cliente,2024-12-15,2024-12-16,15,Certificado Atención al cliente
+173,728,Moda Sostenible,2025-05-06,2025-05-11,23,Certificado Moda Sostenible
+174,601,Prevención Riesgos,2024-04-21,2024-04-26,15,Certificado Prevención Riesgos
+175,460,Atención al cliente,2025-03-27,2025-03-28,8,Certificado Atención al cliente
+176,397,Gestión de Inventario,2025-03-03,2025-03-04,6,Certificado Gestión de Inventario
+177,869,Moda Sostenible,2023-11-07,2023-11-12,20,Certificado Moda Sostenible
+178,782,Liderazgo de equipos,2023-07-28,2023-07-30,20,Certificado Liderazgo de equipos
+179,627,Gestión de Inventario,2024-09-26,2024-10-01,14,Certificado Gestión de Inventario
+180,784,Prevención Riesgos,2025-02-26,2025-02-28,5,Certificado Prevención Riesgos
+181,471,Prevención Riesgos,2025-01-14,2025-01-19,23,Certificado Prevención Riesgos
+182,714,Visual Merchandising,2024-05-14,2024-05-16,15,Certificado Visual Merchandising
+183,308,Liderazgo de equipos,2024-10-06,2024-10-07,10,Certificado Liderazgo de equipos
+184,987,Liderazgo de equipos,2023-12-19,2023-12-24,6,Certificado Liderazgo de equipos
+185,835,Atención al cliente,2023-06-17,2023-06-19,18,Certificado Atención al cliente
+186,312,Visual Merchandising,2024-05-01,2024-05-06,12,Certificado Visual Merchandising
+187,203,Prevención Riesgos,2023-08-06,2023-08-08,17,Certificado Prevención Riesgos
+188,451,Gestión de Inventario,2024-03-23,2024-03-24,13,Certificado Gestión de Inventario
+189,362,Visual Merchandising,2024-04-21,2024-04-22,17,Certificado Visual Merchandising
+190,502,Visual Merchandising,2024-10-25,2024-10-27,7,Certificado Visual Merchandising
+191,782,Gestión de Inventario,2023-12-15,2023-12-16,17,Certificado Gestión de Inventario
+192,323,Prevención Riesgos,2023-11-11,2023-11-12,5,Certificado Prevención Riesgos
+193,137,Liderazgo de equipos,2024-06-01,2024-06-04,4,Certificado Liderazgo de equipos
+194,137,Liderazgo de equipos,2024-09-26,2024-09-28,11,Certificado Liderazgo de equipos
+195,569,Moda Sostenible,2023-12-07,2023-12-12,8,Certificado Moda Sostenible
+196,46,Atención al cliente,2024-01-12,2024-01-14,4,Certificado Atención al cliente
+197,883,Moda Sostenible,2024-06-02,2024-06-05,7,Certificado Moda Sostenible
+198,810,Gestión de Inventario,2024-09-14,2024-09-19,4,Certificado Gestión de Inventario
+199,884,Prevención Riesgos,2024-07-26,2024-07-27,21,Certificado Prevención Riesgos
+200,779,Visual Merchandising,2023-09-22,2023-09-23,22,Certificado Visual Merchandising
+201,724,Gestión de Inventario,2025-04-22,2025-04-23,12,Certificado Gestión de Inventario
+202,343,Prevención Riesgos,2025-03-31,2025-04-01,14,Certificado Prevención Riesgos
+203,825,Gestión de Inventario,2023-12-24,2023-12-25,21,Certificado Gestión de Inventario
+204,818,Prevención Riesgos,2023-08-16,2023-08-19,21,Certificado Prevención Riesgos
+205,542,Prevención Riesgos,2025-05-17,2025-05-20,15,Certificado Prevención Riesgos
+206,135,Moda Sostenible,2024-10-25,2024-10-30,15,Certificado Moda Sostenible
+207,697,Moda Sostenible,2025-04-04,2025-04-07,4,Certificado Moda Sostenible
+208,595,Gestión de Inventario,2024-10-07,2024-10-08,15,Certificado Gestión de Inventario
+209,850,Prevención Riesgos,2025-05-07,2025-05-08,7,Certificado Prevención Riesgos
+210,426,Visual Merchandising,2024-03-18,2024-03-23,20,Certificado Visual Merchandising
+211,274,Liderazgo de equipos,2024-01-24,2024-01-26,15,Certificado Liderazgo de equipos
+212,925,Prevención Riesgos,2024-12-17,2024-12-19,16,Certificado Prevención Riesgos
+213,747,Atención al cliente,2025-05-07,2025-05-08,5,Certificado Atención al cliente
+214,389,Prevención Riesgos,2025-01-19,2025-01-24,13,Certificado Prevención Riesgos
+215,732,Visual Merchandising,2024-08-30,2024-09-02,5,Certificado Visual Merchandising
+216,641,Visual Merchandising,2024-12-11,2024-12-16,13,Certificado Visual Merchandising
+217,985,Visual Merchandising,2024-11-12,2024-11-13,12,Certificado Visual Merchandising
+218,885,Prevención Riesgos,2023-07-19,2023-07-22,11,Certificado Prevención Riesgos
+219,317,Visual Merchandising,2023-07-06,2023-07-11,10,Certificado Visual Merchandising
+220,599,Atención al cliente,2023-08-15,2023-08-16,20,Certificado Atención al cliente
+221,185,Moda Sostenible,2024-02-24,2024-02-26,14,Certificado Moda Sostenible
+222,343,Atención al cliente,2024-07-18,2024-07-23,10,Certificado Atención al cliente
+223,662,Moda Sostenible,2024-04-15,2024-04-16,14,Certificado Moda Sostenible
+224,162,Moda Sostenible,2024-03-14,2024-03-16,19,Certificado Moda Sostenible
+225,917,Liderazgo de equipos,2025-04-01,2025-04-02,20,Certificado Liderazgo de equipos
+226,787,Visual Merchandising,2024-08-30,2024-09-04,7,Certificado Visual Merchandising
+227,618,Atención al cliente,2023-06-27,2023-06-30,10,Certificado Atención al cliente
+228,690,Atención al cliente,2023-08-21,2023-08-23,5,Certificado Atención al cliente
+229,625,Atención al cliente,2025-02-16,2025-02-17,10,Certificado Atención al cliente
+230,886,Moda Sostenible,2023-11-25,2023-11-26,5,Certificado Moda Sostenible
+231,74,Visual Merchandising,2024-02-01,2024-02-02,23,Certificado Visual Merchandising
+232,232,Visual Merchandising,2023-12-25,2023-12-27,17,Certificado Visual Merchandising
+233,309,Gestión de Inventario,2024-10-07,2024-10-10,4,Certificado Gestión de Inventario
+234,708,Moda Sostenible,2024-02-23,2024-02-25,10,Certificado Moda Sostenible
+235,986,Moda Sostenible,2023-10-31,2023-11-01,8,Certificado Moda Sostenible
+236,273,Liderazgo de equipos,2024-09-13,2024-09-18,15,Certificado Liderazgo de equipos
+237,248,Gestión de Inventario,2024-01-15,2024-01-18,10,Certificado Gestión de Inventario
+238,27,Prevención Riesgos,2024-03-17,2024-03-22,9,Certificado Prevención Riesgos
+239,364,Moda Sostenible,2025-05-20,2025-05-23,14,Certificado Moda Sostenible
+240,977,Liderazgo de equipos,2024-05-02,2024-05-05,21,Certificado Liderazgo de equipos
+241,595,Prevención Riesgos,2025-04-08,2025-04-13,15,Certificado Prevención Riesgos
+242,311,Visual Merchandising,2024-10-21,2024-10-26,13,Certificado Visual Merchandising
+243,196,Atención al cliente,2024-01-16,2024-01-19,12,Certificado Atención al cliente
+244,718,Prevención Riesgos,2025-03-14,2025-03-16,4,Certificado Prevención Riesgos
+245,675,Gestión de Inventario,2023-10-14,2023-10-16,4,Certificado Gestión de Inventario
+246,714,Liderazgo de equipos,2025-01-01,2025-01-06,18,Certificado Liderazgo de equipos
+247,878,Moda Sostenible,2023-12-04,2023-12-06,9,Certificado Moda Sostenible
+248,61,Atención al cliente,2025-04-16,2025-04-19,5,Certificado Atención al cliente
+249,291,Gestión de Inventario,2023-12-03,2023-12-05,21,Certificado Gestión de Inventario
+250,474,Moda Sostenible,2023-09-05,2023-09-07,23,Certificado Moda Sostenible
+251,891,Atención al cliente,2023-12-08,2023-12-13,19,Certificado Atención al cliente
+252,912,Visual Merchandising,2024-09-08,2024-09-13,11,Certificado Visual Merchandising
+253,392,Gestión de Inventario,2024-10-28,2024-10-29,8,Certificado Gestión de Inventario
+254,201,Moda Sostenible,2024-12-09,2024-12-14,18,Certificado Moda Sostenible
+255,452,Liderazgo de equipos,2023-10-08,2023-10-10,13,Certificado Liderazgo de equipos
+256,905,Prevención Riesgos,2024-09-11,2024-09-14,16,Certificado Prevención Riesgos
+257,597,Gestión de Inventario,2025-03-02,2025-03-05,9,Certificado Gestión de Inventario
+258,8,Prevención Riesgos,2023-11-29,2023-12-01,6,Certificado Prevención Riesgos
+259,17,Gestión de Inventario,2024-03-25,2024-03-28,18,Certificado Gestión de Inventario
+260,689,Visual Merchandising,2025-05-15,2025-05-20,5,Certificado Visual Merchandising
+261,702,Atención al cliente,2024-10-04,2024-10-05,18,Certificado Atención al cliente
+262,950,Visual Merchandising,2024-10-07,2024-10-08,10,Certificado Visual Merchandising
+263,450,Prevención Riesgos,2024-10-13,2024-10-15,19,Certificado Prevención Riesgos
+264,288,Gestión de Inventario,2023-11-06,2023-11-11,9,Certificado Gestión de Inventario
+265,184,Visual Merchandising,2023-07-09,2023-07-10,24,Certificado Visual Merchandising
+266,523,Moda Sostenible,2023-07-29,2023-07-31,22,Certificado Moda Sostenible
+267,502,Atención al cliente,2025-05-14,2025-05-19,13,Certificado Atención al cliente
+268,112,Gestión de Inventario,2025-04-03,2025-04-08,6,Certificado Gestión de Inventario
+269,474,Moda Sostenible,2024-07-20,2024-07-25,4,Certificado Moda Sostenible
+270,875,Prevención Riesgos,2024-02-25,2024-03-01,17,Certificado Prevención Riesgos
+271,22,Liderazgo de equipos,2025-02-05,2025-02-08,23,Certificado Liderazgo de equipos
+272,250,Gestión de Inventario,2025-02-12,2025-02-15,15,Certificado Gestión de Inventario
+273,539,Liderazgo de equipos,2023-07-17,2023-07-20,9,Certificado Liderazgo de equipos
+274,483,Liderazgo de equipos,2025-03-03,2025-03-04,18,Certificado Liderazgo de equipos
+275,799,Moda Sostenible,2025-03-28,2025-03-29,14,Certificado Moda Sostenible
+276,598,Prevención Riesgos,2023-09-10,2023-09-11,7,Certificado Prevención Riesgos
+277,25,Prevención Riesgos,2023-08-19,2023-08-24,6,Certificado Prevención Riesgos
+278,242,Prevención Riesgos,2024-03-25,2024-03-26,18,Certificado Prevención Riesgos
+279,140,Gestión de Inventario,2023-12-27,2023-12-30,19,Certificado Gestión de Inventario
+280,190,Prevención Riesgos,2025-04-18,2025-04-19,21,Certificado Prevención Riesgos
+281,541,Moda Sostenible,2023-07-19,2023-07-21,10,Certificado Moda Sostenible
+282,205,Prevención Riesgos,2024-02-19,2024-02-22,20,Certificado Prevención Riesgos
+283,254,Prevención Riesgos,2025-01-24,2025-01-27,14,Certificado Prevención Riesgos
+284,709,Prevención Riesgos,2025-05-17,2025-05-18,6,Certificado Prevención Riesgos
+285,212,Atención al cliente,2023-07-01,2023-07-03,18,Certificado Atención al cliente
+286,133,Prevención Riesgos,2023-09-17,2023-09-18,15,Certificado Prevención Riesgos
+287,299,Prevención Riesgos,2025-05-02,2025-05-04,14,Certificado Prevención Riesgos
+288,691,Prevención Riesgos,2025-04-01,2025-04-06,17,Certificado Prevención Riesgos
+289,230,Moda Sostenible,2024-11-09,2024-11-12,13,Certificado Moda Sostenible
+290,516,Visual Merchandising,2024-03-25,2024-03-26,7,Certificado Visual Merchandising
+291,446,Visual Merchandising,2024-01-11,2024-01-12,6,Certificado Visual Merchandising
+292,232,Liderazgo de equipos,2024-08-15,2024-08-18,10,Certificado Liderazgo de equipos
+293,384,Visual Merchandising,2024-05-14,2024-05-17,13,Certificado Visual Merchandising
+294,681,Atención al cliente,2024-03-11,2024-03-14,10,Certificado Atención al cliente
+295,464,Atención al cliente,2024-06-11,2024-06-13,6,Certificado Atención al cliente
+296,107,Visual Merchandising,2024-04-03,2024-04-04,20,Certificado Visual Merchandising
+297,962,Visual Merchandising,2024-10-03,2024-10-04,17,Certificado Visual Merchandising
+298,938,Gestión de Inventario,2024-03-02,2024-03-04,13,Certificado Gestión de Inventario
+299,812,Moda Sostenible,2025-04-26,2025-05-01,16,Certificado Moda Sostenible
+300,677,Atención al cliente,2024-06-11,2024-06-12,11,Certificado Atención al cliente
+301,322,Gestión de Inventario,2023-06-12,2023-06-17,6,Certificado Gestión de Inventario
+302,515,Visual Merchandising,2024-08-19,2024-08-21,4,Certificado Visual Merchandising
+303,301,Gestión de Inventario,2023-08-04,2023-08-07,7,Certificado Gestión de Inventario
+304,53,Prevención Riesgos,2024-02-24,2024-02-27,19,Certificado Prevención Riesgos
+305,33,Moda Sostenible,2023-09-01,2023-09-04,9,Certificado Moda Sostenible
+306,766,Atención al cliente,2024-06-15,2024-06-17,17,Certificado Atención al cliente
+307,156,Moda Sostenible,2023-08-27,2023-08-30,24,Certificado Moda Sostenible
+308,662,Visual Merchandising,2024-09-22,2024-09-25,24,Certificado Visual Merchandising
+309,377,Moda Sostenible,2023-11-20,2023-11-22,16,Certificado Moda Sostenible
+310,471,Liderazgo de equipos,2023-12-03,2023-12-04,16,Certificado Liderazgo de equipos
+311,689,Prevención Riesgos,2023-08-25,2023-08-28,19,Certificado Prevención Riesgos
+312,720,Moda Sostenible,2024-11-13,2024-11-18,19,Certificado Moda Sostenible
+313,455,Liderazgo de equipos,2024-05-25,2024-05-27,24,Certificado Liderazgo de equipos
+314,985,Gestión de Inventario,2024-08-03,2024-08-04,19,Certificado Gestión de Inventario
+315,347,Gestión de Inventario,2023-11-24,2023-11-27,24,Certificado Gestión de Inventario
+316,3,Gestión de Inventario,2025-03-20,2025-03-23,13,Certificado Gestión de Inventario
+317,393,Atención al cliente,2024-06-06,2024-06-09,8,Certificado Atención al cliente
+318,224,Atención al cliente,2024-08-28,2024-08-30,4,Certificado Atención al cliente
+319,799,Gestión de Inventario,2024-08-29,2024-08-31,5,Certificado Gestión de Inventario
+320,109,Liderazgo de equipos,2024-12-21,2024-12-24,24,Certificado Liderazgo de equipos
+321,876,Atención al cliente,2025-01-25,2025-01-27,23,Certificado Atención al cliente
+322,921,Visual Merchandising,2023-08-12,2023-08-17,11,Certificado Visual Merchandising
+323,920,Liderazgo de equipos,2024-12-01,2024-12-02,10,Certificado Liderazgo de equipos
+324,263,Prevención Riesgos,2025-03-17,2025-03-22,15,Certificado Prevención Riesgos
+325,525,Visual Merchandising,2024-05-08,2024-05-09,7,Certificado Visual Merchandising
+326,592,Liderazgo de equipos,2024-05-15,2024-05-17,23,Certificado Liderazgo de equipos
+327,873,Visual Merchandising,2023-12-26,2023-12-28,15,Certificado Visual Merchandising
+328,851,Atención al cliente,2024-01-17,2024-01-22,18,Certificado Atención al cliente
+329,298,Moda Sostenible,2024-01-10,2024-01-13,15,Certificado Moda Sostenible
+330,594,Visual Merchandising,2025-02-26,2025-02-28,20,Certificado Visual Merchandising
+331,903,Atención al cliente,2023-06-12,2023-06-14,4,Certificado Atención al cliente
+332,698,Prevención Riesgos,2024-11-16,2024-11-17,20,Certificado Prevención Riesgos
+333,112,Gestión de Inventario,2025-01-11,2025-01-14,24,Certificado Gestión de Inventario
+334,945,Moda Sostenible,2023-06-27,2023-07-02,11,Certificado Moda Sostenible
+335,301,Liderazgo de equipos,2023-08-19,2023-08-20,22,Certificado Liderazgo de equipos
+336,492,Gestión de Inventario,2024-06-15,2024-06-20,13,Certificado Gestión de Inventario
+337,45,Prevención Riesgos,2024-01-24,2024-01-25,24,Certificado Prevención Riesgos
+338,345,Liderazgo de equipos,2023-11-03,2023-11-05,6,Certificado Liderazgo de equipos
+339,95,Moda Sostenible,2024-12-26,2024-12-27,21,Certificado Moda Sostenible
+340,934,Liderazgo de equipos,2024-06-30,2024-07-05,24,Certificado Liderazgo de equipos
+341,152,Visual Merchandising,2025-05-02,2025-05-05,21,Certificado Visual Merchandising
+342,880,Visual Merchandising,2023-07-23,2023-07-25,12,Certificado Visual Merchandising
+343,744,Liderazgo de equipos,2023-10-30,2023-11-02,5,Certificado Liderazgo de equipos
+344,486,Visual Merchandising,2023-11-20,2023-11-22,6,Certificado Visual Merchandising
+345,641,Gestión de Inventario,2025-04-26,2025-04-27,19,Certificado Gestión de Inventario
+346,226,Gestión de Inventario,2024-05-19,2024-05-20,24,Certificado Gestión de Inventario
+347,146,Visual Merchandising,2025-03-06,2025-03-08,17,Certificado Visual Merchandising
+348,471,Liderazgo de equipos,2024-10-12,2024-10-17,21,Certificado Liderazgo de equipos
+349,417,Visual Merchandising,2024-05-31,2024-06-03,12,Certificado Visual Merchandising
+350,813,Visual Merchandising,2023-10-31,2023-11-02,23,Certificado Visual Merchandising
+351,125,Visual Merchandising,2024-02-22,2024-02-27,5,Certificado Visual Merchandising
+352,671,Prevención Riesgos,2025-01-18,2025-01-19,17,Certificado Prevención Riesgos
+353,688,Liderazgo de equipos,2024-08-14,2024-08-17,13,Certificado Liderazgo de equipos
+354,872,Visual Merchandising,2024-03-06,2024-03-11,18,Certificado Visual Merchandising
+355,240,Liderazgo de equipos,2024-01-04,2024-01-09,12,Certificado Liderazgo de equipos
+356,694,Liderazgo de equipos,2024-12-25,2024-12-30,6,Certificado Liderazgo de equipos
+357,351,Atención al cliente,2023-09-01,2023-09-02,13,Certificado Atención al cliente
+358,69,Atención al cliente,2024-06-03,2024-06-06,13,Certificado Atención al cliente
+359,878,Liderazgo de equipos,2024-01-27,2024-01-30,11,Certificado Liderazgo de equipos
+360,388,Gestión de Inventario,2024-03-04,2024-03-09,24,Certificado Gestión de Inventario
+361,200,Moda Sostenible,2024-07-10,2024-07-15,21,Certificado Moda Sostenible
+362,679,Moda Sostenible,2023-09-28,2023-09-29,16,Certificado Moda Sostenible
+363,273,Visual Merchandising,2024-08-24,2024-08-25,15,Certificado Visual Merchandising
+364,987,Liderazgo de equipos,2025-04-17,2025-04-18,19,Certificado Liderazgo de equipos
+365,564,Liderazgo de equipos,2023-11-02,2023-11-07,13,Certificado Liderazgo de equipos
+366,50,Gestión de Inventario,2025-05-14,2025-05-19,8,Certificado Gestión de Inventario
+367,803,Atención al cliente,2025-02-25,2025-02-27,13,Certificado Atención al cliente
+368,132,Liderazgo de equipos,2024-07-09,2024-07-11,6,Certificado Liderazgo de equipos
+369,319,Moda Sostenible,2023-11-22,2023-11-24,16,Certificado Moda Sostenible
+370,688,Moda Sostenible,2025-04-12,2025-04-17,6,Certificado Moda Sostenible
+371,374,Visual Merchandising,2023-11-08,2023-11-13,4,Certificado Visual Merchandising
+372,845,Gestión de Inventario,2024-10-11,2024-10-12,19,Certificado Gestión de Inventario
+373,809,Liderazgo de equipos,2024-01-05,2024-01-08,11,Certificado Liderazgo de equipos
+374,170,Gestión de Inventario,2025-02-05,2025-02-07,18,Certificado Gestión de Inventario
+375,894,Liderazgo de equipos,2024-01-30,2024-02-02,22,Certificado Liderazgo de equipos
+376,925,Gestión de Inventario,2025-02-07,2025-02-08,24,Certificado Gestión de Inventario
+377,188,Gestión de Inventario,2024-05-19,2024-05-21,6,Certificado Gestión de Inventario
+378,111,Visual Merchandising,2024-04-16,2024-04-17,7,Certificado Visual Merchandising
+379,39,Prevención Riesgos,2025-02-24,2025-02-25,13,Certificado Prevención Riesgos
+380,599,Atención al cliente,2024-01-05,2024-01-10,17,Certificado Atención al cliente
+381,622,Moda Sostenible,2024-09-30,2024-10-03,15,Certificado Moda Sostenible
+382,364,Prevención Riesgos,2024-02-22,2024-02-27,17,Certificado Prevención Riesgos
+383,227,Prevención Riesgos,2025-03-22,2025-03-25,22,Certificado Prevención Riesgos
+384,522,Moda Sostenible,2024-06-04,2024-06-06,23,Certificado Moda Sostenible
+385,120,Moda Sostenible,2024-03-14,2024-03-16,4,Certificado Moda Sostenible
+386,690,Liderazgo de equipos,2023-11-16,2023-11-19,19,Certificado Liderazgo de equipos
+387,725,Moda Sostenible,2024-06-22,2024-06-27,8,Certificado Moda Sostenible
+388,904,Visual Merchandising,2023-11-03,2023-11-06,24,Certificado Visual Merchandising
+389,573,Atención al cliente,2024-08-14,2024-08-16,20,Certificado Atención al cliente
+390,229,Prevención Riesgos,2025-05-15,2025-05-17,14,Certificado Prevención Riesgos
+391,843,Liderazgo de equipos,2024-05-30,2024-06-04,5,Certificado Liderazgo de equipos
+392,210,Moda Sostenible,2024-11-29,2024-12-04,4,Certificado Moda Sostenible
+393,157,Visual Merchandising,2023-10-19,2023-10-24,8,Certificado Visual Merchandising
+394,26,Moda Sostenible,2023-09-06,2023-09-08,11,Certificado Moda Sostenible
+395,337,Visual Merchandising,2025-02-24,2025-02-27,4,Certificado Visual Merchandising
+396,949,Prevención Riesgos,2024-12-05,2024-12-06,5,Certificado Prevención Riesgos
+397,559,Prevención Riesgos,2025-03-30,2025-04-01,12,Certificado Prevención Riesgos
+398,429,Visual Merchandising,2024-12-14,2024-12-19,21,Certificado Visual Merchandising
+399,841,Visual Merchandising,2025-05-09,2025-05-12,18,Certificado Visual Merchandising
+400,44,Moda Sostenible,2024-03-13,2024-03-16,10,Certificado Moda Sostenible
+401,236,Visual Merchandising,2024-09-09,2024-09-14,21,Certificado Visual Merchandising
+402,52,Prevención Riesgos,2025-04-18,2025-04-23,10,Certificado Prevención Riesgos
+403,579,Liderazgo de equipos,2024-12-26,2024-12-28,10,Certificado Liderazgo de equipos
+404,17,Liderazgo de equipos,2025-04-15,2025-04-17,21,Certificado Liderazgo de equipos
+405,786,Prevención Riesgos,2024-07-10,2024-07-15,4,Certificado Prevención Riesgos
+406,233,Moda Sostenible,2025-04-09,2025-04-10,21,Certificado Moda Sostenible
+407,590,Prevención Riesgos,2024-11-27,2024-11-30,12,Certificado Prevención Riesgos
+408,509,Moda Sostenible,2023-06-27,2023-06-30,12,Certificado Moda Sostenible
+409,448,Liderazgo de equipos,2025-05-21,2025-05-24,10,Certificado Liderazgo de equipos
+410,794,Moda Sostenible,2023-10-06,2023-10-11,7,Certificado Moda Sostenible
+411,810,Atención al cliente,2024-02-20,2024-02-23,19,Certificado Atención al cliente
+412,682,Atención al cliente,2024-11-21,2024-11-26,15,Certificado Atención al cliente
+413,83,Visual Merchandising,2024-05-04,2024-05-05,8,Certificado Visual Merchandising
+414,570,Gestión de Inventario,2025-01-28,2025-02-02,15,Certificado Gestión de Inventario
+415,230,Gestión de Inventario,2023-08-01,2023-08-06,10,Certificado Gestión de Inventario
+416,766,Gestión de Inventario,2024-07-01,2024-07-03,5,Certificado Gestión de Inventario
+417,561,Prevención Riesgos,2024-09-10,2024-09-12,4,Certificado Prevención Riesgos
+418,93,Atención al cliente,2025-04-27,2025-04-30,8,Certificado Atención al cliente
+419,998,Prevención Riesgos,2024-04-09,2024-04-11,17,Certificado Prevención Riesgos
+420,392,Liderazgo de equipos,2025-05-19,2025-05-20,13,Certificado Liderazgo de equipos
+421,282,Moda Sostenible,2023-11-05,2023-11-07,9,Certificado Moda Sostenible
+422,427,Liderazgo de equipos,2024-12-16,2024-12-18,18,Certificado Liderazgo de equipos
+423,340,Visual Merchandising,2023-10-06,2023-10-11,21,Certificado Visual Merchandising
+424,355,Moda Sostenible,2023-06-26,2023-06-29,4,Certificado Moda Sostenible
+425,157,Gestión de Inventario,2024-10-31,2024-11-01,17,Certificado Gestión de Inventario
+426,160,Gestión de Inventario,2024-01-23,2024-01-25,8,Certificado Gestión de Inventario
+427,210,Moda Sostenible,2024-10-10,2024-10-11,18,Certificado Moda Sostenible
+428,678,Gestión de Inventario,2024-12-03,2024-12-08,9,Certificado Gestión de Inventario
+429,579,Prevención Riesgos,2025-05-21,2025-05-24,23,Certificado Prevención Riesgos
+430,867,Atención al cliente,2023-11-20,2023-11-23,20,Certificado Atención al cliente
+431,411,Prevención Riesgos,2024-01-21,2024-01-24,16,Certificado Prevención Riesgos
+432,655,Atención al cliente,2024-08-27,2024-09-01,8,Certificado Atención al cliente
+433,847,Liderazgo de equipos,2023-10-29,2023-10-30,4,Certificado Liderazgo de equipos
+434,710,Moda Sostenible,2023-08-16,2023-08-19,22,Certificado Moda Sostenible
+435,309,Atención al cliente,2024-09-05,2024-09-08,24,Certificado Atención al cliente
+436,65,Atención al cliente,2023-09-16,2023-09-19,7,Certificado Atención al cliente
+437,78,Visual Merchandising,2024-05-22,2024-05-23,7,Certificado Visual Merchandising
+438,473,Visual Merchandising,2024-04-16,2024-04-21,10,Certificado Visual Merchandising
+439,181,Prevención Riesgos,2024-03-19,2024-03-24,22,Certificado Prevención Riesgos
+440,381,Atención al cliente,2024-01-02,2024-01-05,4,Certificado Atención al cliente
+441,460,Moda Sostenible,2025-05-02,2025-05-05,11,Certificado Moda Sostenible
+442,861,Atención al cliente,2023-11-08,2023-11-10,13,Certificado Atención al cliente
+443,974,Gestión de Inventario,2025-04-23,2025-04-24,23,Certificado Gestión de Inventario
+444,257,Gestión de Inventario,2024-10-01,2024-10-06,9,Certificado Gestión de Inventario
+445,340,Atención al cliente,2024-04-28,2024-04-29,11,Certificado Atención al cliente
+446,841,Moda Sostenible,2024-09-08,2024-09-13,6,Certificado Moda Sostenible
+447,923,Atención al cliente,2024-12-16,2024-12-21,21,Certificado Atención al cliente
+448,951,Liderazgo de equipos,2024-11-13,2024-11-14,10,Certificado Liderazgo de equipos
+449,690,Prevención Riesgos,2024-03-20,2024-03-25,10,Certificado Prevención Riesgos
+450,479,Prevención Riesgos,2024-06-23,2024-06-25,16,Certificado Prevención Riesgos
+451,710,Atención al cliente,2023-08-30,2023-09-01,24,Certificado Atención al cliente
+452,861,Visual Merchandising,2025-05-22,2025-05-24,24,Certificado Visual Merchandising
+453,129,Moda Sostenible,2023-10-28,2023-10-29,24,Certificado Moda Sostenible
+454,357,Prevención Riesgos,2023-10-15,2023-10-20,24,Certificado Prevención Riesgos
+455,57,Prevención Riesgos,2024-04-30,2024-05-01,15,Certificado Prevención Riesgos
+456,904,Moda Sostenible,2024-09-19,2024-09-24,5,Certificado Moda Sostenible
+457,748,Liderazgo de equipos,2024-02-27,2024-03-03,7,Certificado Liderazgo de equipos
+458,249,Visual Merchandising,2024-04-08,2024-04-11,12,Certificado Visual Merchandising
+459,728,Visual Merchandising,2025-01-05,2025-01-07,13,Certificado Visual Merchandising
+460,198,Moda Sostenible,2024-02-26,2024-02-27,14,Certificado Moda Sostenible
+461,239,Prevención Riesgos,2025-03-25,2025-03-27,11,Certificado Prevención Riesgos
+462,113,Visual Merchandising,2024-03-02,2024-03-07,12,Certificado Visual Merchandising
+463,356,Visual Merchandising,2024-02-02,2024-02-07,12,Certificado Visual Merchandising
+464,972,Gestión de Inventario,2024-08-18,2024-08-23,14,Certificado Gestión de Inventario
+465,190,Gestión de Inventario,2024-04-23,2024-04-26,5,Certificado Gestión de Inventario
+466,492,Gestión de Inventario,2025-04-26,2025-04-27,17,Certificado Gestión de Inventario
+467,372,Visual Merchandising,2024-09-13,2024-09-16,17,Certificado Visual Merchandising
+468,352,Liderazgo de equipos,2025-05-30,2025-06-01,19,Certificado Liderazgo de equipos
+469,688,Visual Merchandising,2025-04-08,2025-04-09,17,Certificado Visual Merchandising
+470,225,Prevención Riesgos,2024-04-09,2024-04-14,11,Certificado Prevención Riesgos
+471,230,Gestión de Inventario,2024-04-16,2024-04-17,15,Certificado Gestión de Inventario
+472,58,Visual Merchandising,2024-12-31,2025-01-03,11,Certificado Visual Merchandising
+473,822,Visual Merchandising,2024-07-18,2024-07-19,20,Certificado Visual Merchandising
+474,60,Prevención Riesgos,2024-10-13,2024-10-16,20,Certificado Prevención Riesgos
+475,390,Gestión de Inventario,2025-03-20,2025-03-23,21,Certificado Gestión de Inventario
+476,603,Gestión de Inventario,2023-12-15,2023-12-20,17,Certificado Gestión de Inventario
+477,325,Atención al cliente,2024-04-05,2024-04-07,11,Certificado Atención al cliente
+478,341,Liderazgo de equipos,2024-04-12,2024-04-17,13,Certificado Liderazgo de equipos
+479,213,Gestión de Inventario,2024-11-17,2024-11-19,20,Certificado Gestión de Inventario
+480,312,Liderazgo de equipos,2024-02-02,2024-02-03,21,Certificado Liderazgo de equipos
+481,821,Liderazgo de equipos,2023-08-01,2023-08-04,5,Certificado Liderazgo de equipos
+482,208,Moda Sostenible,2025-03-31,2025-04-03,24,Certificado Moda Sostenible
+483,432,Liderazgo de equipos,2024-07-22,2024-07-27,8,Certificado Liderazgo de equipos
+484,686,Moda Sostenible,2024-12-16,2024-12-17,22,Certificado Moda Sostenible
+485,307,Liderazgo de equipos,2024-09-29,2024-10-02,10,Certificado Liderazgo de equipos
+486,644,Visual Merchandising,2023-12-10,2023-12-13,21,Certificado Visual Merchandising
+487,100,Moda Sostenible,2025-05-05,2025-05-08,21,Certificado Moda Sostenible
+488,838,Prevención Riesgos,2024-11-03,2024-11-08,14,Certificado Prevención Riesgos
+489,943,Prevención Riesgos,2024-01-21,2024-01-22,7,Certificado Prevención Riesgos
+490,851,Atención al cliente,2023-11-29,2023-12-02,7,Certificado Atención al cliente
+491,908,Atención al cliente,2024-11-11,2024-11-16,18,Certificado Atención al cliente
+492,967,Liderazgo de equipos,2024-03-01,2024-03-06,15,Certificado Liderazgo de equipos
+493,299,Visual Merchandising,2024-12-12,2024-12-17,5,Certificado Visual Merchandising
+494,942,Liderazgo de equipos,2024-02-21,2024-02-23,20,Certificado Liderazgo de equipos
+495,813,Visual Merchandising,2024-05-17,2024-05-22,12,Certificado Visual Merchandising
+496,958,Liderazgo de equipos,2024-11-19,2024-11-20,22,Certificado Liderazgo de equipos
+497,75,Liderazgo de equipos,2024-10-16,2024-10-18,20,Certificado Liderazgo de equipos
+498,714,Gestión de Inventario,2023-08-15,2023-08-18,8,Certificado Gestión de Inventario
+499,55,Atención al cliente,2025-04-10,2025-04-13,24,Certificado Atención al cliente
+500,167,Prevención Riesgos,2025-01-23,2025-01-28,22,Certificado Prevención Riesgos
+501,731,Moda Sostenible,2024-02-05,2024-02-08,23,Certificado Moda Sostenible
+502,561,Prevención Riesgos,2023-10-18,2023-10-20,8,Certificado Prevención Riesgos
+503,646,Liderazgo de equipos,2025-03-02,2025-03-07,22,Certificado Liderazgo de equipos
+504,957,Liderazgo de equipos,2024-01-29,2024-02-01,22,Certificado Liderazgo de equipos
+505,662,Atención al cliente,2025-04-10,2025-04-12,5,Certificado Atención al cliente
+506,514,Prevención Riesgos,2024-09-23,2024-09-26,16,Certificado Prevención Riesgos
+507,355,Prevención Riesgos,2025-05-10,2025-05-12,9,Certificado Prevención Riesgos
+508,877,Gestión de Inventario,2023-10-31,2023-11-02,11,Certificado Gestión de Inventario
+509,354,Atención al cliente,2024-10-27,2024-11-01,21,Certificado Atención al cliente
+510,604,Prevención Riesgos,2024-05-15,2024-05-16,14,Certificado Prevención Riesgos
+511,588,Liderazgo de equipos,2023-12-30,2023-12-31,13,Certificado Liderazgo de equipos
+512,101,Gestión de Inventario,2025-05-17,2025-05-20,15,Certificado Gestión de Inventario
+513,175,Gestión de Inventario,2024-10-12,2024-10-17,7,Certificado Gestión de Inventario
+514,286,Liderazgo de equipos,2023-07-12,2023-07-14,22,Certificado Liderazgo de equipos
+515,759,Moda Sostenible,2023-11-09,2023-11-12,20,Certificado Moda Sostenible
+516,715,Liderazgo de equipos,2025-04-01,2025-04-02,18,Certificado Liderazgo de equipos
+517,78,Moda Sostenible,2024-04-29,2024-05-04,20,Certificado Moda Sostenible
+518,733,Atención al cliente,2024-08-18,2024-08-23,13,Certificado Atención al cliente
+519,776,Gestión de Inventario,2025-04-22,2025-04-25,24,Certificado Gestión de Inventario
+520,767,Atención al cliente,2024-08-17,2024-08-18,10,Certificado Atención al cliente
+521,208,Moda Sostenible,2024-04-07,2024-04-08,24,Certificado Moda Sostenible
+522,176,Moda Sostenible,2024-02-20,2024-02-23,11,Certificado Moda Sostenible
+523,224,Prevención Riesgos,2024-08-09,2024-08-10,4,Certificado Prevención Riesgos
+524,467,Gestión de Inventario,2024-03-19,2024-03-22,9,Certificado Gestión de Inventario
+525,236,Atención al cliente,2024-02-23,2024-02-25,10,Certificado Atención al cliente
+526,599,Visual Merchandising,2024-11-11,2024-11-12,6,Certificado Visual Merchandising
+527,905,Prevención Riesgos,2023-09-28,2023-09-29,15,Certificado Prevención Riesgos
+528,442,Liderazgo de equipos,2025-01-08,2025-01-10,24,Certificado Liderazgo de equipos
+529,4,Liderazgo de equipos,2023-11-02,2023-11-04,18,Certificado Liderazgo de equipos
+530,262,Gestión de Inventario,2025-01-31,2025-02-03,16,Certificado Gestión de Inventario
+531,117,Moda Sostenible,2024-03-23,2024-03-24,20,Certificado Moda Sostenible
+532,752,Prevención Riesgos,2025-04-10,2025-04-15,9,Certificado Prevención Riesgos
+533,85,Visual Merchandising,2023-06-18,2023-06-23,13,Certificado Visual Merchandising
+534,874,Moda Sostenible,2024-12-01,2024-12-06,20,Certificado Moda Sostenible
+535,125,Atención al cliente,2025-01-15,2025-01-17,12,Certificado Atención al cliente
+536,343,Atención al cliente,2024-08-23,2024-08-28,11,Certificado Atención al cliente
+537,603,Moda Sostenible,2023-10-13,2023-10-16,7,Certificado Moda Sostenible
+538,435,Atención al cliente,2024-12-13,2024-12-15,11,Certificado Atención al cliente
+539,803,Visual Merchandising,2025-03-15,2025-03-16,13,Certificado Visual Merchandising
+540,432,Gestión de Inventario,2024-12-30,2025-01-02,8,Certificado Gestión de Inventario
+541,647,Gestión de Inventario,2024-06-19,2024-06-21,5,Certificado Gestión de Inventario
+542,131,Moda Sostenible,2023-10-04,2023-10-06,20,Certificado Moda Sostenible
+543,914,Gestión de Inventario,2025-02-16,2025-02-18,20,Certificado Gestión de Inventario
+544,532,Atención al cliente,2024-11-29,2024-12-01,20,Certificado Atención al cliente
+545,851,Atención al cliente,2024-10-02,2024-10-04,24,Certificado Atención al cliente
+546,889,Prevención Riesgos,2023-10-07,2023-10-10,13,Certificado Prevención Riesgos
+547,513,Visual Merchandising,2025-01-25,2025-01-30,21,Certificado Visual Merchandising
+548,580,Atención al cliente,2023-08-01,2023-08-04,23,Certificado Atención al cliente
+549,464,Visual Merchandising,2025-05-20,2025-05-25,7,Certificado Visual Merchandising
+550,383,Gestión de Inventario,2025-04-23,2025-04-28,4,Certificado Gestión de Inventario
+551,136,Liderazgo de equipos,2024-12-24,2024-12-25,5,Certificado Liderazgo de equipos
+552,146,Liderazgo de equipos,2025-04-16,2025-04-18,20,Certificado Liderazgo de equipos
+553,354,Moda Sostenible,2023-09-26,2023-10-01,22,Certificado Moda Sostenible
+554,790,Atención al cliente,2024-04-01,2024-04-02,18,Certificado Atención al cliente
+555,733,Liderazgo de equipos,2025-01-21,2025-01-26,13,Certificado Liderazgo de equipos
+556,769,Gestión de Inventario,2024-01-02,2024-01-07,23,Certificado Gestión de Inventario
+557,967,Prevención Riesgos,2023-11-19,2023-11-24,10,Certificado Prevención Riesgos
+558,722,Visual Merchandising,2025-02-11,2025-02-12,6,Certificado Visual Merchandising
+559,103,Prevención Riesgos,2024-08-28,2024-09-02,21,Certificado Prevención Riesgos
+560,283,Visual Merchandising,2024-01-18,2024-01-21,11,Certificado Visual Merchandising
+561,213,Atención al cliente,2025-04-10,2025-04-11,7,Certificado Atención al cliente
+562,280,Moda Sostenible,2023-12-13,2023-12-14,14,Certificado Moda Sostenible
+563,333,Prevención Riesgos,2025-02-04,2025-02-05,21,Certificado Prevención Riesgos
+564,866,Visual Merchandising,2023-06-29,2023-07-02,4,Certificado Visual Merchandising
+565,292,Visual Merchandising,2024-04-14,2024-04-15,16,Certificado Visual Merchandising
+566,76,Atención al cliente,2023-11-08,2023-11-11,18,Certificado Atención al cliente
+567,875,Atención al cliente,2023-07-02,2023-07-05,4,Certificado Atención al cliente
+568,561,Gestión de Inventario,2023-06-22,2023-06-25,21,Certificado Gestión de Inventario
+569,264,Prevención Riesgos,2024-03-13,2024-03-16,12,Certificado Prevención Riesgos
+570,593,Moda Sostenible,2024-11-14,2024-11-16,9,Certificado Moda Sostenible
+571,925,Prevención Riesgos,2024-01-20,2024-01-25,13,Certificado Prevención Riesgos
+572,322,Gestión de Inventario,2023-09-16,2023-09-19,12,Certificado Gestión de Inventario
+573,500,Prevención Riesgos,2024-09-19,2024-09-24,17,Certificado Prevención Riesgos
+574,931,Prevención Riesgos,2025-03-15,2025-03-16,17,Certificado Prevención Riesgos
+575,270,Atención al cliente,2023-09-04,2023-09-05,14,Certificado Atención al cliente
+576,978,Visual Merchandising,2024-10-08,2024-10-09,23,Certificado Visual Merchandising
+577,97,Prevención Riesgos,2024-07-06,2024-07-07,6,Certificado Prevención Riesgos
+578,891,Moda Sostenible,2024-10-15,2024-10-20,7,Certificado Moda Sostenible
+579,416,Visual Merchandising,2024-06-01,2024-06-04,23,Certificado Visual Merchandising
+580,409,Atención al cliente,2024-03-17,2024-03-18,8,Certificado Atención al cliente
+581,516,Visual Merchandising,2025-04-27,2025-04-29,18,Certificado Visual Merchandising
+582,170,Moda Sostenible,2023-11-22,2023-11-27,11,Certificado Moda Sostenible
+583,550,Atención al cliente,2024-10-19,2024-10-24,22,Certificado Atención al cliente
+584,700,Atención al cliente,2023-09-30,2023-10-01,4,Certificado Atención al cliente
+585,131,Atención al cliente,2024-01-30,2024-02-02,7,Certificado Atención al cliente
+586,671,Liderazgo de equipos,2024-08-16,2024-08-18,13,Certificado Liderazgo de equipos
+587,288,Prevención Riesgos,2023-09-09,2023-09-12,7,Certificado Prevención Riesgos
+588,349,Gestión de Inventario,2025-01-20,2025-01-23,7,Certificado Gestión de Inventario
+589,131,Liderazgo de equipos,2023-09-11,2023-09-16,9,Certificado Liderazgo de equipos
+590,706,Atención al cliente,2023-10-21,2023-10-23,18,Certificado Atención al cliente
+591,110,Visual Merchandising,2024-02-21,2024-02-22,20,Certificado Visual Merchandising
+592,724,Visual Merchandising,2024-02-05,2024-02-06,18,Certificado Visual Merchandising
+593,554,Moda Sostenible,2024-03-15,2024-03-16,15,Certificado Moda Sostenible
+594,655,Moda Sostenible,2024-05-03,2024-05-08,18,Certificado Moda Sostenible
+595,8,Atención al cliente,2023-08-19,2023-08-24,17,Certificado Atención al cliente
+596,229,Atención al cliente,2024-04-02,2024-04-04,11,Certificado Atención al cliente
+597,247,Atención al cliente,2024-03-13,2024-03-18,23,Certificado Atención al cliente
+598,996,Atención al cliente,2025-05-22,2025-05-25,19,Certificado Atención al cliente
+599,599,Visual Merchandising,2023-10-05,2023-10-10,9,Certificado Visual Merchandising
+600,69,Visual Merchandising,2023-09-16,2023-09-18,11,Certificado Visual Merchandising
+601,153,Atención al cliente,2025-05-05,2025-05-08,9,Certificado Atención al cliente
+602,172,Atención al cliente,2025-01-07,2025-01-12,17,Certificado Atención al cliente
+603,488,Liderazgo de equipos,2025-03-16,2025-03-18,6,Certificado Liderazgo de equipos
+604,310,Atención al cliente,2023-12-27,2023-12-29,19,Certificado Atención al cliente
+605,156,Visual Merchandising,2024-06-17,2024-06-19,6,Certificado Visual Merchandising
+606,222,Gestión de Inventario,2023-10-11,2023-10-12,18,Certificado Gestión de Inventario
+607,912,Moda Sostenible,2023-11-17,2023-11-19,22,Certificado Moda Sostenible
+608,637,Prevención Riesgos,2024-01-26,2024-01-29,14,Certificado Prevención Riesgos
+609,119,Liderazgo de equipos,2023-07-28,2023-08-02,22,Certificado Liderazgo de equipos
+610,44,Liderazgo de equipos,2025-05-24,2025-05-27,4,Certificado Liderazgo de equipos
+611,858,Gestión de Inventario,2023-08-11,2023-08-12,20,Certificado Gestión de Inventario
+612,557,Gestión de Inventario,2024-05-30,2024-06-02,4,Certificado Gestión de Inventario
+613,193,Prevención Riesgos,2023-09-11,2023-09-16,9,Certificado Prevención Riesgos
+614,841,Atención al cliente,2023-12-21,2023-12-24,6,Certificado Atención al cliente
+615,959,Visual Merchandising,2024-05-17,2024-05-19,6,Certificado Visual Merchandising
+616,77,Prevención Riesgos,2024-08-29,2024-08-30,22,Certificado Prevención Riesgos
+617,932,Visual Merchandising,2023-12-24,2023-12-25,19,Certificado Visual Merchandising
+618,276,Visual Merchandising,2024-10-09,2024-10-10,9,Certificado Visual Merchandising
+619,340,Atención al cliente,2023-08-29,2023-08-31,20,Certificado Atención al cliente
+620,354,Gestión de Inventario,2024-03-24,2024-03-25,5,Certificado Gestión de Inventario
+621,303,Gestión de Inventario,2024-12-21,2024-12-24,14,Certificado Gestión de Inventario
+622,385,Liderazgo de equipos,2024-12-12,2024-12-15,15,Certificado Liderazgo de equipos
+623,705,Liderazgo de equipos,2024-05-24,2024-05-26,7,Certificado Liderazgo de equipos
+624,585,Liderazgo de equipos,2025-02-11,2025-02-16,9,Certificado Liderazgo de equipos
+625,455,Prevención Riesgos,2024-01-31,2024-02-05,15,Certificado Prevención Riesgos
+626,473,Liderazgo de equipos,2024-08-08,2024-08-11,14,Certificado Liderazgo de equipos
+627,352,Prevención Riesgos,2024-10-09,2024-10-14,11,Certificado Prevención Riesgos
+628,153,Prevención Riesgos,2024-08-01,2024-08-03,5,Certificado Prevención Riesgos
+629,708,Prevención Riesgos,2025-04-04,2025-04-07,19,Certificado Prevención Riesgos
+630,3,Moda Sostenible,2024-01-06,2024-01-08,11,Certificado Moda Sostenible
+631,620,Liderazgo de equipos,2024-12-01,2024-12-03,11,Certificado Liderazgo de equipos
+632,845,Prevención Riesgos,2024-03-27,2024-04-01,4,Certificado Prevención Riesgos
+633,122,Prevención Riesgos,2025-03-14,2025-03-15,18,Certificado Prevención Riesgos
+634,728,Prevención Riesgos,2024-02-11,2024-02-12,8,Certificado Prevención Riesgos
+635,490,Atención al cliente,2025-01-06,2025-01-09,17,Certificado Atención al cliente
+636,416,Gestión de Inventario,2024-05-28,2024-05-30,8,Certificado Gestión de Inventario
+637,136,Atención al cliente,2023-10-11,2023-10-16,10,Certificado Atención al cliente
+638,980,Liderazgo de equipos,2025-03-09,2025-03-10,12,Certificado Liderazgo de equipos
+639,487,Atención al cliente,2024-02-13,2024-02-15,22,Certificado Atención al cliente
+640,579,Gestión de Inventario,2023-11-19,2023-11-24,13,Certificado Gestión de Inventario
+641,804,Liderazgo de equipos,2024-12-08,2024-12-10,10,Certificado Liderazgo de equipos
+642,769,Liderazgo de equipos,2024-01-06,2024-01-09,14,Certificado Liderazgo de equipos
+643,142,Moda Sostenible,2024-09-03,2024-09-05,4,Certificado Moda Sostenible
+644,662,Liderazgo de equipos,2025-03-12,2025-03-15,14,Certificado Liderazgo de equipos
+645,388,Prevención Riesgos,2025-02-12,2025-02-14,20,Certificado Prevención Riesgos
+646,281,Moda Sostenible,2023-09-05,2023-09-06,8,Certificado Moda Sostenible
+647,372,Gestión de Inventario,2023-10-16,2023-10-17,4,Certificado Gestión de Inventario
+648,208,Liderazgo de equipos,2024-08-08,2024-08-11,8,Certificado Liderazgo de equipos
+649,461,Moda Sostenible,2024-09-01,2024-09-04,10,Certificado Moda Sostenible
+650,73,Gestión de Inventario,2023-08-27,2023-09-01,22,Certificado Gestión de Inventario
+651,141,Moda Sostenible,2024-02-11,2024-02-13,15,Certificado Moda Sostenible
+652,645,Moda Sostenible,2023-11-29,2023-11-30,6,Certificado Moda Sostenible
+653,970,Prevención Riesgos,2024-01-24,2024-01-27,15,Certificado Prevención Riesgos
+654,608,Visual Merchandising,2025-03-23,2025-03-26,8,Certificado Visual Merchandising
+655,549,Atención al cliente,2024-12-13,2024-12-15,13,Certificado Atención al cliente
+656,953,Visual Merchandising,2024-11-02,2024-11-04,4,Certificado Visual Merchandising
+657,1,Atención al cliente,2023-06-21,2023-06-24,20,Certificado Atención al cliente
+658,902,Visual Merchandising,2024-09-09,2024-09-14,17,Certificado Visual Merchandising
+659,550,Moda Sostenible,2024-07-13,2024-07-14,8,Certificado Moda Sostenible
+660,931,Liderazgo de equipos,2024-01-22,2024-01-27,8,Certificado Liderazgo de equipos
+661,179,Moda Sostenible,2024-10-17,2024-10-19,18,Certificado Moda Sostenible
+662,505,Liderazgo de equipos,2023-08-12,2023-08-14,16,Certificado Liderazgo de equipos
+663,104,Liderazgo de equipos,2025-02-09,2025-02-14,7,Certificado Liderazgo de equipos
+664,420,Gestión de Inventario,2024-01-17,2024-01-18,10,Certificado Gestión de Inventario
+665,604,Liderazgo de equipos,2024-11-04,2024-11-07,22,Certificado Liderazgo de equipos
+666,270,Visual Merchandising,2024-11-22,2024-11-27,15,Certificado Visual Merchandising
+667,435,Prevención Riesgos,2024-10-25,2024-10-30,9,Certificado Prevención Riesgos
+668,962,Moda Sostenible,2025-02-22,2025-02-24,18,Certificado Moda Sostenible
+669,502,Moda Sostenible,2024-07-07,2024-07-12,18,Certificado Moda Sostenible
+670,531,Visual Merchandising,2024-04-22,2024-04-27,14,Certificado Visual Merchandising
+671,815,Visual Merchandising,2023-10-02,2023-10-05,13,Certificado Visual Merchandising
+672,193,Prevención Riesgos,2024-02-17,2024-02-20,14,Certificado Prevención Riesgos
+673,547,Visual Merchandising,2024-12-09,2024-12-11,9,Certificado Visual Merchandising
+674,667,Gestión de Inventario,2024-05-31,2024-06-03,8,Certificado Gestión de Inventario
+675,324,Liderazgo de equipos,2024-02-08,2024-02-13,21,Certificado Liderazgo de equipos
+676,739,Visual Merchandising,2025-04-09,2025-04-12,14,Certificado Visual Merchandising
+677,302,Prevención Riesgos,2023-11-15,2023-11-16,24,Certificado Prevención Riesgos
+678,990,Prevención Riesgos,2024-03-19,2024-03-21,14,Certificado Prevención Riesgos
+679,1000,Visual Merchandising,2024-05-20,2024-05-22,16,Certificado Visual Merchandising
+680,751,Atención al cliente,2023-12-19,2023-12-22,13,Certificado Atención al cliente
+681,401,Gestión de Inventario,2025-01-10,2025-01-12,23,Certificado Gestión de Inventario
+682,706,Moda Sostenible,2024-03-15,2024-03-17,15,Certificado Moda Sostenible
+683,684,Visual Merchandising,2023-12-11,2023-12-12,19,Certificado Visual Merchandising
+684,441,Moda Sostenible,2023-06-16,2023-06-19,20,Certificado Moda Sostenible
+685,56,Atención al cliente,2024-02-10,2024-02-15,18,Certificado Atención al cliente
+686,993,Liderazgo de equipos,2023-08-02,2023-08-04,5,Certificado Liderazgo de equipos
+687,699,Atención al cliente,2024-04-08,2024-04-10,6,Certificado Atención al cliente
+688,8,Liderazgo de equipos,2023-07-31,2023-08-02,6,Certificado Liderazgo de equipos
+689,483,Prevención Riesgos,2024-04-09,2024-04-11,19,Certificado Prevención Riesgos
+690,482,Moda Sostenible,2024-02-16,2024-02-17,24,Certificado Moda Sostenible
+691,941,Prevención Riesgos,2023-07-16,2023-07-19,5,Certificado Prevención Riesgos
+692,892,Gestión de Inventario,2024-02-22,2024-02-25,9,Certificado Gestión de Inventario
+693,788,Moda Sostenible,2023-07-02,2023-07-07,13,Certificado Moda Sostenible
+694,445,Gestión de Inventario,2024-01-12,2024-01-14,10,Certificado Gestión de Inventario
+695,628,Prevención Riesgos,2024-03-14,2024-03-19,24,Certificado Prevención Riesgos
+696,152,Visual Merchandising,2024-03-09,2024-03-10,17,Certificado Visual Merchandising
+697,351,Liderazgo de equipos,2024-05-18,2024-05-21,14,Certificado Liderazgo de equipos
+698,838,Moda Sostenible,2025-02-08,2025-02-10,14,Certificado Moda Sostenible
+699,968,Moda Sostenible,2024-06-07,2024-06-12,5,Certificado Moda Sostenible
+700,54,Prevención Riesgos,2024-01-30,2024-02-02,15,Certificado Prevención Riesgos
+701,377,Gestión de Inventario,2025-01-15,2025-01-16,20,Certificado Gestión de Inventario
+702,802,Gestión de Inventario,2025-04-03,2025-04-08,17,Certificado Gestión de Inventario
+703,97,Moda Sostenible,2023-11-30,2023-12-05,5,Certificado Moda Sostenible
+704,308,Gestión de Inventario,2023-10-07,2023-10-10,21,Certificado Gestión de Inventario
+705,506,Liderazgo de equipos,2025-01-24,2025-01-25,21,Certificado Liderazgo de equipos
+706,682,Atención al cliente,2024-08-10,2024-08-15,6,Certificado Atención al cliente
+707,509,Moda Sostenible,2024-07-30,2024-07-31,15,Certificado Moda Sostenible
+708,359,Atención al cliente,2024-08-10,2024-08-15,16,Certificado Atención al cliente
+709,763,Moda Sostenible,2024-06-23,2024-06-26,6,Certificado Moda Sostenible
+710,508,Gestión de Inventario,2024-02-14,2024-02-16,14,Certificado Gestión de Inventario
+711,724,Liderazgo de equipos,2024-10-08,2024-10-10,14,Certificado Liderazgo de equipos
+712,265,Gestión de Inventario,2025-02-17,2025-02-18,7,Certificado Gestión de Inventario
+713,285,Moda Sostenible,2025-02-20,2025-02-23,12,Certificado Moda Sostenible
+714,163,Liderazgo de equipos,2024-01-20,2024-01-22,9,Certificado Liderazgo de equipos
+715,981,Moda Sostenible,2024-10-07,2024-10-09,6,Certificado Moda Sostenible
+716,490,Moda Sostenible,2025-05-14,2025-05-19,24,Certificado Moda Sostenible
+717,322,Atención al cliente,2025-04-01,2025-04-03,8,Certificado Atención al cliente
+718,951,Liderazgo de equipos,2024-12-16,2024-12-18,16,Certificado Liderazgo de equipos
+719,323,Prevención Riesgos,2024-05-04,2024-05-06,22,Certificado Prevención Riesgos
+720,520,Prevención Riesgos,2024-04-21,2024-04-26,21,Certificado Prevención Riesgos
+721,240,Moda Sostenible,2023-10-09,2023-10-14,14,Certificado Moda Sostenible
+722,823,Liderazgo de equipos,2025-03-09,2025-03-10,19,Certificado Liderazgo de equipos
+723,916,Atención al cliente,2024-01-02,2024-01-05,9,Certificado Atención al cliente
+724,645,Liderazgo de equipos,2023-09-12,2023-09-14,6,Certificado Liderazgo de equipos
+725,774,Visual Merchandising,2025-01-30,2025-02-04,24,Certificado Visual Merchandising
+726,747,Visual Merchandising,2024-11-24,2024-11-25,21,Certificado Visual Merchandising
+727,27,Atención al cliente,2025-05-16,2025-05-18,9,Certificado Atención al cliente
+728,880,Moda Sostenible,2024-06-19,2024-06-21,14,Certificado Moda Sostenible
+729,667,Moda Sostenible,2024-02-22,2024-02-27,22,Certificado Moda Sostenible
+730,642,Prevención Riesgos,2023-12-06,2023-12-11,8,Certificado Prevención Riesgos
+731,827,Atención al cliente,2024-02-04,2024-02-06,9,Certificado Atención al cliente
+732,865,Liderazgo de equipos,2024-05-23,2024-05-26,8,Certificado Liderazgo de equipos
+733,846,Moda Sostenible,2024-07-19,2024-07-20,11,Certificado Moda Sostenible
+734,333,Visual Merchandising,2024-04-18,2024-04-23,14,Certificado Visual Merchandising
+735,844,Visual Merchandising,2025-05-17,2025-05-22,13,Certificado Visual Merchandising
+736,371,Liderazgo de equipos,2025-04-18,2025-04-23,12,Certificado Liderazgo de equipos
+737,464,Liderazgo de equipos,2024-02-17,2024-02-18,16,Certificado Liderazgo de equipos
+738,250,Atención al cliente,2024-01-19,2024-01-24,8,Certificado Atención al cliente
+739,205,Prevención Riesgos,2025-01-04,2025-01-07,5,Certificado Prevención Riesgos
+740,507,Moda Sostenible,2023-10-23,2023-10-25,21,Certificado Moda Sostenible
+741,29,Liderazgo de equipos,2024-04-05,2024-04-10,23,Certificado Liderazgo de equipos
+742,108,Liderazgo de equipos,2024-09-14,2024-09-16,18,Certificado Liderazgo de equipos
+743,31,Atención al cliente,2025-01-13,2025-01-14,11,Certificado Atención al cliente
+744,529,Atención al cliente,2025-03-17,2025-03-22,21,Certificado Atención al cliente
+745,700,Atención al cliente,2023-09-28,2023-09-30,15,Certificado Atención al cliente
+746,286,Moda Sostenible,2024-08-27,2024-09-01,19,Certificado Moda Sostenible
+747,389,Liderazgo de equipos,2024-01-28,2024-01-29,19,Certificado Liderazgo de equipos
+748,616,Visual Merchandising,2024-09-14,2024-09-16,13,Certificado Visual Merchandising
+749,418,Visual Merchandising,2023-08-07,2023-08-08,5,Certificado Visual Merchandising
+750,311,Visual Merchandising,2023-07-11,2023-07-13,18,Certificado Visual Merchandising
+751,425,Prevención Riesgos,2024-04-04,2024-04-07,16,Certificado Prevención Riesgos
+752,543,Atención al cliente,2023-10-24,2023-10-26,12,Certificado Atención al cliente
+753,995,Liderazgo de equipos,2023-12-29,2024-01-03,7,Certificado Liderazgo de equipos
+754,751,Moda Sostenible,2024-04-04,2024-04-07,6,Certificado Moda Sostenible
+755,885,Liderazgo de equipos,2023-08-08,2023-08-13,5,Certificado Liderazgo de equipos
+756,385,Gestión de Inventario,2025-02-15,2025-02-16,19,Certificado Gestión de Inventario
+757,885,Gestión de Inventario,2024-10-28,2024-10-30,19,Certificado Gestión de Inventario
+758,590,Prevención Riesgos,2023-10-21,2023-10-22,18,Certificado Prevención Riesgos
+759,621,Moda Sostenible,2023-11-24,2023-11-29,4,Certificado Moda Sostenible
+760,420,Liderazgo de equipos,2024-09-22,2024-09-23,21,Certificado Liderazgo de equipos
+761,992,Atención al cliente,2025-02-16,2025-02-17,20,Certificado Atención al cliente
+762,713,Prevención Riesgos,2025-01-15,2025-01-17,20,Certificado Prevención Riesgos
+763,701,Liderazgo de equipos,2024-03-28,2024-03-30,13,Certificado Liderazgo de equipos
+764,286,Atención al cliente,2023-10-05,2023-10-08,14,Certificado Atención al cliente
+765,635,Visual Merchandising,2024-06-10,2024-06-11,9,Certificado Visual Merchandising
+766,677,Moda Sostenible,2024-02-26,2024-02-27,22,Certificado Moda Sostenible
+767,651,Gestión de Inventario,2024-10-06,2024-10-08,5,Certificado Gestión de Inventario
+768,5,Moda Sostenible,2025-02-24,2025-03-01,6,Certificado Moda Sostenible
+769,246,Atención al cliente,2024-10-27,2024-10-28,19,Certificado Atención al cliente
+770,692,Visual Merchandising,2025-05-30,2025-06-04,7,Certificado Visual Merchandising
+771,387,Moda Sostenible,2023-09-23,2023-09-25,20,Certificado Moda Sostenible
+772,190,Gestión de Inventario,2023-07-04,2023-07-07,12,Certificado Gestión de Inventario
+773,334,Liderazgo de equipos,2024-01-18,2024-01-23,7,Certificado Liderazgo de equipos
+774,817,Prevención Riesgos,2023-08-25,2023-08-26,18,Certificado Prevención Riesgos
+775,637,Visual Merchandising,2023-10-27,2023-10-30,15,Certificado Visual Merchandising
+776,841,Gestión de Inventario,2025-01-12,2025-01-13,9,Certificado Gestión de Inventario
+777,101,Moda Sostenible,2023-07-18,2023-07-20,22,Certificado Moda Sostenible
+778,156,Moda Sostenible,2024-10-01,2024-10-04,17,Certificado Moda Sostenible
+779,779,Prevención Riesgos,2024-06-19,2024-06-24,22,Certificado Prevención Riesgos
+780,559,Moda Sostenible,2024-08-30,2024-09-04,8,Certificado Moda Sostenible
+781,476,Gestión de Inventario,2024-10-27,2024-11-01,20,Certificado Gestión de Inventario
+782,240,Atención al cliente,2023-06-20,2023-06-23,5,Certificado Atención al cliente
+783,710,Liderazgo de equipos,2024-06-25,2024-06-27,9,Certificado Liderazgo de equipos
+784,902,Moda Sostenible,2024-07-15,2024-07-16,12,Certificado Moda Sostenible
+785,789,Gestión de Inventario,2025-03-03,2025-03-05,8,Certificado Gestión de Inventario
+786,122,Liderazgo de equipos,2024-11-13,2024-11-18,19,Certificado Liderazgo de equipos
+787,309,Gestión de Inventario,2023-10-19,2023-10-24,22,Certificado Gestión de Inventario
+788,9,Prevención Riesgos,2024-09-18,2024-09-21,18,Certificado Prevención Riesgos
+789,170,Moda Sostenible,2023-11-02,2023-11-05,22,Certificado Moda Sostenible
+790,560,Moda Sostenible,2024-04-09,2024-04-12,9,Certificado Moda Sostenible
+791,141,Moda Sostenible,2025-03-23,2025-03-26,9,Certificado Moda Sostenible
+792,785,Liderazgo de equipos,2024-07-24,2024-07-27,14,Certificado Liderazgo de equipos
+793,27,Prevención Riesgos,2024-12-06,2024-12-08,6,Certificado Prevención Riesgos
+794,820,Atención al cliente,2024-12-01,2024-12-06,7,Certificado Atención al cliente
+795,904,Liderazgo de equipos,2023-09-01,2023-09-03,24,Certificado Liderazgo de equipos
+796,693,Visual Merchandising,2023-09-28,2023-10-01,6,Certificado Visual Merchandising
+797,41,Liderazgo de equipos,2024-08-02,2024-08-07,10,Certificado Liderazgo de equipos
+798,116,Liderazgo de equipos,2024-07-20,2024-07-23,7,Certificado Liderazgo de equipos
+799,13,Prevención Riesgos,2025-03-09,2025-03-12,13,Certificado Prevención Riesgos
+800,547,Moda Sostenible,2023-07-19,2023-07-21,21,Certificado Moda Sostenible
+801,556,Moda Sostenible,2024-08-12,2024-08-13,7,Certificado Moda Sostenible
+802,826,Prevención Riesgos,2023-08-17,2023-08-20,15,Certificado Prevención Riesgos
+803,715,Liderazgo de equipos,2024-07-18,2024-07-19,9,Certificado Liderazgo de equipos
+804,493,Prevención Riesgos,2023-08-29,2023-08-30,7,Certificado Prevención Riesgos
+805,787,Gestión de Inventario,2023-07-15,2023-07-17,23,Certificado Gestión de Inventario
+806,913,Liderazgo de equipos,2023-08-12,2023-08-13,17,Certificado Liderazgo de equipos
+807,518,Moda Sostenible,2024-02-20,2024-02-22,23,Certificado Moda Sostenible
+808,238,Moda Sostenible,2023-08-07,2023-08-10,4,Certificado Moda Sostenible
+809,281,Gestión de Inventario,2024-06-04,2024-06-07,17,Certificado Gestión de Inventario
+810,732,Gestión de Inventario,2024-08-03,2024-08-08,18,Certificado Gestión de Inventario
+811,683,Liderazgo de equipos,2023-10-24,2023-10-25,13,Certificado Liderazgo de equipos
+812,914,Moda Sostenible,2025-03-13,2025-03-18,6,Certificado Moda Sostenible
+813,679,Prevención Riesgos,2023-08-23,2023-08-26,17,Certificado Prevención Riesgos
+814,228,Gestión de Inventario,2023-06-18,2023-06-21,12,Certificado Gestión de Inventario
+815,693,Moda Sostenible,2024-02-27,2024-02-28,22,Certificado Moda Sostenible
+816,129,Atención al cliente,2023-09-19,2023-09-22,12,Certificado Atención al cliente
+817,498,Liderazgo de equipos,2024-02-19,2024-02-22,5,Certificado Liderazgo de equipos
+818,576,Liderazgo de equipos,2024-08-10,2024-08-13,13,Certificado Liderazgo de equipos
+819,725,Liderazgo de equipos,2025-01-28,2025-02-02,24,Certificado Liderazgo de equipos
+820,250,Moda Sostenible,2023-10-24,2023-10-29,6,Certificado Moda Sostenible
+821,588,Visual Merchandising,2024-02-09,2024-02-12,24,Certificado Visual Merchandising
+822,659,Liderazgo de equipos,2023-08-01,2023-08-03,19,Certificado Liderazgo de equipos
+823,150,Visual Merchandising,2023-08-28,2023-08-30,15,Certificado Visual Merchandising
+824,716,Atención al cliente,2023-11-02,2023-11-04,8,Certificado Atención al cliente
+825,954,Liderazgo de equipos,2024-01-07,2024-01-09,20,Certificado Liderazgo de equipos
+826,606,Gestión de Inventario,2024-04-18,2024-04-23,4,Certificado Gestión de Inventario
+827,619,Prevención Riesgos,2025-03-17,2025-03-22,20,Certificado Prevención Riesgos
+828,151,Liderazgo de equipos,2023-07-24,2023-07-26,7,Certificado Liderazgo de equipos
+829,22,Liderazgo de equipos,2025-01-05,2025-01-10,15,Certificado Liderazgo de equipos
+830,282,Liderazgo de equipos,2023-09-26,2023-09-29,11,Certificado Liderazgo de equipos
+831,681,Liderazgo de equipos,2025-05-20,2025-05-21,14,Certificado Liderazgo de equipos
+832,483,Gestión de Inventario,2023-10-10,2023-10-15,14,Certificado Gestión de Inventario
+833,131,Prevención Riesgos,2023-09-04,2023-09-07,22,Certificado Prevención Riesgos
+834,917,Liderazgo de equipos,2024-04-18,2024-04-19,6,Certificado Liderazgo de equipos
+835,592,Moda Sostenible,2023-12-01,2023-12-06,6,Certificado Moda Sostenible
+836,151,Moda Sostenible,2023-12-05,2023-12-10,9,Certificado Moda Sostenible
+837,910,Visual Merchandising,2023-11-26,2023-11-29,20,Certificado Visual Merchandising
+838,466,Prevención Riesgos,2025-01-02,2025-01-03,21,Certificado Prevención Riesgos
+839,377,Liderazgo de equipos,2024-08-04,2024-08-09,4,Certificado Liderazgo de equipos
+840,324,Prevención Riesgos,2023-08-09,2023-08-14,13,Certificado Prevención Riesgos
+841,396,Visual Merchandising,2024-11-26,2024-12-01,21,Certificado Visual Merchandising
+842,542,Prevención Riesgos,2023-11-05,2023-11-10,8,Certificado Prevención Riesgos
+843,445,Visual Merchandising,2023-09-23,2023-09-28,19,Certificado Visual Merchandising
+844,921,Liderazgo de equipos,2024-11-18,2024-11-20,7,Certificado Liderazgo de equipos
+845,632,Gestión de Inventario,2024-11-23,2024-11-26,7,Certificado Gestión de Inventario
+846,191,Moda Sostenible,2024-11-04,2024-11-06,23,Certificado Moda Sostenible
+847,963,Liderazgo de equipos,2023-12-09,2023-12-14,17,Certificado Liderazgo de equipos
+848,13,Visual Merchandising,2023-06-24,2023-06-27,21,Certificado Visual Merchandising
+849,292,Prevención Riesgos,2025-04-04,2025-04-07,5,Certificado Prevención Riesgos
+850,737,Liderazgo de equipos,2024-07-31,2024-08-01,4,Certificado Liderazgo de equipos
+851,89,Gestión de Inventario,2024-12-01,2024-12-02,16,Certificado Gestión de Inventario
+852,319,Liderazgo de equipos,2024-03-11,2024-03-14,17,Certificado Liderazgo de equipos
+853,48,Prevención Riesgos,2024-07-02,2024-07-05,23,Certificado Prevención Riesgos
+854,652,Gestión de Inventario,2023-08-19,2023-08-24,13,Certificado Gestión de Inventario
+855,139,Visual Merchandising,2025-01-18,2025-01-20,10,Certificado Visual Merchandising
+856,807,Visual Merchandising,2025-01-03,2025-01-08,17,Certificado Visual Merchandising
+857,450,Atención al cliente,2024-04-06,2024-04-11,14,Certificado Atención al cliente
+858,836,Liderazgo de equipos,2025-03-16,2025-03-18,9,Certificado Liderazgo de equipos
+859,671,Atención al cliente,2025-04-07,2025-04-09,15,Certificado Atención al cliente
+860,254,Gestión de Inventario,2023-12-13,2023-12-15,10,Certificado Gestión de Inventario
+861,677,Gestión de Inventario,2023-10-24,2023-10-29,12,Certificado Gestión de Inventario
+862,36,Prevención Riesgos,2024-12-21,2024-12-22,9,Certificado Prevención Riesgos
+863,591,Atención al cliente,2024-06-03,2024-06-04,16,Certificado Atención al cliente
+864,138,Moda Sostenible,2023-07-13,2023-07-15,20,Certificado Moda Sostenible
+865,369,Visual Merchandising,2023-09-11,2023-09-13,16,Certificado Visual Merchandising
+866,573,Moda Sostenible,2023-07-04,2023-07-06,9,Certificado Moda Sostenible
+867,898,Visual Merchandising,2025-04-15,2025-04-16,11,Certificado Visual Merchandising
+868,823,Prevención Riesgos,2023-06-16,2023-06-21,21,Certificado Prevención Riesgos
+869,918,Atención al cliente,2024-01-23,2024-01-24,11,Certificado Atención al cliente
+870,138,Liderazgo de equipos,2024-12-29,2025-01-01,15,Certificado Liderazgo de equipos
+871,719,Atención al cliente,2023-11-10,2023-11-15,17,Certificado Atención al cliente
+872,556,Moda Sostenible,2023-10-15,2023-10-20,11,Certificado Moda Sostenible
+873,786,Gestión de Inventario,2023-08-18,2023-08-23,24,Certificado Gestión de Inventario
+874,426,Gestión de Inventario,2023-12-25,2023-12-27,8,Certificado Gestión de Inventario
+875,70,Prevención Riesgos,2024-07-12,2024-07-13,23,Certificado Prevención Riesgos
+876,371,Atención al cliente,2024-05-22,2024-05-23,18,Certificado Atención al cliente
+877,442,Visual Merchandising,2024-07-15,2024-07-20,10,Certificado Visual Merchandising
+878,389,Moda Sostenible,2023-07-07,2023-07-09,17,Certificado Moda Sostenible
+879,243,Liderazgo de equipos,2023-12-04,2023-12-05,12,Certificado Liderazgo de equipos
+880,21,Visual Merchandising,2023-06-19,2023-06-24,4,Certificado Visual Merchandising
+881,791,Prevención Riesgos,2024-01-17,2024-01-19,5,Certificado Prevención Riesgos
+882,534,Moda Sostenible,2024-12-20,2024-12-22,15,Certificado Moda Sostenible
+883,532,Gestión de Inventario,2025-05-07,2025-05-08,17,Certificado Gestión de Inventario
+884,85,Visual Merchandising,2024-01-12,2024-01-17,11,Certificado Visual Merchandising
+885,851,Moda Sostenible,2023-08-02,2023-08-07,7,Certificado Moda Sostenible
+886,337,Gestión de Inventario,2023-09-09,2023-09-11,14,Certificado Gestión de Inventario
+887,204,Prevención Riesgos,2024-09-06,2024-09-07,21,Certificado Prevención Riesgos
+888,690,Gestión de Inventario,2024-07-31,2024-08-03,11,Certificado Gestión de Inventario
+889,164,Liderazgo de equipos,2025-05-07,2025-05-09,19,Certificado Liderazgo de equipos
+890,373,Visual Merchandising,2024-01-28,2024-01-29,4,Certificado Visual Merchandising
+891,684,Gestión de Inventario,2023-08-21,2023-08-24,5,Certificado Gestión de Inventario
+892,375,Moda Sostenible,2023-08-09,2023-08-14,16,Certificado Moda Sostenible
+893,170,Visual Merchandising,2023-11-08,2023-11-09,9,Certificado Visual Merchandising
+894,692,Prevención Riesgos,2023-12-18,2023-12-23,15,Certificado Prevención Riesgos
+895,780,Moda Sostenible,2025-05-16,2025-05-21,24,Certificado Moda Sostenible
+896,120,Visual Merchandising,2024-12-28,2024-12-31,22,Certificado Visual Merchandising
+897,406,Atención al cliente,2024-06-28,2024-06-29,16,Certificado Atención al cliente
+898,897,Prevención Riesgos,2024-08-05,2024-08-06,19,Certificado Prevención Riesgos
+899,264,Gestión de Inventario,2024-02-21,2024-02-22,11,Certificado Gestión de Inventario
+900,431,Visual Merchandising,2023-09-30,2023-10-01,15,Certificado Visual Merchandising

@@ -1,0 +1,801 @@
+ID_Ausencia,ID_Empleado,Fecha_Inicio,Fecha_Fin,Tipo_Ausencia,Comentario
+1,978,2025-06-10,2025-06-11,Enfermedad,Hic aperiam eos aliquam.
+2,348,2024-12-15,2024-12-18,Vacaciones,Consequatur totam provident tempora.
+3,444,2024-09-12,2024-09-13,Vacaciones,Aperiam earum vel ducimus.
+4,641,2024-06-23,2024-06-28,Enfermedad,Minus esse eos totam.
+5,101,2025-04-30,2025-05-05,Vacaciones,Ut accusantium nemo exercitationem.
+6,535,2024-09-21,2024-09-22,Permiso,Nesciunt praesentium ipsa repellendus earum.
+7,574,2025-04-13,2025-04-18,Vacaciones,Unde in nemo voluptatem.
+8,718,2024-11-16,2024-11-21,Enfermedad,Ea ut beatae et commodi sit.
+9,428,2024-12-18,2024-12-19,Vacaciones,Dolore qui nostrum quidem in id sed.
+10,15,2025-03-11,2025-03-12,Vacaciones,Voluptatem totam dolorem sed incidunt.
+11,906,2024-11-05,2024-11-06,Vacaciones,Quod iusto animi nostrum similique accusamus incidunt.
+12,605,2024-09-12,2024-09-17,No justificada,Nemo perferendis a voluptatibus quidem suscipit.
+13,736,2025-01-18,2025-01-20,Permiso,Rerum excepturi porro nemo aliquid aut dolore.
+14,178,2024-10-02,2024-10-07,Enfermedad,Velit aperiam soluta eius.
+15,563,2025-03-30,2025-04-03,Vacaciones,Est quibusdam dolore debitis deserunt dolor saepe in.
+16,142,2025-01-30,2025-01-31,Vacaciones,Repudiandae ab laboriosam asperiores quam aut possimus.
+17,579,2025-01-07,2025-01-09,Permiso,Commodi illum dolorem provident consequatur asperiores quasi numquam.
+18,128,2024-09-21,2024-09-25,Enfermedad,Quidem minus expedita vero numquam natus sequi fugit.
+19,364,2024-10-11,2024-10-13,Vacaciones,Exercitationem qui voluptatem itaque nulla quas.
+20,93,2024-11-20,2024-11-23,Enfermedad,Nam facilis veritatis rerum error.
+21,526,2024-10-10,2024-10-14,Enfermedad,Enim exercitationem vero quaerat asperiores modi exercitationem earum.
+22,443,2025-04-15,2025-04-19,Enfermedad,Facilis nulla consequuntur.
+23,767,2025-02-21,2025-02-25,Enfermedad,Error ex odio aliquid.
+24,180,2024-12-16,2024-12-17,Vacaciones,Excepturi impedit ea animi nobis qui quidem.
+25,974,2024-07-26,2024-07-28,Enfermedad,Doloribus harum qui in.
+26,305,2024-07-21,2024-07-26,Enfermedad,Corrupti nemo mollitia nesciunt.
+27,79,2025-01-15,2025-01-17,Vacaciones,Accusamus quis repudiandae soluta.
+28,358,2024-10-17,2024-10-22,Permiso,Tenetur sit nulla corporis dolorum.
+29,331,2024-07-29,2024-07-31,Enfermedad,Aliquam commodi laborum dicta omnis harum ea.
+30,364,2024-07-11,2024-07-15,Enfermedad,Ad rem iusto officia quas.
+31,222,2024-08-21,2024-08-24,Vacaciones,Dolorem provident omnis veniam accusantium repellendus corrupti.
+32,243,2024-10-18,2024-10-21,Permiso,Rerum corrupti alias officiis.
+33,357,2024-10-18,2024-10-19,Permiso,Facere quis consequatur totam reprehenderit ad possimus alias.
+34,944,2024-10-31,2024-11-02,Vacaciones,Sit sunt suscipit placeat velit tempore.
+35,30,2024-08-25,2024-08-29,Vacaciones,Beatae ipsum vero eum beatae fugiat.
+36,297,2024-07-28,2024-07-31,Vacaciones,Corrupti autem minima pariatur laudantium.
+37,729,2025-04-28,2025-04-29,Enfermedad,Et animi dolor doloribus.
+38,628,2024-11-28,2024-12-02,Vacaciones,Ratione eius consequuntur adipisci similique eum alias.
+39,355,2024-11-03,2024-11-05,Enfermedad,Quae qui reprehenderit ex fuga ex minima maiores.
+40,728,2025-04-06,2025-04-07,Vacaciones,Accusantium vel quae.
+41,48,2024-12-17,2024-12-19,Permiso,Nisi id possimus deleniti dolorum neque.
+42,843,2024-11-06,2024-11-07,Enfermedad,Accusantium recusandae delectus doloremque.
+43,92,2025-05-26,2025-05-28,Enfermedad,Totam qui nemo velit.
+44,696,2024-07-12,2024-07-16,Permiso,Blanditiis saepe perspiciatis magnam molestias asperiores culpa.
+45,494,2024-08-31,2024-09-04,Enfermedad,Quae ad magnam perspiciatis.
+46,101,2025-03-09,2025-03-13,Permiso,Est libero sed assumenda veritatis voluptates error.
+47,67,2024-12-01,2024-12-03,Enfermedad,Accusamus accusantium modi deserunt sequi.
+48,426,2024-12-20,2024-12-23,Permiso,Inventore amet quibusdam nisi atque ad omnis.
+49,137,2025-06-06,2025-06-10,Permiso,Perferendis sequi reiciendis alias non natus magnam.
+50,984,2024-10-07,2024-10-11,Enfermedad,Veniam omnis perferendis velit cumque illo perspiciatis.
+51,370,2025-01-27,2025-01-30,Vacaciones,Ea a ipsum asperiores atque.
+52,744,2024-12-18,2024-12-22,Vacaciones,Ut molestiae aliquam.
+53,496,2025-02-15,2025-02-19,Enfermedad,Non nemo cum.
+54,85,2024-08-17,2024-08-19,Enfermedad,Quidem enim praesentium consectetur.
+55,350,2025-02-16,2025-02-21,Permiso,Repellendus aspernatur alias modi nisi natus iure.
+56,79,2024-09-12,2024-09-13,Enfermedad,Beatae quam vel blanditiis accusantium voluptatum.
+57,482,2025-02-23,2025-02-28,Enfermedad,Placeat molestiae alias quos harum qui ex aspernatur.
+58,584,2024-08-26,2024-08-29,Enfermedad,Aperiam illum dignissimos fugiat doloremque recusandae.
+59,874,2024-09-10,2024-09-14,Vacaciones,Voluptate molestias aliquid eaque autem saepe.
+60,972,2024-06-13,2024-06-16,No justificada,Numquam nemo iusto consequatur vel quo.
+61,721,2024-11-28,2024-12-02,Permiso,Consequuntur corporis inventore aperiam.
+62,656,2024-11-02,2024-11-06,Permiso,Non veniam voluptates eius voluptatibus minus.
+63,650,2024-06-23,2024-06-24,Vacaciones,Aliquid illo aspernatur ea temporibus non quam beatae.
+64,195,2024-11-12,2024-11-15,Vacaciones,Totam totam similique at.
+65,199,2024-12-21,2024-12-26,Enfermedad,Non laboriosam voluptatum quae debitis recusandae vel.
+66,425,2024-11-09,2024-11-13,Vacaciones,Fugiat blanditiis quibusdam.
+67,801,2025-05-01,2025-05-02,Enfermedad,Esse laborum sequi quibusdam excepturi quibusdam dolores.
+68,180,2025-03-14,2025-03-19,Enfermedad,Ipsum voluptate voluptate saepe error aspernatur illum.
+69,948,2024-07-25,2024-07-29,Vacaciones,Voluptates suscipit eligendi.
+70,253,2024-10-18,2024-10-22,Enfermedad,Qui perspiciatis possimus laudantium cupiditate aliquam fugit.
+71,117,2024-11-27,2024-12-01,Enfermedad,Fugiat similique libero earum minima aperiam maxime ratione.
+72,396,2025-04-04,2025-04-07,Vacaciones,Possimus culpa iure perspiciatis id facilis id.
+73,155,2024-09-08,2024-09-13,Permiso,Mollitia inventore deserunt expedita asperiores enim.
+74,279,2024-09-20,2024-09-25,Vacaciones,Consequatur placeat recusandae accusamus.
+75,148,2025-01-11,2025-01-14,Enfermedad,Laboriosam incidunt hic quaerat sed cum a.
+76,320,2025-03-11,2025-03-13,Permiso,Fuga soluta quia vero quod nesciunt modi libero.
+77,312,2025-03-23,2025-03-25,Vacaciones,Nam voluptatibus rerum voluptate natus dolorum repellat.
+78,215,2024-12-14,2024-12-16,Vacaciones,Nesciunt aliquam quod tempore aut voluptates maxime.
+79,923,2025-03-21,2025-03-22,Permiso,Doloribus dignissimos voluptate praesentium eum quas.
+80,538,2024-12-22,2024-12-26,Enfermedad,Hic officiis quam error maxime.
+81,116,2024-07-12,2024-07-15,Vacaciones,Itaque natus nostrum provident.
+82,654,2025-01-07,2025-01-09,Permiso,Inventore velit sint aspernatur sed fuga odio.
+83,237,2024-08-20,2024-08-23,Vacaciones,Tenetur maxime ut saepe nulla.
+84,701,2024-10-30,2024-10-31,Enfermedad,Blanditiis tempora dolores libero libero.
+85,199,2024-07-14,2024-07-17,Permiso,Ratione quia saepe iusto.
+86,217,2025-04-04,2025-04-09,Enfermedad,Hic eligendi facilis numquam aut animi aliquid.
+87,610,2024-07-25,2024-07-26,No justificada,Officiis quidem provident magni.
+88,276,2024-10-15,2024-10-18,Permiso,Porro in delectus quam inventore ab possimus dolores.
+89,63,2025-05-02,2025-05-04,Permiso,Est sed nihil quis totam iste laudantium.
+90,106,2024-06-11,2024-06-13,Vacaciones,Nobis ipsum a fugiat quos.
+91,249,2024-10-08,2024-10-09,Enfermedad,Debitis architecto fugiat.
+92,277,2024-07-06,2024-07-09,Permiso,Veritatis temporibus ullam possimus iusto omnis.
+93,18,2025-04-03,2025-04-06,Enfermedad,Possimus aperiam odit.
+94,977,2025-06-03,2025-06-04,Vacaciones,Sequi inventore eum.
+95,572,2025-01-27,2025-01-28,Vacaciones,Vitae aliquam vitae autem doloribus facere.
+96,635,2024-10-21,2024-10-23,Vacaciones,Dolorum tempora officia debitis veritatis minus voluptatum.
+97,47,2024-08-06,2024-08-09,Enfermedad,Distinctio earum voluptatem.
+98,696,2024-07-27,2024-07-30,Vacaciones,Unde repellendus minus enim laudantium.
+99,813,2024-07-28,2024-07-31,Vacaciones,Deleniti repellendus qui unde.
+100,881,2025-05-17,2025-05-19,Enfermedad,Id doloribus veritatis fuga ad illum.
+101,242,2024-11-03,2024-11-08,Enfermedad,Quam illo harum necessitatibus neque consequatur.
+102,119,2024-08-18,2024-08-23,Permiso,Qui ad itaque eum distinctio distinctio.
+103,750,2024-09-17,2024-09-20,Vacaciones,In occaecati laborum asperiores facere tempora.
+104,913,2025-04-09,2025-04-10,Enfermedad,Ducimus illum iusto quae accusantium.
+105,104,2024-09-21,2024-09-22,Vacaciones,Earum delectus velit in.
+106,938,2024-12-08,2024-12-09,Enfermedad,Omnis debitis corporis.
+107,621,2025-02-28,2025-03-02,Enfermedad,Aspernatur itaque consectetur impedit quae ea tenetur.
+108,721,2024-08-26,2024-08-27,Vacaciones,Veritatis eligendi aliquam illum architecto esse.
+109,989,2024-07-19,2024-07-20,Enfermedad,Est est et quaerat.
+110,766,2025-02-20,2025-02-22,Vacaciones,Non veniam in sit consequuntur explicabo illum nemo.
+111,412,2024-07-26,2024-07-28,Vacaciones,Odit ut facere totam architecto autem ab.
+112,831,2024-11-16,2024-11-17,Enfermedad,Nostrum quas autem.
+113,167,2024-12-01,2024-12-05,Enfermedad,Beatae nesciunt repellendus odit.
+114,777,2024-08-20,2024-08-25,Enfermedad,Nesciunt non vero eius cupiditate nihil explicabo.
+115,507,2025-02-12,2025-02-16,Enfermedad,Incidunt doloribus quaerat at.
+116,405,2024-07-27,2024-07-29,Enfermedad,Praesentium iure itaque iste accusamus voluptatibus officiis rerum.
+117,129,2024-08-06,2024-08-10,Permiso,Amet distinctio dicta maxime deleniti voluptatibus.
+118,58,2025-01-11,2025-01-14,Enfermedad,Sit sit necessitatibus sunt.
+119,159,2024-09-01,2024-09-06,Enfermedad,Molestias eveniet aliquam officiis consequuntur.
+120,198,2024-08-22,2024-08-24,Enfermedad,Fugit aperiam ut hic.
+121,671,2024-09-19,2024-09-21,Enfermedad,Doloribus autem possimus architecto.
+122,271,2025-03-14,2025-03-19,Enfermedad,Voluptates iste aspernatur dolore.
+123,945,2025-02-01,2025-02-03,Permiso,Dicta architecto nesciunt illum rem dolorum doloribus.
+124,587,2024-07-24,2024-07-29,Permiso,Odit voluptatum aperiam deserunt deleniti amet.
+125,989,2025-01-08,2025-01-13,Enfermedad,Assumenda ipsam quae dolores tempore.
+126,649,2025-05-13,2025-05-14,Vacaciones,Amet doloremque exercitationem aliquid adipisci consequuntur saepe.
+127,831,2025-05-19,2025-05-22,Vacaciones,Necessitatibus dolorum cupiditate cum excepturi unde ab.
+128,568,2024-11-06,2024-11-09,Enfermedad,Maxime minima necessitatibus praesentium distinctio ut ipsum.
+129,323,2024-09-17,2024-09-19,Permiso,Voluptatem sit suscipit impedit.
+130,237,2024-10-27,2024-11-01,Vacaciones,Adipisci cumque enim minima fuga.
+131,839,2024-08-28,2024-08-29,Enfermedad,Eum consequatur nesciunt quidem aut voluptates.
+132,487,2024-07-02,2024-07-06,Enfermedad,Laudantium quasi rerum voluptates.
+133,814,2024-07-25,2024-07-27,Permiso,Sed accusamus beatae totam quaerat sapiente laboriosam.
+134,445,2024-07-02,2024-07-05,Enfermedad,Blanditiis molestiae vero iusto aut recusandae veritatis reprehenderit.
+135,793,2025-02-03,2025-02-04,Enfermedad,Eveniet illum necessitatibus numquam nam.
+136,767,2024-12-08,2024-12-12,Enfermedad,Totam libero porro quos.
+137,260,2024-08-03,2024-08-05,Vacaciones,Blanditiis placeat eaque sequi.
+138,905,2024-12-29,2025-01-01,Enfermedad,Numquam impedit recusandae autem eligendi dolores.
+139,124,2025-02-27,2025-02-28,Enfermedad,Voluptas vel doloribus esse blanditiis eveniet non.
+140,973,2025-02-10,2025-02-14,Enfermedad,Exercitationem reprehenderit distinctio dolore veniam maxime possimus accusamus.
+141,914,2025-03-10,2025-03-15,Vacaciones,Aliquam illum sint amet.
+142,474,2024-10-05,2024-10-07,Enfermedad,Autem excepturi magnam quisquam culpa.
+143,353,2024-06-20,2024-06-21,Permiso,Nulla aut enim odit quisquam.
+144,61,2025-02-10,2025-02-12,Permiso,Ducimus labore quam ut occaecati eos a.
+145,417,2025-04-26,2025-05-01,Enfermedad,Consequuntur voluptas sint.
+146,782,2024-09-12,2024-09-13,Enfermedad,Quo sit aliquam natus.
+147,735,2024-11-01,2024-11-06,Enfermedad,Adipisci nulla blanditiis quis assumenda quisquam soluta animi.
+148,935,2025-04-07,2025-04-11,Enfermedad,Doloribus expedita iste perferendis placeat tempore nihil inventore.
+149,827,2024-09-28,2024-09-30,Vacaciones,Voluptatum assumenda rerum aspernatur necessitatibus occaecati perferendis.
+150,563,2024-07-15,2024-07-19,Permiso,Culpa dolorem ut.
+151,533,2025-01-28,2025-01-29,Permiso,Beatae molestias recusandae ex.
+152,126,2024-09-20,2024-09-23,Vacaciones,Minus deserunt cupiditate eum alias odit cupiditate.
+153,500,2025-03-02,2025-03-06,Enfermedad,Aperiam rem reprehenderit doloribus sequi.
+154,838,2024-09-26,2024-09-27,Enfermedad,Et unde voluptates quaerat accusamus commodi.
+155,7,2025-05-31,2025-06-05,Vacaciones,Asperiores a voluptatem delectus corrupti.
+156,846,2024-07-02,2024-07-04,Enfermedad,Molestiae modi autem esse quaerat.
+157,483,2025-02-11,2025-02-13,Enfermedad,Quas sit doloribus rerum.
+158,709,2025-04-24,2025-04-25,Permiso,Asperiores ex reprehenderit ullam eos nostrum.
+159,189,2025-01-19,2025-01-23,Vacaciones,Natus similique debitis quasi necessitatibus ipsum.
+160,90,2024-07-14,2024-07-19,Permiso,Illum mollitia repellendus perferendis.
+161,995,2025-03-22,2025-03-23,Vacaciones,Optio enim esse amet.
+162,993,2025-05-03,2025-05-06,Enfermedad,Non rem maiores quas laboriosam harum.
+163,703,2024-10-16,2024-10-21,Permiso,Nobis adipisci reiciendis nam voluptatem.
+164,53,2025-02-06,2025-02-09,Vacaciones,Repellat totam necessitatibus ab quidem.
+165,851,2025-03-11,2025-03-12,Enfermedad,Maxime delectus eius nam.
+166,373,2024-10-27,2024-10-31,Enfermedad,Ducimus perspiciatis fugit labore.
+167,211,2024-11-12,2024-11-15,Enfermedad,Magni ipsam quo quod eligendi.
+168,664,2025-01-19,2025-01-21,Permiso,Consequatur culpa eveniet nisi.
+169,94,2025-04-22,2025-04-25,Enfermedad,Asperiores temporibus odio beatae ea nulla.
+170,216,2024-12-29,2025-01-02,Enfermedad,Molestias commodi soluta quis qui quo soluta.
+171,832,2024-09-21,2024-09-25,Enfermedad,Laborum laboriosam maiores temporibus sint.
+172,267,2024-06-12,2024-06-13,Vacaciones,Necessitatibus dolor officia.
+173,131,2025-03-29,2025-04-03,Enfermedad,Voluptatem ut reiciendis.
+174,714,2024-09-19,2024-09-24,Vacaciones,Saepe distinctio tempore fugiat delectus.
+175,935,2025-04-27,2025-04-28,Enfermedad,Libero dolorum beatae a et quibusdam natus.
+176,497,2025-01-13,2025-01-15,Vacaciones,Corrupti dolore culpa et possimus vero placeat officiis.
+177,520,2025-02-07,2025-02-09,Permiso,Provident culpa eveniet officia ab ex.
+178,822,2024-12-28,2025-01-02,Vacaciones,Incidunt sit animi.
+179,892,2024-10-20,2024-10-22,Enfermedad,Quo eius omnis doloremque ratione nostrum neque.
+180,54,2024-10-31,2024-11-05,Enfermedad,Deserunt blanditiis delectus architecto facilis incidunt.
+181,418,2024-07-26,2024-07-28,Vacaciones,Labore aperiam ipsam repellat.
+182,816,2025-04-02,2025-04-07,Enfermedad,Atque doloribus quibusdam beatae harum reprehenderit minus.
+183,261,2025-03-10,2025-03-11,Enfermedad,Nostrum necessitatibus eius aperiam quasi.
+184,188,2024-08-25,2024-08-30,Permiso,Dolorem dicta dolores.
+185,804,2025-04-25,2025-04-26,Vacaciones,Eos nulla reiciendis fugiat iure.
+186,811,2024-07-18,2024-07-19,Enfermedad,Rem illo iure.
+187,643,2024-09-14,2024-09-18,Enfermedad,Repellat odio velit.
+188,400,2024-06-28,2024-07-02,Enfermedad,Error pariatur a fugiat animi dolorum ratione rerum.
+189,867,2024-10-08,2024-10-09,Vacaciones,Enim optio repudiandae.
+190,58,2024-07-22,2024-07-25,Vacaciones,Id ab earum repellendus labore incidunt.
+191,502,2025-02-14,2025-02-17,Vacaciones,Quia aperiam consequatur nemo provident.
+192,765,2025-02-12,2025-02-13,Enfermedad,Harum veritatis dolore ipsa.
+193,361,2025-05-10,2025-05-14,Enfermedad,Praesentium voluptates et possimus doloremque temporibus ab saepe.
+194,492,2024-09-21,2024-09-23,Permiso,Odit sint dolore maxime aspernatur numquam nemo impedit.
+195,858,2024-08-25,2024-08-27,No justificada,Quod recusandae asperiores magni.
+196,1,2024-10-25,2024-10-28,Enfermedad,Fugiat iusto nihil enim.
+197,701,2024-09-04,2024-09-07,Enfermedad,Ullam doloremque excepturi tempore.
+198,986,2024-06-24,2024-06-29,Vacaciones,Nihil quidem omnis a.
+199,675,2025-01-10,2025-01-12,Permiso,Omnis facere magni quis quod modi.
+200,426,2025-04-08,2025-04-10,Vacaciones,Asperiores labore nisi quasi illo unde.
+201,881,2025-03-05,2025-03-10,Enfermedad,Ea odit commodi iste veniam aut officia.
+202,94,2025-05-25,2025-05-29,Vacaciones,Ea asperiores a error aliquid.
+203,51,2024-07-18,2024-07-20,Enfermedad,Eaque culpa quas totam cumque.
+204,241,2024-09-17,2024-09-18,Vacaciones,Saepe mollitia doloribus corporis quisquam consectetur.
+205,591,2024-09-18,2024-09-19,Enfermedad,Possimus laboriosam a quisquam dolor.
+206,334,2024-12-24,2024-12-26,Enfermedad,Praesentium enim placeat atque unde unde dolor.
+207,239,2024-10-05,2024-10-07,Enfermedad,Aspernatur voluptas veniam soluta doloremque ad distinctio consectetur.
+208,634,2024-07-03,2024-07-04,Vacaciones,Et facilis earum laborum magnam repudiandae.
+209,792,2025-01-10,2025-01-11,Enfermedad,Quam consectetur blanditiis repellat voluptatibus natus.
+210,871,2025-01-21,2025-01-25,Vacaciones,Officiis rem voluptates molestias.
+211,660,2024-11-19,2024-11-24,Vacaciones,Culpa consequatur nihil excepturi commodi sequi beatae sit.
+212,153,2024-11-19,2024-11-22,Enfermedad,Distinctio at sapiente nesciunt nostrum.
+213,339,2025-05-26,2025-05-31,Enfermedad,Incidunt delectus consectetur fugit quasi.
+214,995,2024-08-28,2024-08-31,Enfermedad,Quia veniam dolorem nostrum perspiciatis aliquam.
+215,325,2025-06-06,2025-06-11,Vacaciones,Tempore cum modi sit ut.
+216,214,2024-12-23,2024-12-24,Vacaciones,Culpa explicabo molestias cum quaerat.
+217,100,2024-07-31,2024-08-05,Permiso,Eligendi provident consectetur temporibus.
+218,174,2024-11-24,2024-11-29,Enfermedad,Laudantium saepe nam laboriosam non modi.
+219,873,2025-02-02,2025-02-07,Permiso,Quo pariatur voluptatum quaerat autem quidem quisquam.
+220,1000,2025-05-26,2025-05-27,Enfermedad,Debitis perspiciatis animi quod.
+221,124,2025-01-11,2025-01-15,Enfermedad,Inventore id magnam nostrum vitae exercitationem aliquid dolore.
+222,413,2025-01-19,2025-01-24,Permiso,Laboriosam accusamus modi nisi.
+223,890,2024-11-19,2024-11-20,Vacaciones,Nostrum placeat iste commodi voluptate.
+224,643,2025-04-21,2025-04-23,Permiso,Aperiam aliquid id repellendus sed eum.
+225,139,2024-10-27,2024-10-28,Enfermedad,Id consectetur nesciunt sequi exercitationem unde.
+226,933,2024-10-09,2024-10-14,No justificada,Recusandae fugiat voluptas ad.
+227,958,2024-06-22,2024-06-23,Vacaciones,Assumenda minima perferendis adipisci maiores.
+228,583,2024-09-30,2024-10-05,No justificada,Asperiores non laboriosam.
+229,743,2025-01-15,2025-01-18,Vacaciones,Distinctio architecto distinctio.
+230,993,2024-08-06,2024-08-08,Enfermedad,Similique itaque dicta nobis recusandae.
+231,879,2025-05-08,2025-05-13,Permiso,Possimus ipsum eligendi corporis soluta eius.
+232,925,2025-05-20,2025-05-25,Vacaciones,Praesentium odit amet.
+233,712,2024-09-30,2024-10-02,Vacaciones,Temporibus fuga velit voluptate aliquid beatae labore nobis.
+234,571,2025-02-03,2025-02-06,Permiso,Blanditiis quos cum vel nulla dicta.
+235,306,2024-11-11,2024-11-14,Vacaciones,Veniam vel laboriosam amet veritatis praesentium.
+236,328,2025-02-23,2025-02-28,Enfermedad,Nulla cumque sequi nisi voluptatem animi.
+237,128,2024-09-11,2024-09-12,Enfermedad,Officia mollitia neque id odio sapiente consequuntur quidem.
+238,963,2025-01-21,2025-01-26,Enfermedad,Est ab ea adipisci culpa beatae.
+239,884,2025-01-15,2025-01-17,Enfermedad,Possimus beatae hic natus dolorem necessitatibus alias.
+240,331,2024-07-17,2024-07-18,Vacaciones,Nobis pariatur corporis accusantium dolores exercitationem.
+241,935,2024-10-24,2024-10-29,Vacaciones,Possimus recusandae magni temporibus.
+242,975,2025-01-29,2025-02-02,Enfermedad,Corrupti architecto culpa laboriosam nihil ut.
+243,384,2024-08-15,2024-08-16,Vacaciones,Et beatae explicabo aliquid.
+244,921,2025-05-09,2025-05-13,Enfermedad,Iusto ratione nemo harum.
+245,222,2024-11-01,2024-11-02,Permiso,Corporis ab facere architecto.
+246,942,2025-05-02,2025-05-05,Enfermedad,Cumque commodi temporibus soluta ea quam officiis.
+247,976,2025-01-06,2025-01-07,Vacaciones,Ab nobis placeat adipisci temporibus quia eaque.
+248,713,2024-10-03,2024-10-05,Enfermedad,Aperiam sint eos ut.
+249,674,2024-09-07,2024-09-09,Enfermedad,Harum fugit ab ab quaerat.
+250,205,2024-09-03,2024-09-06,Enfermedad,Porro debitis impedit iste reprehenderit optio.
+251,420,2024-06-18,2024-06-22,Enfermedad,Tempora dolor corporis totam blanditiis aspernatur repudiandae.
+252,8,2025-05-11,2025-05-14,Permiso,Eaque aspernatur dicta eum adipisci fugit dolores.
+253,952,2024-10-27,2024-10-30,Vacaciones,Impedit blanditiis cumque vero ab.
+254,153,2024-08-02,2024-08-04,Vacaciones,Quisquam hic architecto soluta hic ipsa aliquam.
+255,165,2025-03-27,2025-03-31,Permiso,Enim similique aliquam porro.
+256,333,2024-11-08,2024-11-12,Enfermedad,Odit architecto provident eos.
+257,306,2025-06-03,2025-06-04,Enfermedad,Dignissimos dignissimos corrupti odio occaecati explicabo occaecati.
+258,323,2025-04-19,2025-04-20,Vacaciones,Cupiditate odit perspiciatis iste autem numquam natus.
+259,490,2024-08-12,2024-08-15,Vacaciones,Facere quidem incidunt modi voluptate itaque.
+260,104,2024-12-10,2024-12-12,Vacaciones,Libero modi cum quam laborum vero.
+261,465,2025-04-30,2025-05-02,Enfermedad,Sint cumque expedita rerum laudantium.
+262,403,2024-06-18,2024-06-21,Permiso,Error corrupti quam necessitatibus a quisquam quas.
+263,45,2024-09-11,2024-09-14,Enfermedad,Praesentium magni sapiente consectetur.
+264,147,2025-04-04,2025-04-09,Vacaciones,Ipsa adipisci neque expedita nostrum.
+265,858,2024-11-07,2024-11-08,Enfermedad,Aliquid fugit sint nisi ipsam.
+266,406,2025-02-01,2025-02-04,Enfermedad,Eligendi tenetur aperiam dolores praesentium deleniti ratione.
+267,567,2024-10-31,2024-11-01,Vacaciones,Pariatur quae fuga minus.
+268,421,2024-10-21,2024-10-24,Vacaciones,Aut atque ex optio enim.
+269,163,2025-05-18,2025-05-19,Vacaciones,Distinctio minus sit ad accusamus animi.
+270,7,2025-05-03,2025-05-08,No justificada,Dicta ratione esse magni.
+271,319,2025-04-17,2025-04-21,Permiso,Eveniet consequuntur quibusdam eveniet consectetur neque.
+272,638,2024-09-12,2024-09-16,Enfermedad,Esse nemo veniam maxime.
+273,331,2025-04-18,2025-04-21,Vacaciones,Natus fuga dicta quasi.
+274,462,2024-07-18,2024-07-20,Permiso,Vero velit unde accusantium.
+275,220,2024-10-04,2024-10-05,Vacaciones,Veniam earum laudantium iusto modi explicabo.
+276,692,2024-06-25,2024-06-26,No justificada,At aut explicabo modi voluptatum.
+277,162,2024-07-10,2024-07-14,Vacaciones,Labore dignissimos facilis inventore in a.
+278,9,2025-02-08,2025-02-12,Enfermedad,Porro error dolor placeat corrupti doloremque.
+279,172,2025-05-12,2025-05-13,Enfermedad,Explicabo sit voluptas totam adipisci quidem facilis.
+280,291,2025-06-03,2025-06-04,Enfermedad,Consequuntur officiis quae totam possimus ullam ad.
+281,203,2025-06-10,2025-06-15,Enfermedad,Consequatur excepturi officia cumque esse eveniet.
+282,161,2024-12-10,2024-12-15,Enfermedad,Fugit iste natus maiores eos blanditiis quis harum.
+283,37,2025-03-17,2025-03-19,No justificada,Praesentium tenetur modi eos sed sapiente.
+284,718,2025-04-11,2025-04-15,Enfermedad,Voluptatem vitae sit dolorem autem eum.
+285,934,2024-11-07,2024-11-10,Enfermedad,Repellendus cupiditate tenetur fugit vero saepe esse optio.
+286,761,2024-06-28,2024-07-02,Enfermedad,Minima placeat rerum ipsa explicabo accusantium.
+287,203,2025-04-02,2025-04-07,Vacaciones,Laboriosam possimus beatae ipsa iure ipsum id.
+288,270,2025-05-03,2025-05-05,Vacaciones,Ut voluptate accusamus rem omnis magni nihil.
+289,443,2024-07-07,2024-07-09,Enfermedad,Aut possimus quidem numquam maiores dolores.
+290,277,2024-10-20,2024-10-24,Enfermedad,Fugiat non nemo voluptate.
+291,607,2024-09-18,2024-09-20,Vacaciones,Consectetur necessitatibus molestias ab pariatur facere.
+292,304,2025-03-10,2025-03-15,Permiso,Aspernatur vel amet dolores facilis alias adipisci.
+293,569,2024-09-23,2024-09-26,Enfermedad,Adipisci tenetur aspernatur tempore odit itaque.
+294,396,2024-08-13,2024-08-17,Vacaciones,Architecto architecto quos fugiat illo.
+295,180,2025-06-07,2025-06-09,No justificada,Eius qui iste.
+296,308,2025-02-19,2025-02-21,Vacaciones,Ad natus labore asperiores sint omnis.
+297,44,2025-01-16,2025-01-17,Vacaciones,Aut officiis rem distinctio suscipit.
+298,652,2024-09-08,2024-09-11,Enfermedad,Pariatur facere velit omnis.
+299,154,2025-05-06,2025-05-08,Vacaciones,Asperiores aperiam nam optio rem aspernatur quam voluptas.
+300,251,2024-07-15,2024-07-20,Permiso,Pariatur sed nobis necessitatibus.
+301,170,2024-10-09,2024-10-10,Enfermedad,Consectetur culpa amet eum tenetur.
+302,968,2025-02-02,2025-02-03,Vacaciones,Nihil dolorum error reprehenderit quasi fugit amet.
+303,178,2024-06-23,2024-06-24,Enfermedad,Magnam incidunt eum.
+304,576,2025-03-10,2025-03-15,Permiso,Recusandae provident sequi beatae voluptatibus.
+305,740,2024-08-05,2024-08-08,Enfermedad,Harum ipsam iure tempora aut sapiente architecto.
+306,467,2025-05-03,2025-05-04,Enfermedad,Maxime impedit blanditiis fugiat quo nobis.
+307,445,2024-07-15,2024-07-20,Enfermedad,Temporibus dolor voluptatibus repudiandae suscipit quis.
+308,700,2024-06-22,2024-06-26,No justificada,Aut iure aut blanditiis nihil.
+309,992,2024-07-09,2024-07-14,Enfermedad,Placeat id illo eveniet et ad vitae.
+310,176,2024-09-01,2024-09-05,Enfermedad,Excepturi veritatis quibusdam consectetur.
+311,77,2025-01-07,2025-01-10,Vacaciones,Error ea rerum natus nihil.
+312,376,2025-01-31,2025-02-01,Permiso,Voluptatem repudiandae eum porro consectetur neque porro.
+313,851,2024-09-26,2024-09-28,Permiso,Tempore enim modi sunt quas alias odit.
+314,520,2024-09-29,2024-10-03,Enfermedad,Provident earum vel nam vitae iste cumque.
+315,234,2025-02-05,2025-02-08,No justificada,Blanditiis facere quis facere fuga.
+316,24,2025-03-19,2025-03-22,Enfermedad,Enim recusandae provident unde voluptate inventore suscipit.
+317,248,2025-04-10,2025-04-11,Enfermedad,Sequi aliquam numquam dolor architecto quisquam expedita.
+318,12,2025-04-20,2025-04-25,Enfermedad,Sequi veniam deserunt.
+319,111,2025-05-24,2025-05-27,Vacaciones,Voluptate enim velit nihil.
+320,678,2025-06-09,2025-06-12,Enfermedad,Placeat porro tempore.
+321,836,2024-10-25,2024-10-27,Vacaciones,Ad amet culpa hic.
+322,181,2025-04-06,2025-04-11,Vacaciones,Alias amet alias id tempora consectetur voluptatibus reprehenderit.
+323,875,2025-05-27,2025-05-31,Vacaciones,Cupiditate suscipit ab esse libero saepe a.
+324,543,2024-09-08,2024-09-09,Enfermedad,Fugit vitae distinctio ullam assumenda fuga.
+325,148,2025-03-12,2025-03-17,Enfermedad,Eos quidem quasi possimus.
+326,910,2025-03-24,2025-03-27,Permiso,Nemo consequatur nisi voluptatem laudantium qui.
+327,91,2025-02-03,2025-02-08,Enfermedad,Illum iste suscipit doloribus itaque possimus sit.
+328,93,2024-10-19,2024-10-22,Enfermedad,Excepturi beatae facere dignissimos perspiciatis blanditiis voluptatum.
+329,59,2024-10-28,2024-10-29,Vacaciones,Eveniet harum ab perspiciatis iusto necessitatibus voluptate.
+330,100,2025-03-22,2025-03-24,Vacaciones,Nesciunt officiis sed.
+331,320,2024-06-27,2024-07-01,Vacaciones,Assumenda autem deserunt quasi.
+332,659,2025-04-07,2025-04-09,Enfermedad,Quibusdam autem perspiciatis aliquam.
+333,947,2025-05-04,2025-05-08,Enfermedad,Labore occaecati tempore.
+334,692,2024-11-08,2024-11-13,Enfermedad,Nulla atque cum nobis fugit aliquam.
+335,476,2024-11-30,2024-12-04,Vacaciones,A incidunt voluptatem ab nobis.
+336,508,2024-12-22,2024-12-25,Permiso,Deleniti accusantium illum minima dolore sint alias molestiae.
+337,447,2025-01-14,2025-01-19,Permiso,Beatae alias maiores cum.
+338,757,2024-08-06,2024-08-09,Enfermedad,Similique fugiat amet tempora doloremque perferendis.
+339,412,2024-08-08,2024-08-09,Enfermedad,Tempore dolorem laboriosam velit magni.
+340,557,2025-01-23,2025-01-28,Enfermedad,A aliquid atque asperiores rerum.
+341,859,2024-07-06,2024-07-09,Enfermedad,Cum reprehenderit dignissimos neque officia dignissimos.
+342,620,2024-08-27,2024-08-28,Enfermedad,Eaque ratione esse incidunt.
+343,321,2025-02-25,2025-02-26,Enfermedad,Earum fugit recusandae totam debitis.
+344,520,2024-07-01,2024-07-03,Vacaciones,Veritatis eum placeat aspernatur sint.
+345,806,2025-03-05,2025-03-09,Enfermedad,Quam voluptatum saepe recusandae eaque.
+346,923,2025-03-27,2025-03-30,Vacaciones,Quibusdam doloremque corporis quo sequi minima.
+347,432,2025-04-25,2025-04-29,Vacaciones,Libero tempore accusantium suscipit adipisci.
+348,174,2024-12-16,2024-12-19,Enfermedad,Nesciunt similique numquam distinctio recusandae reprehenderit cupiditate.
+349,703,2024-06-21,2024-06-24,Vacaciones,Pariatur itaque similique in corporis nulla vel ratione.
+350,18,2025-01-09,2025-01-10,Vacaciones,Praesentium doloribus tempora illum.
+351,227,2024-08-21,2024-08-23,Enfermedad,Aut aperiam deserunt iste amet nulla.
+352,713,2024-12-03,2024-12-06,Enfermedad,Officia porro corporis ducimus corrupti.
+353,353,2025-05-25,2025-05-27,Vacaciones,Vero aut nobis quis voluptas voluptate.
+354,933,2024-12-16,2024-12-19,Vacaciones,A doloribus reiciendis illo hic sit.
+355,289,2025-04-03,2025-04-07,Permiso,Culpa quis sed sunt ut officiis.
+356,214,2024-10-25,2024-10-29,Permiso,Reiciendis modi molestias asperiores eius.
+357,759,2024-10-08,2024-10-12,Enfermedad,Fuga quo explicabo atque delectus corporis.
+358,936,2025-03-19,2025-03-20,Enfermedad,Necessitatibus at atque iusto laudantium iure dolorem.
+359,434,2024-07-11,2024-07-15,Vacaciones,Asperiores aliquam praesentium doloribus suscipit.
+360,410,2025-03-06,2025-03-10,Enfermedad,Expedita nesciunt nam laudantium quod.
+361,303,2025-01-31,2025-02-02,Enfermedad,Voluptatem veritatis impedit iure facere facere repellendus laudantium.
+362,703,2025-01-04,2025-01-05,Enfermedad,Nesciunt voluptate optio voluptate.
+363,651,2024-09-13,2024-09-14,Enfermedad,Unde aliquid beatae magni dolorem impedit omnis.
+364,6,2024-09-23,2024-09-25,Vacaciones,Possimus voluptatem incidunt debitis.
+365,390,2024-09-20,2024-09-21,Enfermedad,Assumenda consequuntur repellat delectus id.
+366,87,2024-09-11,2024-09-15,Enfermedad,Veniam dolorem quam voluptate debitis amet quod.
+367,930,2024-10-27,2024-11-01,Vacaciones,Dolor veniam dicta hic enim quaerat.
+368,840,2025-04-16,2025-04-17,Vacaciones,Quaerat in aliquid assumenda asperiores beatae.
+369,805,2024-07-03,2024-07-08,Enfermedad,Reiciendis quos eveniet numquam.
+370,19,2024-09-20,2024-09-23,Vacaciones,Repellat officiis in nisi vel magni aperiam.
+371,252,2024-06-16,2024-06-21,Enfermedad,Dolorum laborum impedit rem veritatis.
+372,306,2024-11-24,2024-11-27,No justificada,Quisquam inventore assumenda eius laudantium.
+373,851,2024-11-27,2024-11-30,Enfermedad,Sed asperiores accusamus asperiores laudantium temporibus.
+374,760,2025-05-05,2025-05-06,Enfermedad,Doloremque tempora magnam culpa accusamus error.
+375,828,2025-01-19,2025-01-21,Enfermedad,Labore quidem omnis exercitationem exercitationem.
+376,40,2024-10-13,2024-10-18,Vacaciones,Ullam commodi laudantium aut quidem voluptatum.
+377,826,2024-10-10,2024-10-15,Vacaciones,Debitis odit nostrum necessitatibus.
+378,341,2025-03-04,2025-03-09,Enfermedad,Veritatis earum exercitationem.
+379,663,2024-08-25,2024-08-28,Permiso,Amet harum iusto magnam fugiat quas.
+380,9,2024-08-28,2024-08-31,Enfermedad,Corporis tenetur nemo quibusdam veniam accusamus esse.
+381,56,2024-10-14,2024-10-16,Vacaciones,Sed sit dolore maiores facilis asperiores eligendi ullam.
+382,894,2025-05-28,2025-05-29,Enfermedad,Eligendi numquam doloremque impedit itaque incidunt.
+383,348,2024-09-07,2024-09-09,Enfermedad,Blanditiis ipsum mollitia at voluptates nihil.
+384,983,2025-03-01,2025-03-05,Permiso,Voluptatem praesentium similique ut illum.
+385,616,2024-11-29,2024-12-01,Enfermedad,Non officia quaerat asperiores velit quidem.
+386,42,2024-10-29,2024-11-03,Vacaciones,Quia porro rerum nihil nisi adipisci nihil a.
+387,869,2025-05-15,2025-05-17,Enfermedad,Animi placeat quo saepe.
+388,318,2025-01-04,2025-01-05,Vacaciones,Nobis facilis neque assumenda praesentium unde ipsam esse.
+389,893,2024-12-25,2024-12-28,Permiso,Quam excepturi quas natus distinctio soluta.
+390,309,2024-10-22,2024-10-26,Enfermedad,Nemo eligendi cupiditate eveniet blanditiis.
+391,502,2025-04-15,2025-04-19,Vacaciones,Quo quasi corporis accusamus.
+392,851,2024-10-25,2024-10-30,Vacaciones,Fugiat voluptatibus molestias voluptates dolores excepturi.
+393,313,2024-11-03,2024-11-06,Enfermedad,Quia eos quisquam non deleniti.
+394,677,2024-12-07,2024-12-12,No justificada,Id molestias sint architecto.
+395,137,2025-01-19,2025-01-22,Enfermedad,Voluptatem eum eligendi molestiae modi.
+396,999,2024-12-03,2024-12-07,Enfermedad,Facilis placeat sint.
+397,104,2024-10-25,2024-10-28,Permiso,Porro architecto tempore asperiores magni perferendis.
+398,474,2024-07-17,2024-07-18,Enfermedad,Necessitatibus consequatur aliquam sint dolore numquam debitis modi.
+399,323,2025-01-01,2025-01-06,Vacaciones,Incidunt temporibus modi dolor totam sit aut nesciunt.
+400,663,2024-07-18,2024-07-19,Enfermedad,Reprehenderit optio odit tempore quas consectetur.
+401,143,2025-04-11,2025-04-12,Enfermedad,Suscipit quae laborum labore iure.
+402,722,2024-10-23,2024-10-27,Vacaciones,At perferendis magnam quibusdam repellat.
+403,191,2025-05-22,2025-05-27,Vacaciones,Suscipit dolore voluptates non assumenda tenetur veniam explicabo.
+404,252,2025-01-31,2025-02-03,Enfermedad,Inventore expedita laudantium vitae odit mollitia.
+405,697,2024-11-18,2024-11-19,No justificada,Saepe aperiam dolorum consectetur a repellat quaerat.
+406,785,2025-01-28,2025-02-01,Permiso,Expedita culpa libero corrupti ducimus ad.
+407,18,2024-09-17,2024-09-22,Permiso,Voluptas ut perspiciatis consequuntur.
+408,679,2024-11-19,2024-11-22,Vacaciones,Expedita ex incidunt eos odio.
+409,537,2025-04-27,2025-05-02,Vacaciones,Quia reprehenderit facere tempore accusantium at autem doloremque.
+410,774,2025-05-29,2025-06-03,Permiso,Soluta atque inventore eius quaerat iste.
+411,576,2024-07-28,2024-08-02,Permiso,Maiores quo quo autem tempora ipsa harum ab.
+412,197,2025-02-24,2025-03-01,Vacaciones,Similique iste quas esse eaque.
+413,884,2025-02-12,2025-02-17,No justificada,Consectetur ullam perspiciatis reprehenderit perspiciatis aperiam eos.
+414,737,2024-09-09,2024-09-10,Enfermedad,Libero repellat autem in mollitia consectetur occaecati tempore.
+415,760,2025-03-09,2025-03-10,Vacaciones,In distinctio temporibus maiores.
+416,888,2024-08-04,2024-08-05,Vacaciones,Iure cum commodi hic consequatur omnis enim.
+417,532,2025-02-17,2025-02-19,Vacaciones,Alias tempora rem.
+418,351,2024-10-15,2024-10-18,Enfermedad,Recusandae quas fugit occaecati neque quam.
+419,710,2024-11-05,2024-11-10,Enfermedad,Assumenda laborum repudiandae enim possimus delectus quas.
+420,497,2024-10-05,2024-10-09,Vacaciones,Perferendis dignissimos vel ab doloremque sint distinctio veritatis.
+421,638,2025-02-17,2025-02-21,Enfermedad,Veniam nostrum quis.
+422,125,2024-12-18,2024-12-21,Vacaciones,Aut eos officia dignissimos est non.
+423,426,2024-12-20,2024-12-23,Enfermedad,Placeat qui voluptatibus et voluptatem minus vero.
+424,372,2024-09-20,2024-09-22,Enfermedad,Id inventore odit.
+425,460,2024-07-20,2024-07-25,Enfermedad,Beatae sed dolores dolorem excepturi enim.
+426,819,2025-05-28,2025-05-30,Vacaciones,Tempora doloribus itaque.
+427,792,2024-07-07,2024-07-11,Permiso,Possimus at tempore nihil incidunt sequi illo.
+428,789,2024-09-16,2024-09-21,Vacaciones,Architecto vero aliquid nulla suscipit.
+429,239,2024-10-20,2024-10-24,Enfermedad,Dolore neque qui dicta.
+430,438,2024-11-30,2024-12-05,Permiso,Officia omnis in nihil.
+431,881,2024-08-03,2024-08-07,Enfermedad,Eos ab autem odio.
+432,923,2024-07-20,2024-07-23,No justificada,Est voluptatum ipsum laborum.
+433,917,2024-11-18,2024-11-20,Vacaciones,Odio animi doloribus numquam.
+434,661,2025-05-31,2025-06-04,Enfermedad,Quod dolore vitae.
+435,119,2025-03-19,2025-03-24,Vacaciones,Facere ea veniam architecto cumque beatae esse.
+436,709,2025-05-06,2025-05-08,Vacaciones,Deserunt corrupti mollitia rem fuga maiores.
+437,114,2025-03-21,2025-03-25,Vacaciones,Molestias vero blanditiis quaerat.
+438,873,2025-04-10,2025-04-14,Enfermedad,Commodi totam atque.
+439,49,2024-06-11,2024-06-12,Enfermedad,Modi quas quia beatae.
+440,24,2025-04-03,2025-04-04,Enfermedad,Aut laudantium sit eveniet neque tempore pariatur alias.
+441,478,2025-05-02,2025-05-05,Enfermedad,Magnam maiores aliquam magnam vel.
+442,789,2024-12-23,2024-12-25,Vacaciones,Quasi sunt at nemo ea hic.
+443,681,2025-05-14,2025-05-15,Enfermedad,Incidunt illum perferendis quas quae quod consectetur.
+444,901,2024-07-24,2024-07-25,Vacaciones,Architecto quos magnam vero est optio corporis.
+445,557,2025-02-27,2025-03-03,Enfermedad,Quibusdam magnam tempora ex maxime dignissimos.
+446,848,2025-01-10,2025-01-13,No justificada,Aliquid veniam exercitationem repellat ea mollitia.
+447,769,2024-12-07,2024-12-08,Enfermedad,Eaque reiciendis commodi nisi.
+448,605,2025-04-07,2025-04-09,Enfermedad,Neque totam quis dolorem dolor quisquam.
+449,650,2025-04-26,2025-05-01,Permiso,Quo repudiandae ullam aliquam voluptates.
+450,908,2024-09-12,2024-09-17,No justificada,Delectus corrupti velit maiores veniam unde.
+451,558,2025-03-12,2025-03-17,Enfermedad,Beatae corrupti blanditiis dolores rem alias.
+452,403,2025-05-01,2025-05-02,Enfermedad,A id illum praesentium.
+453,252,2024-09-05,2024-09-08,Enfermedad,Dolorum necessitatibus aperiam dicta at et nam.
+454,210,2024-06-24,2024-06-29,No justificada,Nobis maxime soluta et nesciunt.
+455,357,2024-11-22,2024-11-26,No justificada,Facere laudantium eos expedita.
+456,763,2024-09-16,2024-09-20,Enfermedad,Reiciendis nobis corrupti.
+457,904,2025-02-20,2025-02-24,Permiso,Repudiandae nobis aliquid minima ab possimus.
+458,89,2025-03-06,2025-03-09,Enfermedad,Exercitationem consequatur adipisci.
+459,297,2025-05-25,2025-05-27,Vacaciones,Ullam facilis saepe quam ab sunt.
+460,377,2025-03-12,2025-03-14,Enfermedad,Temporibus eum cum dignissimos.
+461,596,2024-07-01,2024-07-05,Enfermedad,Labore corrupti quis reprehenderit quod rem occaecati.
+462,998,2025-03-04,2025-03-05,Permiso,Dignissimos accusamus culpa impedit ex eveniet.
+463,697,2024-08-13,2024-08-15,Vacaciones,Labore repudiandae veniam error doloribus.
+464,322,2025-06-01,2025-06-02,Enfermedad,Id doloribus dolor fugit.
+465,759,2024-12-02,2024-12-07,Permiso,Itaque iusto omnis minima vitae nam.
+466,883,2024-09-02,2024-09-07,Enfermedad,Voluptatem at incidunt molestias.
+467,112,2025-01-24,2025-01-27,Enfermedad,Dolorum aspernatur quod at autem iste.
+468,678,2024-11-10,2024-11-15,Enfermedad,Impedit esse tempora vero aspernatur corporis asperiores.
+469,355,2024-11-09,2024-11-14,Enfermedad,Excepturi quibusdam dolorem sed fugit perferendis.
+470,169,2025-03-04,2025-03-05,Vacaciones,Iure et amet cumque rem nostrum quaerat asperiores.
+471,948,2025-02-08,2025-02-11,Enfermedad,Harum porro maxime deserunt optio accusantium facere.
+472,782,2024-09-17,2024-09-19,Enfermedad,Eligendi saepe aut corporis sed ipsum.
+473,493,2024-09-20,2024-09-23,Enfermedad,Doloribus non alias quam odit fugiat.
+474,419,2025-05-30,2025-06-04,Enfermedad,Repellendus ad sit.
+475,361,2024-09-24,2024-09-28,Permiso,Rem illum molestias ducimus officiis voluptatum.
+476,787,2025-02-08,2025-02-13,Vacaciones,Quam nostrum deleniti eligendi iste.
+477,999,2024-12-21,2024-12-26,Enfermedad,Fugiat id neque eum sint delectus exercitationem.
+478,373,2025-05-14,2025-05-15,Permiso,Eligendi in quam.
+479,762,2024-06-30,2024-07-04,Vacaciones,Id perferendis ad dolore.
+480,596,2025-04-01,2025-04-02,Enfermedad,Repudiandae aspernatur molestiae modi consequuntur ex.
+481,5,2024-06-14,2024-06-15,Vacaciones,Deserunt exercitationem repudiandae repellat veritatis ducimus.
+482,467,2024-11-07,2024-11-10,Enfermedad,Quae minima iusto occaecati iusto quo.
+483,739,2025-01-22,2025-01-26,Vacaciones,Minima laudantium distinctio debitis.
+484,918,2025-03-16,2025-03-17,Enfermedad,Repellendus quam ut voluptatem facilis quaerat beatae.
+485,125,2024-11-02,2024-11-07,Enfermedad,Nulla temporibus delectus blanditiis.
+486,699,2024-06-26,2024-06-29,Permiso,Illo architecto deserunt.
+487,274,2025-01-15,2025-01-17,Enfermedad,Odit atque saepe reiciendis.
+488,887,2025-04-12,2025-04-14,Vacaciones,Est magnam dignissimos consequuntur in.
+489,986,2024-11-03,2024-11-07,Enfermedad,Expedita voluptate necessitatibus et et.
+490,921,2025-02-21,2025-02-25,Enfermedad,Tempore aspernatur aliquam ab iusto vel.
+491,972,2024-08-10,2024-08-13,Enfermedad,Odio quibusdam magni repudiandae.
+492,260,2024-12-19,2024-12-23,Vacaciones,Eum voluptate mollitia iusto quod mollitia adipisci.
+493,151,2025-05-05,2025-05-10,Vacaciones,Quod non repellendus incidunt aut corporis.
+494,902,2024-11-14,2024-11-19,Vacaciones,Hic officia recusandae aliquam reprehenderit aperiam.
+495,145,2025-04-17,2025-04-21,No justificada,Suscipit dolores saepe eius nulla at illum.
+496,953,2025-03-17,2025-03-19,Vacaciones,Voluptate enim perferendis ea reiciendis.
+497,791,2025-05-10,2025-05-11,Enfermedad,Veritatis sunt ipsum nesciunt at.
+498,205,2024-11-28,2024-11-29,No justificada,Repellendus voluptatibus fuga laborum.
+499,799,2025-01-19,2025-01-21,Permiso,Deserunt quo vero laudantium voluptatem officiis.
+500,325,2025-01-18,2025-01-23,Enfermedad,Reiciendis eius accusamus quis architecto dignissimos.
+501,626,2025-05-10,2025-05-14,No justificada,Ipsa eligendi fugiat maxime dolore eveniet cumque.
+502,712,2025-03-23,2025-03-28,Enfermedad,Facilis provident fugiat quos eius adipisci enim.
+503,972,2024-08-24,2024-08-28,Enfermedad,Ratione officia eum at quasi nesciunt neque.
+504,979,2025-04-05,2025-04-09,No justificada,Soluta minima explicabo nostrum praesentium at.
+505,621,2025-01-02,2025-01-05,Enfermedad,Esse vel temporibus hic nulla accusantium.
+506,769,2024-12-16,2024-12-19,Vacaciones,Facere sapiente sunt repudiandae impedit.
+507,902,2024-12-29,2025-01-01,Vacaciones,Occaecati quod modi commodi quidem magni distinctio.
+508,191,2025-02-13,2025-02-15,Enfermedad,Facere reiciendis soluta optio nemo quidem deleniti.
+509,862,2025-02-25,2025-02-27,Enfermedad,Ipsum ipsa ipsam nam dolores.
+510,92,2024-09-04,2024-09-05,Vacaciones,Unde illo inventore velit fugiat eos repellendus.
+511,869,2025-02-05,2025-02-07,Vacaciones,Dicta doloremque iure nulla ducimus eius animi.
+512,357,2024-08-23,2024-08-27,Enfermedad,Tempora quam neque suscipit esse natus ex.
+513,359,2025-04-24,2025-04-29,Vacaciones,Repellendus non ab beatae pariatur.
+514,848,2025-03-28,2025-03-29,Permiso,Nesciunt maxime numquam laborum deserunt.
+515,758,2024-08-16,2024-08-21,No justificada,Rerum voluptas voluptatem accusamus earum neque optio.
+516,591,2025-02-15,2025-02-18,Enfermedad,Cumque numquam repellat nisi totam cumque quas.
+517,885,2024-12-04,2024-12-06,Enfermedad,Unde quo provident esse distinctio.
+518,416,2025-01-09,2025-01-11,No justificada,Occaecati quod itaque at quisquam neque atque.
+519,72,2024-07-26,2024-07-31,Permiso,Dolores odit odio adipisci veritatis.
+520,973,2024-06-14,2024-06-16,Enfermedad,Ipsum labore vitae unde.
+521,635,2025-03-09,2025-03-13,Enfermedad,Ratione ab animi quod eligendi occaecati.
+522,625,2024-10-11,2024-10-16,Vacaciones,Provident aliquid beatae totam impedit fuga.
+523,879,2025-03-27,2025-03-29,Vacaciones,Quaerat molestiae consequatur nulla.
+524,559,2025-04-24,2025-04-25,No justificada,Quos tenetur perferendis rem nulla unde.
+525,37,2024-06-18,2024-06-20,Enfermedad,Placeat sit itaque qui.
+526,297,2025-02-12,2025-02-14,Enfermedad,Impedit harum eos neque natus corrupti.
+527,444,2024-12-12,2024-12-13,Enfermedad,Accusantium fuga architecto dolore reiciendis.
+528,740,2025-02-06,2025-02-11,Permiso,Iure architecto earum quis quam in quisquam.
+529,905,2024-10-08,2024-10-10,Enfermedad,Assumenda corporis ex at eaque nobis.
+530,249,2025-04-26,2025-04-30,Enfermedad,Eveniet enim quibusdam modi eligendi cum.
+531,935,2025-01-18,2025-01-19,Enfermedad,Occaecati quia vero quibusdam sequi unde.
+532,241,2025-03-04,2025-03-06,Vacaciones,Perferendis quo exercitationem nostrum deserunt.
+533,746,2024-07-06,2024-07-07,Vacaciones,Illo ullam molestiae asperiores.
+534,171,2025-03-27,2025-03-29,Vacaciones,Magni sit quam possimus commodi commodi.
+535,313,2024-11-21,2024-11-24,Vacaciones,Libero placeat laboriosam saepe omnis libero veniam beatae.
+536,632,2024-09-24,2024-09-29,Enfermedad,Architecto iusto sit cumque aut mollitia quis.
+537,917,2024-06-23,2024-06-26,Permiso,Culpa fugit dignissimos nulla omnis excepturi natus animi.
+538,491,2024-08-08,2024-08-10,Enfermedad,Distinctio amet ipsa corporis ipsum.
+539,818,2024-09-09,2024-09-12,Vacaciones,Minus eum ipsum recusandae.
+540,226,2024-08-08,2024-08-09,Enfermedad,Reiciendis quasi occaecati ducimus.
+541,419,2025-02-26,2025-02-28,Vacaciones,Ipsa sed voluptatum nesciunt totam temporibus perspiciatis.
+542,376,2024-07-05,2024-07-07,Permiso,Laudantium provident nam fugiat voluptas incidunt ducimus.
+543,868,2025-04-19,2025-04-22,Vacaciones,Eos doloribus debitis commodi.
+544,416,2024-08-15,2024-08-20,Vacaciones,Deserunt ducimus ullam porro facere iusto.
+545,420,2025-01-14,2025-01-15,Enfermedad,Ab at dolorum animi error tempora.
+546,176,2024-10-08,2024-10-09,Enfermedad,Quam excepturi quo quibusdam perspiciatis.
+547,406,2025-04-02,2025-04-04,Enfermedad,Amet assumenda reiciendis ipsum veniam nemo dignissimos.
+548,505,2025-05-15,2025-05-16,Permiso,In consequuntur asperiores maxime quaerat modi sequi.
+549,612,2024-10-09,2024-10-11,Enfermedad,Tenetur reiciendis veniam cupiditate neque similique.
+550,199,2025-03-18,2025-03-23,Vacaciones,Necessitatibus facere quaerat est consectetur.
+551,352,2024-11-19,2024-11-23,Vacaciones,Totam rem labore.
+552,915,2025-01-31,2025-02-03,Permiso,Earum mollitia delectus veniam repudiandae omnis ea.
+553,477,2025-02-27,2025-03-04,No justificada,Maiores facere alias hic neque dicta ipsam.
+554,435,2024-09-23,2024-09-24,Vacaciones,Eligendi tempora illum.
+555,642,2024-09-13,2024-09-15,Enfermedad,Fugit nobis deleniti.
+556,4,2024-12-12,2024-12-14,Permiso,Suscipit provident vero tenetur quae odio nemo.
+557,250,2024-12-12,2024-12-13,Enfermedad,Eius rem nam molestiae sit at.
+558,345,2025-06-01,2025-06-03,Vacaciones,Aliquid ipsum quo praesentium reiciendis illum ut.
+559,65,2024-10-25,2024-10-30,Enfermedad,Aliquid omnis non magnam.
+560,105,2025-03-17,2025-03-21,Enfermedad,Inventore labore ullam doloribus.
+561,733,2024-11-14,2024-11-19,Permiso,Qui minus voluptatem maxime accusantium doloribus accusantium.
+562,599,2025-02-03,2025-02-06,Enfermedad,Sit amet sapiente tempora.
+563,969,2025-02-28,2025-03-02,Enfermedad,Quod eveniet officia sapiente voluptatibus repudiandae reprehenderit.
+564,643,2024-09-02,2024-09-05,Vacaciones,Quam velit fuga.
+565,930,2024-07-26,2024-07-31,Permiso,Quos corporis quisquam cupiditate deleniti explicabo in consectetur.
+566,430,2024-10-16,2024-10-20,Enfermedad,Voluptatum ut deleniti cumque inventore.
+567,180,2024-11-10,2024-11-15,Enfermedad,Optio sapiente quia ab magni.
+568,784,2024-06-13,2024-06-16,Enfermedad,Atque architecto iusto facilis corrupti dolores.
+569,665,2024-10-23,2024-10-28,Enfermedad,Sit magnam deserunt ipsa.
+570,415,2025-05-26,2025-05-31,Enfermedad,At harum atque.
+571,674,2025-02-26,2025-02-28,Enfermedad,Dignissimos sunt repudiandae et harum fuga pariatur vel.
+572,510,2025-04-03,2025-04-07,Vacaciones,Nesciunt provident placeat temporibus numquam incidunt quam laboriosam.
+573,154,2024-10-26,2024-10-28,Enfermedad,Laboriosam illo perspiciatis doloribus sed repellendus deleniti.
+574,625,2025-02-14,2025-02-15,Vacaciones,Tempore exercitationem dolorem veritatis magnam libero.
+575,648,2025-05-19,2025-05-23,Enfermedad,Labore eligendi itaque necessitatibus.
+576,927,2025-04-18,2025-04-23,Permiso,Qui doloribus excepturi laboriosam sapiente.
+577,958,2025-03-12,2025-03-15,Vacaciones,Quam architecto dolor nesciunt.
+578,324,2024-09-15,2024-09-19,Enfermedad,Perferendis fugiat iusto cupiditate praesentium.
+579,342,2024-08-10,2024-08-13,Enfermedad,Eos non nostrum iusto consequuntur hic vitae.
+580,317,2025-04-18,2025-04-22,Enfermedad,Ex suscipit sunt labore.
+581,200,2024-06-12,2024-06-15,Permiso,Sunt numquam quibusdam eligendi aperiam.
+582,349,2024-08-18,2024-08-19,Permiso,Delectus distinctio doloribus quo nemo amet tempore.
+583,896,2025-04-18,2025-04-20,Vacaciones,Reprehenderit excepturi ratione.
+584,889,2025-02-08,2025-02-09,Enfermedad,Ea inventore inventore non repellat quisquam.
+585,272,2025-01-05,2025-01-09,Enfermedad,Ipsa et dignissimos suscipit optio expedita exercitationem.
+586,136,2024-10-29,2024-11-02,Vacaciones,Error quisquam doloremque adipisci explicabo eos maxime ex.
+587,229,2024-11-03,2024-11-07,Vacaciones,Officiis quaerat assumenda animi.
+588,874,2025-03-31,2025-04-01,Vacaciones,Cupiditate sunt animi odio minima dolore.
+589,699,2024-10-21,2024-10-26,Vacaciones,Saepe quos quis natus cum hic.
+590,430,2025-01-29,2025-02-03,Enfermedad,Facere error reprehenderit illo esse maxime omnis.
+591,113,2024-12-21,2024-12-25,Enfermedad,Repellendus quisquam id culpa iste a.
+592,997,2025-02-12,2025-02-13,Enfermedad,Architecto quae molestiae iusto.
+593,479,2024-07-30,2024-08-03,Enfermedad,Harum sit perferendis voluptatum expedita nulla.
+594,76,2025-03-10,2025-03-15,Enfermedad,Libero alias rerum illum in.
+595,851,2025-02-16,2025-02-17,Permiso,Tenetur error alias veritatis.
+596,159,2025-01-25,2025-01-30,Vacaciones,Eligendi nesciunt assumenda voluptates voluptates quis.
+597,571,2024-12-04,2024-12-05,No justificada,Repellendus libero eligendi reiciendis alias praesentium.
+598,692,2025-04-11,2025-04-13,Enfermedad,Minus aliquam sequi doloribus atque dolorem nesciunt.
+599,833,2024-11-23,2024-11-25,Enfermedad,Maxime quia qui dolores aspernatur voluptates.
+600,159,2025-01-27,2025-02-01,Enfermedad,Qui rerum ratione fugiat doloribus quidem harum.
+601,795,2024-10-19,2024-10-23,Permiso,Expedita nisi aliquam unde assumenda incidunt.
+602,877,2025-01-27,2025-01-31,Vacaciones,Molestiae exercitationem quaerat assumenda dolore.
+603,385,2025-03-02,2025-03-07,Permiso,Explicabo facilis optio maxime.
+604,554,2024-12-25,2024-12-27,Vacaciones,Nobis sequi recusandae odio eligendi.
+605,527,2025-02-04,2025-02-09,Permiso,Tempora sequi aliquam aut distinctio temporibus quo.
+606,260,2024-10-19,2024-10-21,Permiso,Ad dicta ipsam ipsum nesciunt amet nobis.
+607,448,2025-01-22,2025-01-26,Permiso,Velit rem neque unde atque ducimus.
+608,921,2025-02-27,2025-03-01,Enfermedad,Laborum eum eaque aliquid quis excepturi sequi rem.
+609,392,2024-08-29,2024-08-31,Permiso,Laudantium error vero nobis.
+610,144,2024-11-22,2024-11-25,Vacaciones,Consequatur adipisci maiores blanditiis reiciendis.
+611,446,2025-01-24,2025-01-29,Permiso,Placeat autem iusto labore molestias numquam non.
+612,409,2025-04-10,2025-04-14,Enfermedad,Ea unde soluta soluta velit aliquid quasi.
+613,123,2025-02-21,2025-02-25,Vacaciones,Dolore commodi accusantium sit.
+614,4,2025-01-29,2025-02-03,Vacaciones,Dicta exercitationem autem vel.
+615,359,2024-08-15,2024-08-20,Enfermedad,Aliquam modi numquam ducimus rem blanditiis.
+616,215,2024-12-11,2024-12-13,Enfermedad,Voluptates commodi sit excepturi.
+617,607,2024-12-01,2024-12-03,Enfermedad,Debitis ab odit reiciendis.
+618,773,2024-07-29,2024-07-30,Permiso,Pariatur modi corporis suscipit doloremque deserunt deleniti nesciunt.
+619,283,2025-01-17,2025-01-22,Vacaciones,At non explicabo dolore.
+620,272,2025-01-18,2025-01-19,Enfermedad,Officia omnis soluta quae quas porro.
+621,598,2024-09-09,2024-09-12,Permiso,Vel corporis ipsa in consequatur quos tempora.
+622,171,2024-06-19,2024-06-24,Enfermedad,Quam totam neque nobis.
+623,747,2024-08-06,2024-08-09,Enfermedad,Maxime perspiciatis reprehenderit eum eveniet repellat excepturi.
+624,871,2025-02-20,2025-02-21,Enfermedad,Explicabo assumenda laudantium nisi quo possimus.
+625,826,2025-03-17,2025-03-20,Vacaciones,Ab ipsam asperiores accusantium neque blanditiis quam non.
+626,646,2024-06-19,2024-06-21,Enfermedad,Optio placeat natus ad enim cupiditate.
+627,28,2024-08-05,2024-08-09,Enfermedad,Quasi quis labore voluptate sint recusandae.
+628,597,2025-05-18,2025-05-22,Enfermedad,Dolorem soluta eveniet.
+629,289,2024-09-20,2024-09-23,Enfermedad,Nostrum dolorem facilis nobis est consequatur dolor.
+630,237,2025-02-12,2025-02-15,Enfermedad,Impedit at ut.
+631,406,2024-11-09,2024-11-13,Enfermedad,Recusandae voluptatem distinctio cupiditate tenetur.
+632,336,2024-08-28,2024-09-01,Enfermedad,Ex consequatur ipsam at totam sed est modi.
+633,903,2025-03-23,2025-03-26,Enfermedad,Facere ex perferendis reprehenderit modi quaerat esse.
+634,247,2024-10-21,2024-10-25,Enfermedad,Exercitationem quasi aspernatur eaque.
+635,175,2024-07-16,2024-07-19,Permiso,Eos blanditiis temporibus cum alias.
+636,741,2024-12-29,2025-01-03,Enfermedad,Ipsam minus quas deleniti fugiat.
+637,632,2024-09-19,2024-09-21,Enfermedad,Neque facilis corrupti maiores at repellendus enim.
+638,894,2024-07-30,2024-08-02,Enfermedad,Omnis esse similique.
+639,833,2024-08-29,2024-09-02,Vacaciones,Praesentium consequuntur accusantium voluptatibus repudiandae minus expedita.
+640,455,2025-05-21,2025-05-22,Vacaciones,Quam nesciunt quae facilis ducimus corrupti.
+641,171,2025-02-07,2025-02-09,Vacaciones,Odio minima ratione perspiciatis.
+642,969,2025-04-26,2025-04-29,Enfermedad,Fugit porro sit magnam vel consequuntur aperiam delectus.
+643,201,2025-04-07,2025-04-10,Vacaciones,Quia odit nemo vitae earum.
+644,611,2025-01-23,2025-01-24,Vacaciones,Quibusdam hic expedita reprehenderit ipsa.
+645,402,2024-11-01,2024-11-02,No justificada,Quis mollitia error expedita sunt ratione ducimus.
+646,502,2024-11-04,2024-11-09,Enfermedad,Molestias aut accusamus.
+647,83,2024-08-20,2024-08-22,Enfermedad,Incidunt eveniet alias voluptas reiciendis ab.
+648,41,2024-07-05,2024-07-10,Vacaciones,Officia omnis consequatur suscipit similique mollitia magnam.
+649,78,2025-05-16,2025-05-19,Vacaciones,Reprehenderit delectus neque nemo laudantium.
+650,978,2024-07-08,2024-07-12,Permiso,Deserunt provident autem iure.
+651,648,2024-06-18,2024-06-22,Vacaciones,Ipsa dolor sint soluta beatae recusandae nostrum blanditiis.
+652,660,2024-09-18,2024-09-23,Enfermedad,Ipsum nam culpa magnam dolore est.
+653,272,2025-03-03,2025-03-06,Vacaciones,Eum sed autem laboriosam doloremque sit praesentium similique.
+654,539,2024-10-21,2024-10-22,Permiso,Architecto doloremque architecto sit consequuntur.
+655,690,2024-11-15,2024-11-16,Permiso,Ipsam officiis fugit omnis omnis.
+656,493,2025-03-29,2025-04-01,Enfermedad,Exercitationem perspiciatis voluptas sequi voluptate.
+657,123,2024-08-16,2024-08-18,Permiso,Quasi aperiam inventore suscipit labore ad harum.
+658,265,2025-03-31,2025-04-01,Enfermedad,Aspernatur assumenda amet.
+659,668,2025-01-29,2025-02-02,Vacaciones,Harum temporibus odit.
+660,168,2024-09-22,2024-09-27,Enfermedad,Saepe cupiditate perferendis laboriosam quidem at.
+661,464,2025-05-27,2025-05-31,Vacaciones,Eligendi explicabo eaque accusamus atque.
+662,594,2024-12-16,2024-12-21,Permiso,Quae eum maxime distinctio.
+663,503,2025-01-22,2025-01-24,Vacaciones,Unde iste minima eveniet accusamus aperiam.
+664,269,2024-07-03,2024-07-04,Enfermedad,Nostrum laudantium nostrum perspiciatis facilis totam maxime.
+665,122,2024-10-16,2024-10-17,Enfermedad,Harum possimus laudantium.
+666,965,2024-11-02,2024-11-06,Vacaciones,Neque animi perferendis qui repudiandae aliquid.
+667,928,2025-03-24,2025-03-26,Enfermedad,Eveniet nobis repellat laudantium voluptates.
+668,195,2025-04-05,2025-04-06,Enfermedad,Nulla doloribus repudiandae.
+669,886,2025-06-10,2025-06-12,Enfermedad,Nam similique temporibus qui nesciunt excepturi qui.
+670,538,2025-02-01,2025-02-06,No justificada,Sapiente soluta ab facilis.
+671,821,2025-05-06,2025-05-10,Enfermedad,Sunt quae similique eaque debitis neque.
+672,196,2024-06-28,2024-06-30,Enfermedad,Laboriosam harum ex doloribus sunt ratione dicta rem.
+673,137,2025-01-16,2025-01-18,Enfermedad,Sed culpa voluptate aliquid aperiam exercitationem.
+674,942,2025-01-13,2025-01-15,Enfermedad,Perferendis ullam officia minus sunt earum.
+675,115,2024-06-21,2024-06-26,Vacaciones,Velit hic ex.
+676,518,2025-04-01,2025-04-04,Permiso,Quo ipsa ut pariatur commodi.
+677,483,2024-10-15,2024-10-16,Enfermedad,Odit reiciendis hic repellat.
+678,528,2024-07-25,2024-07-28,No justificada,Mollitia optio dolores aut minima occaecati.
+679,835,2024-06-27,2024-06-28,Enfermedad,Vel itaque minus fugit culpa.
+680,706,2025-05-24,2025-05-28,Vacaciones,Placeat sint nisi possimus alias nihil.
+681,989,2024-09-15,2024-09-19,Permiso,Molestiae expedita quasi eum.
+682,737,2024-07-09,2024-07-11,Vacaciones,Illo culpa animi suscipit culpa modi.
+683,688,2024-07-13,2024-07-15,Enfermedad,Quam voluptatum aspernatur aliquam fuga.
+684,335,2024-06-15,2024-06-20,Vacaciones,Possimus aut tempora provident provident cum nulla.
+685,427,2024-06-27,2024-07-02,Vacaciones,Vel repellat dignissimos eum officia quibusdam.
+686,462,2024-07-31,2024-08-05,Vacaciones,At hic dolorum placeat magni.
+687,20,2024-07-21,2024-07-22,Enfermedad,Ipsam fugiat a itaque fugit unde.
+688,912,2024-11-12,2024-11-13,Enfermedad,Totam optio nostrum sint ipsum.
+689,898,2025-03-21,2025-03-22,Enfermedad,Consequuntur ducimus similique et tempore voluptatem deserunt.
+690,767,2025-05-15,2025-05-18,Permiso,Aspernatur deserunt soluta esse vitae.
+691,165,2025-04-06,2025-04-07,Vacaciones,Aliquam labore quod a.
+692,450,2024-10-06,2024-10-07,Enfermedad,Quod quisquam reprehenderit architecto est.
+693,587,2025-02-02,2025-02-06,Enfermedad,Laboriosam provident doloribus perferendis laboriosam aut sed.
+694,859,2024-12-06,2024-12-08,Vacaciones,Tenetur nam culpa.
+695,122,2025-05-15,2025-05-18,Vacaciones,Beatae exercitationem voluptatibus tenetur exercitationem earum.
+696,382,2025-01-17,2025-01-21,Vacaciones,Quo reprehenderit harum non labore harum.
+697,997,2024-10-23,2024-10-26,Permiso,Pariatur eos tempora magnam.
+698,659,2025-04-21,2025-04-22,Enfermedad,Earum sunt quidem accusantium recusandae.
+699,839,2025-01-29,2025-01-31,Enfermedad,Maxime maiores id officia dolorem ipsum enim deserunt.
+700,755,2024-07-19,2024-07-23,Enfermedad,Magnam nihil officia at laboriosam nemo.
+701,881,2025-05-18,2025-05-20,Enfermedad,Nulla tempora consectetur odit laboriosam.
+702,111,2025-03-02,2025-03-04,Vacaciones,Repudiandae laborum neque voluptates alias quasi sint harum.
+703,349,2024-11-10,2024-11-15,Vacaciones,Quibusdam quibusdam repellendus repellendus.
+704,342,2024-07-08,2024-07-13,Permiso,Ducimus ut unde totam numquam nisi sequi.
+705,392,2025-04-21,2025-04-26,Permiso,Temporibus animi velit natus in aperiam illum et.
+706,243,2024-09-29,2024-10-02,Permiso,Deserunt non recusandae officia officia dolor deleniti.
+707,882,2024-06-21,2024-06-25,Enfermedad,Eos minima sequi iure.
+708,363,2025-06-09,2025-06-14,Permiso,Velit velit dignissimos vitae quasi dolore nulla.
+709,858,2025-05-02,2025-05-03,Enfermedad,Dolore laborum ipsa esse culpa perferendis.
+710,755,2024-09-08,2024-09-10,Enfermedad,Possimus nostrum voluptatum earum ab.
+711,319,2024-12-02,2024-12-05,Enfermedad,Voluptate optio sit inventore possimus odit.
+712,493,2025-03-18,2025-03-19,Enfermedad,Minima odit incidunt impedit nesciunt magni in.
+713,450,2025-03-25,2025-03-27,Vacaciones,Cupiditate aliquam nesciunt aspernatur laboriosam maiores saepe iste.
+714,186,2025-03-14,2025-03-15,Enfermedad,Maiores voluptates et sint quaerat cumque iure.
+715,575,2025-06-02,2025-06-04,No justificada,Excepturi cum ipsam aliquam alias deleniti odio.
+716,938,2025-04-10,2025-04-13,Vacaciones,Cupiditate autem et cumque sapiente necessitatibus.
+717,748,2024-08-03,2024-08-05,Permiso,Ipsa voluptatem alias.
+718,485,2024-06-29,2024-07-03,Enfermedad,Sapiente libero repudiandae quibusdam error.
+719,450,2025-03-28,2025-03-29,Enfermedad,Tenetur sint perferendis corrupti.
+720,842,2024-11-17,2024-11-22,No justificada,Commodi modi sunt officia nam error.
+721,167,2025-01-16,2025-01-17,Enfermedad,Aliquid quam corporis natus porro.
+722,38,2024-09-11,2024-09-14,Enfermedad,Quis possimus harum consectetur provident et.
+723,872,2025-05-01,2025-05-03,Vacaciones,Dolore molestiae officia beatae harum iste asperiores et.
+724,754,2024-07-15,2024-07-20,Vacaciones,Reprehenderit fugit facilis dolorem.
+725,546,2025-04-26,2025-04-27,Permiso,Minus voluptatem ex iste hic saepe ipsa quo.
+726,381,2024-10-07,2024-10-11,Permiso,Ipsam id et facilis aliquam repellat a.
+727,318,2025-03-06,2025-03-10,Enfermedad,Voluptate totam minus.
+728,704,2024-07-09,2024-07-13,Permiso,Voluptas tempora nobis.
+729,274,2024-09-08,2024-09-09,Enfermedad,Commodi ratione deserunt excepturi veritatis illo.
+730,903,2024-07-28,2024-08-01,Enfermedad,Molestiae unde aperiam dicta eveniet non.
+731,842,2024-07-25,2024-07-30,Vacaciones,Deleniti porro nesciunt tempore ab maxime praesentium illo.
+732,217,2025-01-27,2025-01-30,Enfermedad,Libero quam explicabo asperiores veniam reiciendis.
+733,56,2024-08-02,2024-08-04,Enfermedad,Explicabo facere totam nisi.
+734,785,2024-11-02,2024-11-05,Enfermedad,Aperiam quasi illo sint animi impedit facere quaerat.
+735,738,2024-09-25,2024-09-29,Enfermedad,Aspernatur doloribus aliquam maxime.
+736,402,2024-07-27,2024-07-31,Enfermedad,Sunt amet culpa adipisci explicabo delectus.
+737,402,2025-02-07,2025-02-09,Enfermedad,Mollitia eos excepturi itaque provident ab dolore.
+738,587,2025-03-17,2025-03-22,Permiso,Dignissimos vel sequi aliquam eveniet.
+739,251,2024-06-29,2024-06-30,Enfermedad,Ipsum quaerat harum accusamus perspiciatis similique.
+740,934,2025-02-27,2025-03-01,Enfermedad,Necessitatibus hic corrupti soluta aliquam sequi aliquid.
+741,229,2025-04-03,2025-04-06,Permiso,Eligendi saepe aliquid tempore.
+742,987,2024-08-15,2024-08-18,Vacaciones,Vitae eos nemo aperiam.
+743,979,2025-05-19,2025-05-21,Permiso,Iste quasi doloribus vel officiis quidem in.
+744,227,2024-12-08,2024-12-11,Enfermedad,Doloribus quod dolor omnis perspiciatis.
+745,329,2024-11-16,2024-11-21,Vacaciones,Perferendis dignissimos quia blanditiis sint ratione id.
+746,595,2024-10-11,2024-10-12,Enfermedad,Ipsum ducimus officia unde optio.
+747,565,2024-09-20,2024-09-25,Enfermedad,Ut repellendus cumque architecto officiis dignissimos.
+748,412,2025-01-07,2025-01-12,Enfermedad,Perferendis labore laborum eius velit aperiam quibusdam.
+749,649,2024-07-20,2024-07-21,Enfermedad,Reprehenderit voluptas repudiandae eaque iusto eaque temporibus.
+750,715,2024-09-30,2024-10-01,Enfermedad,Provident voluptates porro.
+751,22,2025-04-21,2025-04-26,Permiso,Ut perferendis dolore voluptatibus corrupti doloremque asperiores.
+752,327,2024-07-16,2024-07-19,Enfermedad,Earum ducimus fugit ipsa fugiat delectus.
+753,318,2024-11-01,2024-11-02,Permiso,Ratione optio odio.
+754,452,2025-02-15,2025-02-18,Enfermedad,Harum omnis nam saepe consequuntur pariatur veniam.
+755,116,2025-03-21,2025-03-22,Vacaciones,Autem a vero iste quasi.
+756,175,2024-09-13,2024-09-17,No justificada,Cupiditate est nesciunt numquam.
+757,761,2024-09-26,2024-09-27,Enfermedad,Ea cum impedit.
+758,592,2025-01-01,2025-01-06,Vacaciones,Sit itaque vitae harum qui quidem.
+759,113,2024-08-13,2024-08-17,Enfermedad,Aut illo eligendi quis.
+760,818,2025-05-23,2025-05-26,Enfermedad,Tempore ut vitae mollitia deserunt commodi.
+761,549,2024-09-20,2024-09-21,Enfermedad,Dolorem sunt voluptates accusantium voluptatibus omnis corporis debitis.
+762,139,2024-12-19,2024-12-20,Permiso,Animi aliquam quas quo sit suscipit.
+763,36,2024-11-22,2024-11-24,No justificada,Debitis quam cupiditate voluptates tempora.
+764,790,2024-10-03,2024-10-05,Vacaciones,Qui et excepturi quas deleniti sequi nesciunt.
+765,568,2024-11-20,2024-11-22,Enfermedad,Adipisci et tempore consequuntur mollitia.
+766,567,2024-12-23,2024-12-28,Vacaciones,Iste dolorum rerum eius sunt quam.
+767,139,2024-10-19,2024-10-20,Vacaciones,Sint cupiditate dolor consectetur.
+768,877,2025-02-09,2025-02-12,Vacaciones,Blanditiis architecto exercitationem possimus explicabo numquam beatae officia.
+769,801,2024-10-10,2024-10-15,Enfermedad,Ea voluptas provident.
+770,681,2024-08-08,2024-08-13,Vacaciones,Iure culpa natus assumenda vitae.
+771,422,2025-02-16,2025-02-20,Enfermedad,Eveniet iste doloremque expedita fuga unde voluptatem.
+772,658,2025-01-09,2025-01-10,Enfermedad,Eos doloribus ut quae odio amet sint.
+773,574,2025-04-24,2025-04-25,Permiso,Quod sint iure accusamus iure.
+774,169,2024-07-20,2024-07-25,Enfermedad,Facilis voluptates blanditiis doloremque ad similique.
+775,782,2025-04-14,2025-04-15,Enfermedad,Amet tempore tempore dolorum enim.
+776,86,2025-01-05,2025-01-06,Vacaciones,Atque sint porro.
+777,305,2024-06-17,2024-06-19,No justificada,Quis fugiat tenetur molestiae.
+778,710,2025-01-27,2025-01-28,Enfermedad,Architecto soluta aut esse.
+779,429,2024-07-03,2024-07-04,Vacaciones,Officiis consectetur a mollitia.
+780,829,2024-07-13,2024-07-14,Vacaciones,Culpa dolorum consequuntur laboriosam veritatis dolore fuga.
+781,255,2025-02-18,2025-02-22,Enfermedad,Nobis minima incidunt facilis distinctio.
+782,573,2024-09-13,2024-09-15,Permiso,Occaecati assumenda repudiandae expedita.
+783,81,2025-02-03,2025-02-06,Vacaciones,Explicabo non occaecati mollitia repellat.
+784,74,2025-04-21,2025-04-24,Enfermedad,Laudantium asperiores quidem velit.
+785,322,2025-03-01,2025-03-04,Enfermedad,Maiores ex occaecati exercitationem beatae iusto doloremque.
+786,764,2025-01-18,2025-01-22,Permiso,Deserunt earum delectus laudantium ullam sequi autem.
+787,487,2024-11-27,2024-12-02,Enfermedad,Quos esse laborum maxime impedit ducimus cupiditate.
+788,835,2025-04-09,2025-04-12,Enfermedad,Dicta hic tenetur illum mollitia dignissimos culpa.
+789,587,2024-07-20,2024-07-22,Vacaciones,Ab alias excepturi quas repellat.
+790,668,2024-07-17,2024-07-20,Enfermedad,Porro perferendis vel maxime.
+791,263,2025-02-10,2025-02-14,Enfermedad,Nihil quibusdam blanditiis animi nesciunt.
+792,173,2025-05-18,2025-05-21,Vacaciones,Aut ipsum amet numquam.
+793,254,2025-04-19,2025-04-24,Enfermedad,Animi ipsa delectus officia occaecati distinctio recusandae.
+794,261,2025-05-25,2025-05-26,Vacaciones,Nobis doloremque atque ipsa libero nostrum quibusdam earum.
+795,455,2025-04-29,2025-05-03,Enfermedad,Totam dicta occaecati est nobis quidem numquam.
+796,640,2024-08-10,2024-08-13,Permiso,Sit omnis quod reprehenderit eligendi architecto unde voluptatibus.
+797,500,2025-04-27,2025-04-29,Vacaciones,Dolores laudantium nesciunt molestias ad quaerat.
+798,9,2025-03-27,2025-03-31,Vacaciones,Ex nobis porro iure.
+799,869,2025-05-31,2025-06-04,Vacaciones,Laborum eius delectus facere.
+800,807,2025-01-18,2025-01-22,Vacaciones,Molestias exercitationem omnis quia placeat hic sapiente.
