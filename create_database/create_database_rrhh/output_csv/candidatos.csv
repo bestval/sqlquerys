@@ -1,0 +1,501 @@
+ID_Candidato,Nombre,Fecha_Aplicacion,Puesto_Aplicado,Estado,Fuente,Evaluacion
+1,Michelle Frazier,2024-09-28,Encargado/a,Rechazado,Portal Empleo,4.87
+2,Harold Lee,2025-06-10,Gerente tienda,Rechazado,Feria empleo,3.79
+3,Jonathan Scott,2025-02-04,Cajero/a,Contratado,LinkedIn,2.55
+4,Stacey Elliott,2025-03-05,Almacén,Entrevistado,Web,4.88
+5,Nicholas Boyer,2024-07-12,Dependiente/a,Rechazado,Portal Empleo,4.16
+6,Tony Munoz,2025-02-02,Almacén,Entrevistado,Referido,3.16
+7,Kelly Rose,2025-05-23,Gerente tienda,Entrevistado,Web,3.63
+8,Philip Johnson,2025-04-20,Encargado/a,Entrevistado,Portal Empleo,3.77
+9,Justin Anderson,2025-02-16,Dependiente/a,Entrevistado,LinkedIn,2.18
+10,Adam Mercado,2024-11-28,Visual merchandiser,Rechazado,Portal Empleo,4.06
+11,Robert Torres,2024-10-08,Almacén,Rechazado,Feria empleo,2.31
+12,Rebecca Barnett,2024-07-28,Cajero/a,Entrevistado,Portal Empleo,3.78
+13,Chad Johnson,2024-08-14,Dependiente/a,Entrevistado,Feria empleo,2.53
+14,Kristie Fitzpatrick,2024-09-19,Cajero/a,Rechazado,LinkedIn,4.93
+15,James Wood,2025-04-30,Encargado/a,Rechazado,LinkedIn,3.76
+16,Laurie Tucker,2025-03-01,Encargado/a,Contratado,LinkedIn,2.55
+17,Ms. Michelle Castillo,2024-12-02,Almacén,Entrevistado,Referido,4.12
+18,Dr. Stacey Mccarthy,2024-11-07,Cajero/a,Entrevistado,Referido,4.6
+19,Kimberly Williams,2024-07-01,Encargado/a,Entrevistado,LinkedIn,2.14
+20,Michael Reynolds,2025-06-06,Visual merchandiser,Rechazado,Referido,3.72
+21,Peter Mitchell,2025-02-04,Encargado/a,Entrevistado,Feria empleo,2.76
+22,Jason Nicholson,2025-03-24,Encargado/a,Contratado,Web,4.66
+23,Jeffrey Montes,2025-06-09,Almacén,Contratado,Web,2.72
+24,Cesar Soto,2025-03-14,Cajero/a,Entrevistado,LinkedIn,3.63
+25,Mr. George Hickman DDS,2024-09-13,Almacén,Contratado,Portal Empleo,2.95
+26,Timothy Bowers,2024-11-30,Almacén,Entrevistado,Web,3.59
+27,Jennifer Hicks,2025-01-23,Dependiente/a,Rechazado,Referido,3.81
+28,Donald Massey,2025-05-22,Almacén,Rechazado,Portal Empleo,2.34
+29,Megan Flores,2025-03-02,Almacén,Rechazado,Feria empleo,4.02
+30,Austin Mckinney,2025-02-25,Cajero/a,Entrevistado,LinkedIn,2.02
+31,Vanessa Lawrence,2024-08-20,Encargado/a,Rechazado,Web,2.15
+32,Kimberly Robinson,2024-11-11,Gerente tienda,Entrevistado,Portal Empleo,2.48
+33,Zachary Harper,2025-01-14,Dependiente/a,Entrevistado,Feria empleo,3.99
+34,Lawrence Dixon,2024-10-03,Gerente tienda,Rechazado,Feria empleo,4.67
+35,Tracey Perez,2025-03-05,Visual merchandiser,Rechazado,Referido,4.78
+36,Jeffrey Wood,2025-02-24,Visual merchandiser,Rechazado,Portal Empleo,2.05
+37,Kevin Arnold,2024-08-14,Gerente tienda,Rechazado,Portal Empleo,4.59
+38,Karen Sullivan,2024-11-19,Gerente tienda,Entrevistado,Web,2.74
+39,Rebecca Foster,2024-11-10,Visual merchandiser,Entrevistado,Portal Empleo,3.41
+40,Cody Gillespie,2025-02-17,Almacén,Entrevistado,LinkedIn,3.17
+41,Karl Green,2024-08-21,Gerente tienda,Rechazado,Referido,2.44
+42,Jeremiah Simpson,2024-11-29,Almacén,Rechazado,Portal Empleo,4.49
+43,Matthew Jackson,2025-03-08,Cajero/a,Contratado,Portal Empleo,2.74
+44,Katrina Sweeney,2024-08-27,Almacén,Contratado,Portal Empleo,4.32
+45,Maurice Harris,2024-09-29,Gerente tienda,Entrevistado,Referido,4.01
+46,Tyler Rosales,2024-11-28,Visual merchandiser,Entrevistado,Portal Empleo,2.49
+47,Sean Wilson,2025-01-17,Cajero/a,Entrevistado,Referido,4.74
+48,Terri Howe,2025-02-15,Dependiente/a,Contratado,Feria empleo,2.03
+49,Jennifer Davis,2025-01-06,Almacén,Entrevistado,LinkedIn,3.42
+50,John Jones,2024-07-08,Almacén,Rechazado,Referido,4.18
+51,James Jackson,2025-03-13,Encargado/a,Entrevistado,Feria empleo,4.61
+52,Betty Gregory,2024-10-24,Almacén,Entrevistado,LinkedIn,3.08
+53,Tabitha Murphy,2024-08-23,Cajero/a,Contratado,LinkedIn,2.61
+54,Joshua Green,2024-10-11,Visual merchandiser,Entrevistado,Portal Empleo,3.95
+55,Nicole Dunn,2024-07-07,Cajero/a,Rechazado,Portal Empleo,3.51
+56,Dustin Rodriguez,2024-12-02,Gerente tienda,Contratado,LinkedIn,2.67
+57,Kelly Smith,2024-07-26,Visual merchandiser,Rechazado,LinkedIn,3.57
+58,Sean Jones,2024-11-21,Cajero/a,Rechazado,Referido,4.59
+59,Derek Horton,2024-12-22,Visual merchandiser,Entrevistado,Referido,2.31
+60,Gary Leonard,2024-07-13,Encargado/a,Rechazado,LinkedIn,3.34
+61,Kathryn Gonzales,2025-01-10,Gerente tienda,Entrevistado,Referido,3.64
+62,Ronnie Shepherd,2024-11-25,Cajero/a,Rechazado,Portal Empleo,2.39
+63,Amanda Parker,2024-09-12,Encargado/a,Entrevistado,Web,4.42
+64,Jasmin Moss,2024-08-13,Cajero/a,Contratado,Portal Empleo,2.95
+65,Danielle Ramirez,2024-10-21,Dependiente/a,Contratado,Feria empleo,4.77
+66,Amanda Schmidt,2025-05-25,Dependiente/a,Rechazado,Referido,4.47
+67,Caleb Williams,2025-02-09,Gerente tienda,Entrevistado,LinkedIn,2.8
+68,Kristi Williams,2025-02-11,Gerente tienda,Rechazado,Referido,2.3
+69,Melissa Guzman,2025-02-02,Gerente tienda,Contratado,Web,2.91
+70,Erica Carey,2024-08-08,Gerente tienda,Rechazado,LinkedIn,4.47
+71,Kim Fox,2025-01-20,Almacén,Rechazado,Referido,4.59
+72,John Hernandez,2025-01-18,Encargado/a,Entrevistado,Portal Empleo,4.36
+73,Christie Silva,2024-12-24,Cajero/a,Rechazado,Referido,4.78
+74,Aaron Murray,2025-02-27,Cajero/a,Rechazado,Web,4.53
+75,Raymond Williams,2024-07-21,Encargado/a,Entrevistado,LinkedIn,2.59
+76,Linda Miller,2024-12-24,Almacén,Rechazado,LinkedIn,3.01
+77,Jacob Jones,2024-08-30,Gerente tienda,Entrevistado,LinkedIn,3.19
+78,Paul Cabrera,2025-01-26,Almacén,Rechazado,LinkedIn,4.69
+79,Emily Morales,2024-11-28,Almacén,Contratado,Portal Empleo,2.54
+80,Kelsey Collins,2025-05-24,Visual merchandiser,Rechazado,Referido,2.44
+81,Michael Le,2025-04-28,Almacén,Contratado,Feria empleo,4.14
+82,Diane Gonzalez,2025-04-19,Dependiente/a,Entrevistado,Referido,2.97
+83,Ashley Wells,2025-01-25,Dependiente/a,Contratado,Feria empleo,3.56
+84,Katie Powell,2024-06-17,Dependiente/a,Rechazado,LinkedIn,2.13
+85,Jeremy Sweeney,2025-01-26,Visual merchandiser,Entrevistado,Portal Empleo,3.77
+86,Dr. Taylor Santos,2025-05-22,Cajero/a,Contratado,Web,2.26
+87,Dr. Beth Garcia,2024-10-11,Encargado/a,Rechazado,Web,3.81
+88,Rebecca Perkins,2024-11-29,Dependiente/a,Entrevistado,LinkedIn,3.72
+89,Donald Roach,2025-04-17,Almacén,Contratado,LinkedIn,3.11
+90,Joseph Decker,2024-08-18,Dependiente/a,Rechazado,Web,3.47
+91,Todd Willis,2024-11-11,Visual merchandiser,Contratado,Feria empleo,3.63
+92,Joshua Moss,2024-10-15,Encargado/a,Contratado,Web,4.85
+93,Richard Woods,2024-09-21,Dependiente/a,Entrevistado,Web,3.08
+94,Angela Pierce,2025-06-08,Encargado/a,Rechazado,Web,2.36
+95,Joshua Wilson,2024-10-06,Almacén,Contratado,Portal Empleo,2.01
+96,Sergio Lopez,2024-10-26,Almacén,Entrevistado,Feria empleo,4.74
+97,Jason Parrish,2025-04-25,Cajero/a,Rechazado,Portal Empleo,3.52
+98,Corey Shields,2025-01-10,Cajero/a,Entrevistado,Portal Empleo,2.35
+99,Julie Barrett,2025-05-04,Visual merchandiser,Rechazado,LinkedIn,2.21
+100,Jennifer Trujillo,2025-05-22,Gerente tienda,Rechazado,Portal Empleo,4.54
+101,Kevin Bennett,2025-01-25,Visual merchandiser,Entrevistado,Portal Empleo,3.85
+102,Mark Bowman,2024-08-13,Dependiente/a,Rechazado,Portal Empleo,4.95
+103,David Chavez,2024-12-26,Encargado/a,Entrevistado,Feria empleo,2.3
+104,Barbara Flynn,2024-07-26,Cajero/a,Contratado,LinkedIn,4.33
+105,Ronald Saunders,2024-06-19,Encargado/a,Contratado,Referido,4.0
+106,Brandy Owens,2025-03-11,Cajero/a,Entrevistado,LinkedIn,2.93
+107,Melissa Vargas,2024-11-15,Cajero/a,Rechazado,Web,3.43
+108,Lauren Morgan,2025-04-18,Cajero/a,Rechazado,Feria empleo,2.39
+109,Evan Santiago,2024-12-26,Gerente tienda,Contratado,Feria empleo,3.79
+110,Nicholas Moore,2025-02-13,Visual merchandiser,Entrevistado,LinkedIn,4.36
+111,Dalton Holt,2024-10-29,Almacén,Entrevistado,Web,3.67
+112,Ronald Johnson,2025-04-11,Visual merchandiser,Rechazado,Feria empleo,4.29
+113,Victoria Spence,2025-03-01,Cajero/a,Contratado,Portal Empleo,2.84
+114,Sharon Wagner,2025-02-27,Visual merchandiser,Rechazado,LinkedIn,2.21
+115,Jared Scott,2025-02-24,Encargado/a,Rechazado,Portal Empleo,2.99
+116,Jamie Evans,2025-04-12,Cajero/a,Contratado,Referido,4.09
+117,James Cole,2024-12-01,Gerente tienda,Entrevistado,Referido,2.69
+118,Andrew Hogan,2024-12-05,Encargado/a,Contratado,Referido,4.62
+119,Misty Anderson MD,2025-02-11,Almacén,Rechazado,Portal Empleo,2.89
+120,Patrick Owens,2025-05-30,Encargado/a,Rechazado,Portal Empleo,3.68
+121,Mrs. Lisa Nichols,2025-01-04,Cajero/a,Entrevistado,Portal Empleo,3.22
+122,Michelle Reynolds,2025-05-07,Gerente tienda,Rechazado,Portal Empleo,4.82
+123,Sheri Brown,2025-03-21,Cajero/a,Contratado,LinkedIn,2.05
+124,John Stone Jr.,2025-02-03,Almacén,Rechazado,Web,3.42
+125,Lisa Hernandez,2024-09-09,Gerente tienda,Entrevistado,Portal Empleo,4.48
+126,Edwin Kelly,2025-02-10,Gerente tienda,Rechazado,LinkedIn,3.76
+127,Matthew Kent,2025-04-01,Visual merchandiser,Entrevistado,LinkedIn,2.36
+128,Kendra Johnson,2025-03-16,Dependiente/a,Contratado,Web,3.27
+129,Emily Castro,2025-05-19,Encargado/a,Entrevistado,Portal Empleo,3.73
+130,Lisa Booker,2025-06-03,Dependiente/a,Rechazado,LinkedIn,2.63
+131,William Gibbs,2024-12-22,Cajero/a,Contratado,LinkedIn,2.21
+132,Monica Thomas,2025-04-12,Dependiente/a,Entrevistado,Feria empleo,4.15
+133,Jeremy Bailey,2024-10-22,Gerente tienda,Contratado,LinkedIn,2.6
+134,Michelle Kelly,2025-04-01,Cajero/a,Contratado,LinkedIn,3.82
+135,Danielle Harper,2025-06-07,Dependiente/a,Entrevistado,Feria empleo,2.97
+136,Kathy Alexander,2025-05-02,Visual merchandiser,Entrevistado,Referido,3.09
+137,Benjamin Bennett,2025-01-30,Encargado/a,Rechazado,Portal Empleo,2.76
+138,Ashley Cannon,2025-03-24,Encargado/a,Entrevistado,Portal Empleo,2.73
+139,Scott Aguilar,2025-05-31,Cajero/a,Entrevistado,Portal Empleo,2.07
+140,Meghan Bryant,2025-02-24,Almacén,Contratado,Feria empleo,4.59
+141,Jason Mitchell,2025-05-29,Dependiente/a,Rechazado,Referido,2.25
+142,Nichole White,2024-06-27,Gerente tienda,Rechazado,Referido,2.71
+143,Jennifer Moses,2024-08-07,Almacén,Contratado,Feria empleo,2.54
+144,Carly Roberts,2025-05-24,Visual merchandiser,Rechazado,Web,2.83
+145,Felicia Wilkerson,2024-11-05,Dependiente/a,Contratado,LinkedIn,2.51
+146,Brendan Schneider,2025-05-20,Gerente tienda,Rechazado,Portal Empleo,4.03
+147,Savannah Gonzales,2025-05-13,Cajero/a,Rechazado,Web,4.27
+148,Thomas Sanchez,2024-07-22,Cajero/a,Entrevistado,Portal Empleo,2.56
+149,Anthony Patterson,2025-03-19,Dependiente/a,Entrevistado,Web,2.52
+150,Lori Mitchell,2024-07-05,Encargado/a,Rechazado,Portal Empleo,2.07
+151,Amy Flores,2024-10-20,Visual merchandiser,Rechazado,Portal Empleo,3.69
+152,Jennifer White,2025-04-14,Cajero/a,Entrevistado,Referido,4.15
+153,Catherine Kelley,2024-11-13,Almacén,Rechazado,Referido,3.91
+154,Michael Williams,2025-02-22,Visual merchandiser,Rechazado,Web,4.41
+155,Jennifer Little,2024-06-14,Dependiente/a,Entrevistado,Feria empleo,4.77
+156,Jay Hawkins,2025-04-29,Almacén,Rechazado,Web,2.88
+157,Jessica Shepherd,2025-03-09,Gerente tienda,Contratado,Referido,2.21
+158,Douglas Miller,2025-06-11,Gerente tienda,Entrevistado,Feria empleo,4.02
+159,Gabriel Hayes,2025-06-02,Visual merchandiser,Rechazado,Referido,3.82
+160,Jason Fuentes,2024-10-09,Gerente tienda,Rechazado,Referido,3.46
+161,Bethany Anderson,2025-03-22,Visual merchandiser,Entrevistado,Portal Empleo,4.99
+162,Dale White,2025-02-28,Almacén,Entrevistado,Portal Empleo,2.07
+163,Joshua Webb,2024-08-31,Dependiente/a,Entrevistado,Feria empleo,2.94
+164,Jennifer Mcdonald,2025-01-30,Almacén,Entrevistado,Feria empleo,2.5
+165,Katelyn Hernandez,2025-02-17,Cajero/a,Contratado,Web,3.41
+166,Samantha Harding,2025-02-15,Gerente tienda,Entrevistado,Feria empleo,4.59
+167,Elizabeth Lam,2024-09-01,Dependiente/a,Contratado,Referido,2.19
+168,Timothy Roy,2024-09-16,Cajero/a,Rechazado,LinkedIn,2.33
+169,Scott Herman,2025-03-13,Almacén,Entrevistado,Web,3.02
+170,Brian Brown,2024-07-27,Dependiente/a,Entrevistado,Referido,2.54
+171,Adrienne Wade,2024-12-27,Cajero/a,Entrevistado,Portal Empleo,3.53
+172,Joel Riley,2024-10-09,Visual merchandiser,Rechazado,LinkedIn,2.2
+173,Renee Powers,2024-08-06,Visual merchandiser,Contratado,LinkedIn,3.67
+174,Dawn Lindsey,2024-10-21,Encargado/a,Rechazado,Feria empleo,3.8
+175,Charles Salazar,2025-01-09,Gerente tienda,Entrevistado,Portal Empleo,4.08
+176,Keith Freeman,2025-05-27,Cajero/a,Entrevistado,Web,4.27
+177,Jonathan Smith,2024-10-08,Gerente tienda,Rechazado,Referido,4.82
+178,Gary Calhoun,2024-12-11,Cajero/a,Rechazado,Web,2.67
+179,Angela Hill,2025-05-09,Cajero/a,Entrevistado,Referido,3.15
+180,Diane Brooks,2024-11-05,Gerente tienda,Contratado,Portal Empleo,3.68
+181,Steven Lawrence,2024-07-21,Gerente tienda,Contratado,Web,3.79
+182,Duane Simmons,2025-03-23,Visual merchandiser,Entrevistado,Feria empleo,2.46
+183,Troy Anderson,2025-02-25,Visual merchandiser,Entrevistado,Web,4.47
+184,Deanna Ross,2025-02-14,Gerente tienda,Entrevistado,LinkedIn,3.68
+185,Douglas Simpson,2025-01-09,Gerente tienda,Rechazado,Web,4.48
+186,Kimberly Mueller,2024-07-08,Gerente tienda,Rechazado,Feria empleo,4.16
+187,Reginald Thompson,2024-08-24,Almacén,Rechazado,Referido,3.52
+188,Michael Walls,2024-10-26,Gerente tienda,Entrevistado,Referido,2.52
+189,Michael Collins,2024-06-26,Dependiente/a,Entrevistado,Web,4.47
+190,Roy Allen,2025-01-29,Cajero/a,Entrevistado,Feria empleo,4.53
+191,Robin Parsons,2024-10-11,Cajero/a,Rechazado,Portal Empleo,4.73
+192,Mary Villarreal,2025-02-05,Cajero/a,Rechazado,Feria empleo,2.06
+193,Ashley Garcia,2025-01-01,Dependiente/a,Rechazado,Feria empleo,2.65
+194,Shawn Lamb,2025-03-13,Gerente tienda,Rechazado,Web,2.42
+195,Andrew Carr,2025-01-13,Almacén,Entrevistado,Web,2.73
+196,Thomas Miller,2024-08-17,Dependiente/a,Contratado,LinkedIn,4.8
+197,Crystal Sanchez,2025-05-18,Dependiente/a,Entrevistado,Referido,2.84
+198,Perry Shea,2025-04-21,Visual merchandiser,Entrevistado,Referido,4.05
+199,Tracy Campbell,2024-08-19,Encargado/a,Rechazado,Web,2.47
+200,Robert Lee,2025-01-14,Dependiente/a,Contratado,Portal Empleo,4.59
+201,Ashley Patrick,2025-01-08,Cajero/a,Rechazado,Feria empleo,4.09
+202,Jerry Hart,2024-12-05,Dependiente/a,Entrevistado,Referido,4.32
+203,George Russell,2024-10-17,Cajero/a,Contratado,Referido,3.06
+204,Richard Ramos,2024-10-27,Cajero/a,Contratado,Web,2.34
+205,Stephanie Fuller,2025-05-18,Gerente tienda,Entrevistado,Web,2.81
+206,Kevin Flores,2025-04-21,Dependiente/a,Rechazado,Referido,2.71
+207,Candice Anderson,2025-05-16,Cajero/a,Rechazado,Portal Empleo,2.66
+208,David Hubbard,2024-11-11,Almacén,Rechazado,Referido,2.68
+209,Kelly Berry,2024-09-24,Almacén,Rechazado,Portal Empleo,4.47
+210,David Murray,2024-06-20,Cajero/a,Entrevistado,Feria empleo,4.34
+211,Ruth Cannon,2024-11-04,Visual merchandiser,Rechazado,LinkedIn,4.93
+212,Jose Graves,2025-02-04,Visual merchandiser,Contratado,Referido,3.68
+213,Nathan Cole,2025-02-11,Encargado/a,Contratado,Web,4.86
+214,Sabrina Roberts,2024-12-26,Almacén,Rechazado,LinkedIn,2.23
+215,Ashley Krause,2024-12-30,Dependiente/a,Contratado,Referido,3.79
+216,Mason Newton,2025-01-24,Dependiente/a,Entrevistado,Web,4.31
+217,Kimberly Smith,2025-02-15,Encargado/a,Rechazado,Web,3.37
+218,Brittany Hamilton,2025-06-02,Dependiente/a,Rechazado,Portal Empleo,3.38
+219,Joe Perez,2025-02-18,Gerente tienda,Rechazado,LinkedIn,4.77
+220,Stanley Figueroa,2024-06-30,Visual merchandiser,Contratado,Portal Empleo,3.8
+221,April Harmon,2024-11-06,Almacén,Contratado,Referido,3.09
+222,Heather Smith,2024-12-02,Cajero/a,Entrevistado,Feria empleo,4.57
+223,Benjamin Oliver,2024-09-07,Visual merchandiser,Rechazado,LinkedIn,4.46
+224,Danielle Wood,2025-04-26,Gerente tienda,Entrevistado,Portal Empleo,3.56
+225,Ian Hardy,2024-08-28,Cajero/a,Entrevistado,Web,2.07
+226,Nicholas Shaw,2025-05-25,Almacén,Entrevistado,Referido,3.01
+227,Robert Foster,2024-09-08,Encargado/a,Entrevistado,Referido,4.79
+228,Michael Nelson,2024-07-25,Cajero/a,Entrevistado,LinkedIn,2.84
+229,Mark Porter,2024-11-06,Dependiente/a,Contratado,LinkedIn,3.17
+230,Kimberly Carrillo,2024-07-27,Cajero/a,Rechazado,Referido,4.89
+231,Tyler Norris,2024-08-28,Encargado/a,Rechazado,Portal Empleo,2.19
+232,Nicole Hernandez,2024-10-21,Dependiente/a,Entrevistado,Feria empleo,3.61
+233,Jacob Buckley,2025-03-17,Dependiente/a,Entrevistado,Feria empleo,3.18
+234,Daniel Campbell,2024-09-16,Cajero/a,Entrevistado,Feria empleo,4.95
+235,Aaron Esparza,2025-04-29,Cajero/a,Contratado,Web,3.88
+236,Courtney Murphy,2024-11-10,Cajero/a,Rechazado,Web,3.34
+237,Jennifer King,2025-05-12,Dependiente/a,Rechazado,Web,4.19
+238,Monica Wong,2024-09-05,Dependiente/a,Rechazado,Web,4.26
+239,Kenneth Klein,2025-03-28,Visual merchandiser,Entrevistado,LinkedIn,3.78
+240,Christopher Anthony,2024-12-31,Visual merchandiser,Contratado,Feria empleo,2.0
+241,Robert Weeks,2024-09-02,Cajero/a,Contratado,Feria empleo,2.94
+242,Dillon Smith,2024-12-24,Almacén,Rechazado,Portal Empleo,4.5
+243,Daniel Perez,2024-07-15,Visual merchandiser,Entrevistado,Web,2.3
+244,Mary Adams,2024-07-22,Almacén,Entrevistado,Feria empleo,3.29
+245,Thomas Turner,2024-11-09,Almacén,Entrevistado,Portal Empleo,2.55
+246,Larry Sanford,2025-06-07,Visual merchandiser,Rechazado,Web,2.81
+247,Carol King,2024-10-11,Gerente tienda,Entrevistado,Portal Empleo,3.5
+248,Connor Mathis,2024-09-05,Dependiente/a,Rechazado,Feria empleo,2.29
+249,Lacey Mack,2024-09-05,Cajero/a,Entrevistado,Referido,3.54
+250,Bethany Reyes,2024-08-28,Gerente tienda,Rechazado,Referido,3.78
+251,Melissa Anderson,2025-04-29,Gerente tienda,Rechazado,LinkedIn,4.96
+252,Billy Smith,2024-08-22,Dependiente/a,Entrevistado,Web,2.64
+253,Alexander Buchanan DDS,2024-07-08,Cajero/a,Contratado,Referido,2.45
+254,Carrie Flynn,2024-09-19,Dependiente/a,Rechazado,Referido,3.41
+255,Benjamin Mills,2024-06-15,Gerente tienda,Entrevistado,Referido,3.67
+256,Helen Salas,2024-07-07,Gerente tienda,Rechazado,Feria empleo,2.64
+257,Betty Delgado,2025-06-09,Visual merchandiser,Rechazado,Referido,4.19
+258,Monica Savage,2025-03-16,Encargado/a,Entrevistado,Web,3.65
+259,Kathy Thompson,2025-02-26,Dependiente/a,Entrevistado,LinkedIn,4.12
+260,Sabrina Schmidt,2025-05-02,Visual merchandiser,Contratado,Referido,2.18
+261,Ms. Stacey Mckinney,2024-06-24,Dependiente/a,Entrevistado,Portal Empleo,2.71
+262,Jacqueline Turner,2024-07-16,Cajero/a,Entrevistado,Feria empleo,3.68
+263,Richard White,2025-03-08,Dependiente/a,Entrevistado,Web,2.5
+264,Sarah Ramirez,2024-07-03,Cajero/a,Entrevistado,Referido,3.95
+265,Manuel Reilly,2025-06-06,Visual merchandiser,Entrevistado,Referido,2.86
+266,Denise Mcmahon,2025-01-19,Encargado/a,Rechazado,Referido,4.67
+267,Michael Horn,2024-08-25,Gerente tienda,Rechazado,LinkedIn,3.12
+268,Natasha Hart,2024-08-26,Almacén,Rechazado,Feria empleo,3.83
+269,Jacob Morgan,2024-11-01,Dependiente/a,Entrevistado,Web,4.66
+270,Mike Anderson,2024-08-02,Visual merchandiser,Rechazado,Feria empleo,2.23
+271,Tina Wood,2024-12-04,Visual merchandiser,Entrevistado,Web,4.1
+272,Christine Castillo,2024-06-15,Encargado/a,Entrevistado,Feria empleo,4.06
+273,Philip Patterson,2025-05-22,Dependiente/a,Rechazado,Referido,4.75
+274,Danielle Brown,2025-01-06,Visual merchandiser,Contratado,LinkedIn,2.97
+275,Sandra Little,2024-11-07,Cajero/a,Entrevistado,Portal Empleo,2.44
+276,Rachel Simmons,2024-10-20,Cajero/a,Contratado,Web,2.17
+277,Kayla Powell,2024-09-08,Gerente tienda,Rechazado,Referido,4.42
+278,Corey Downs,2024-08-30,Almacén,Contratado,Portal Empleo,2.8
+279,Brett Stewart,2024-08-17,Encargado/a,Entrevistado,Web,2.5
+280,Susan Kelley,2024-12-23,Dependiente/a,Contratado,Portal Empleo,4.08
+281,William Ross,2024-07-11,Encargado/a,Entrevistado,Portal Empleo,4.78
+282,William Parker,2024-11-12,Cajero/a,Rechazado,Web,2.76
+283,Jerry Miranda,2025-03-22,Almacén,Contratado,Portal Empleo,2.42
+284,Madison Riley,2025-03-07,Cajero/a,Entrevistado,Web,3.38
+285,Ryan Williams,2025-01-21,Encargado/a,Entrevistado,Web,4.95
+286,Edward Mora,2024-11-09,Dependiente/a,Rechazado,Referido,2.24
+287,Ralph Lee MD,2024-10-02,Dependiente/a,Entrevistado,Referido,2.84
+288,Gary Keith,2024-09-30,Gerente tienda,Rechazado,Web,4.29
+289,Bradley Hodges,2025-03-01,Cajero/a,Entrevistado,Referido,3.4
+290,Jesse Spencer,2025-01-30,Visual merchandiser,Entrevistado,Referido,3.17
+291,Martin Howard,2025-05-27,Visual merchandiser,Rechazado,Web,2.01
+292,Ronald Johnson,2024-12-14,Dependiente/a,Rechazado,Referido,4.9
+293,Mark Robertson,2024-09-20,Dependiente/a,Rechazado,Web,3.97
+294,Christopher Young,2024-12-29,Almacén,Entrevistado,LinkedIn,3.95
+295,Kimberly Odom,2024-12-16,Almacén,Entrevistado,Feria empleo,3.54
+296,Jeffrey Golden,2024-06-29,Gerente tienda,Contratado,Feria empleo,3.75
+297,Julie Miller,2025-01-23,Visual merchandiser,Contratado,Portal Empleo,3.64
+298,Michelle Collins,2024-06-24,Encargado/a,Rechazado,Feria empleo,3.87
+299,Ashley Nichols,2025-04-20,Cajero/a,Entrevistado,Web,2.69
+300,Christopher King,2024-12-06,Dependiente/a,Rechazado,Feria empleo,3.45
+301,Allison Johnson,2024-08-05,Encargado/a,Rechazado,Web,4.01
+302,Sean Moreno,2025-02-08,Cajero/a,Entrevistado,Portal Empleo,4.45
+303,Richard Williamson,2025-02-10,Encargado/a,Entrevistado,Referido,3.29
+304,Tyler Gordon,2024-07-16,Encargado/a,Contratado,Feria empleo,3.78
+305,Lisa Jackson,2025-06-02,Dependiente/a,Rechazado,Referido,3.29
+306,Angela Morris,2025-02-25,Visual merchandiser,Entrevistado,Feria empleo,2.72
+307,Steven Williams,2024-12-16,Visual merchandiser,Rechazado,Feria empleo,4.22
+308,Rebecca Patel,2025-04-16,Cajero/a,Entrevistado,LinkedIn,4.94
+309,Benjamin Browning,2025-01-12,Gerente tienda,Entrevistado,Portal Empleo,2.96
+310,Nathan Sutton,2024-10-10,Cajero/a,Entrevistado,Portal Empleo,4.85
+311,Leslie Jones,2024-08-18,Dependiente/a,Rechazado,Referido,3.95
+312,Ryan Cummings,2025-01-26,Almacén,Entrevistado,LinkedIn,4.94
+313,Margaret Daniel,2024-09-02,Encargado/a,Entrevistado,Feria empleo,2.2
+314,Melissa Skinner,2024-08-22,Almacén,Entrevistado,Portal Empleo,3.22
+315,Maria Christian,2025-04-10,Almacén,Rechazado,Feria empleo,4.68
+316,Danielle Harrison,2024-08-07,Encargado/a,Rechazado,Referido,2.66
+317,Nicole Hubbard,2025-05-11,Cajero/a,Rechazado,Portal Empleo,3.42
+318,Samantha Porter,2025-02-10,Almacén,Rechazado,Web,2.53
+319,Melissa Turner,2024-10-04,Visual merchandiser,Rechazado,LinkedIn,3.29
+320,Cheryl Jones,2025-04-10,Almacén,Rechazado,Feria empleo,2.52
+321,Brian Larsen MD,2025-03-29,Dependiente/a,Rechazado,LinkedIn,2.91
+322,Natalie Mendoza,2025-01-11,Encargado/a,Entrevistado,Web,4.98
+323,Jason Scott,2024-09-11,Dependiente/a,Contratado,LinkedIn,3.26
+324,Shannon Montgomery,2024-07-14,Visual merchandiser,Rechazado,Feria empleo,2.7
+325,Logan Graham,2025-04-04,Dependiente/a,Entrevistado,Web,4.52
+326,Clinton Franklin,2025-04-21,Visual merchandiser,Entrevistado,Portal Empleo,4.09
+327,William Johnson,2024-12-16,Cajero/a,Entrevistado,Portal Empleo,2.7
+328,David Keller,2025-05-11,Almacén,Entrevistado,Referido,4.8
+329,Travis Johnson,2025-01-24,Encargado/a,Rechazado,Web,2.29
+330,Sharon Turner,2025-03-25,Almacén,Contratado,Portal Empleo,3.68
+331,Jenna Davidson,2024-09-23,Encargado/a,Contratado,Referido,4.13
+332,Erin Phillips,2025-03-13,Encargado/a,Contratado,Feria empleo,3.91
+333,Michael Clark,2025-02-23,Dependiente/a,Contratado,Referido,4.52
+334,Michelle Good,2024-07-29,Cajero/a,Contratado,Portal Empleo,4.22
+335,James Hinton,2024-07-30,Visual merchandiser,Entrevistado,Referido,4.8
+336,Joseph Allen,2024-07-04,Cajero/a,Rechazado,Portal Empleo,2.19
+337,Kimberly Cherry,2024-06-19,Gerente tienda,Entrevistado,Feria empleo,4.53
+338,Sara Mckay,2024-08-16,Dependiente/a,Contratado,Referido,3.69
+339,Susan Norris,2024-08-31,Almacén,Contratado,Feria empleo,3.11
+340,Marco Johnson,2025-06-10,Cajero/a,Entrevistado,Portal Empleo,3.37
+341,James Lowe,2024-11-16,Visual merchandiser,Rechazado,Referido,3.65
+342,Kendra Brooks,2025-03-16,Encargado/a,Entrevistado,LinkedIn,4.89
+343,Kimberly Long,2024-07-07,Almacén,Entrevistado,Feria empleo,3.23
+344,Jennifer Henderson,2025-05-15,Dependiente/a,Entrevistado,Referido,2.7
+345,Ryan Rangel,2024-12-22,Gerente tienda,Rechazado,Web,3.46
+346,Anna Noble,2025-05-23,Encargado/a,Entrevistado,Feria empleo,4.66
+347,Amy Brown,2025-03-22,Almacén,Entrevistado,Web,3.5
+348,Kelly Mccoy,2024-10-18,Cajero/a,Rechazado,Portal Empleo,4.04
+349,Jacob Gutierrez,2024-08-23,Almacén,Entrevistado,Portal Empleo,2.76
+350,Alexis Thomas,2025-05-25,Almacén,Rechazado,LinkedIn,4.2
+351,Tonya Obrien,2024-11-09,Gerente tienda,Entrevistado,Web,2.05
+352,Steven Salinas,2024-07-19,Visual merchandiser,Entrevistado,LinkedIn,2.68
+353,Sarah Mcclure,2025-04-25,Encargado/a,Entrevistado,Portal Empleo,2.87
+354,Scott Burton,2024-11-27,Dependiente/a,Rechazado,Feria empleo,4.98
+355,Joseph Davis,2024-08-05,Cajero/a,Rechazado,Feria empleo,3.96
+356,John Kelly,2025-01-24,Dependiente/a,Entrevistado,LinkedIn,4.13
+357,Robert Martinez,2025-01-30,Dependiente/a,Rechazado,Feria empleo,3.08
+358,Michael Douglas,2025-01-22,Almacén,Rechazado,Referido,2.41
+359,Marc Parks,2025-03-23,Dependiente/a,Entrevistado,Feria empleo,2.98
+360,Joshua Perez,2025-02-11,Gerente tienda,Rechazado,Portal Empleo,3.17
+361,Renee Dorsey,2024-08-22,Cajero/a,Rechazado,Portal Empleo,4.8
+362,Shawn Smith,2024-08-16,Dependiente/a,Contratado,LinkedIn,2.61
+363,Carmen Mitchell,2024-08-21,Cajero/a,Entrevistado,LinkedIn,3.28
+364,Mark Fields,2024-08-10,Gerente tienda,Entrevistado,Feria empleo,3.44
+365,James Johnson,2025-06-02,Cajero/a,Entrevistado,Web,2.18
+366,Elizabeth Cain,2024-06-25,Dependiente/a,Rechazado,Web,3.85
+367,James Frye,2025-05-03,Dependiente/a,Entrevistado,Feria empleo,4.49
+368,Jessica Curry,2025-02-25,Gerente tienda,Entrevistado,Web,2.28
+369,Lauren Norman,2024-06-19,Visual merchandiser,Entrevistado,LinkedIn,4.6
+370,Andrew Cherry,2025-02-04,Cajero/a,Rechazado,Feria empleo,2.14
+371,Anthony Jackson,2024-06-20,Dependiente/a,Entrevistado,Web,2.75
+372,Robert Taylor,2024-06-12,Cajero/a,Contratado,Portal Empleo,3.77
+373,Bonnie Willis,2024-08-18,Encargado/a,Rechazado,Web,4.46
+374,Tammy Johnson,2025-06-05,Almacén,Contratado,Web,3.8
+375,Brittany Guerra,2025-04-16,Gerente tienda,Contratado,Feria empleo,2.58
+376,Michael Garcia,2025-06-08,Encargado/a,Entrevistado,Web,3.96
+377,Elizabeth Vasquez,2025-03-12,Visual merchandiser,Entrevistado,Feria empleo,3.45
+378,William Miller,2025-06-10,Dependiente/a,Rechazado,LinkedIn,2.18
+379,Beth Mcdonald,2024-07-02,Gerente tienda,Rechazado,Feria empleo,4.54
+380,Jennifer Ray,2025-01-20,Encargado/a,Entrevistado,Referido,2.97
+381,Joseph Coleman,2024-11-02,Visual merchandiser,Entrevistado,Feria empleo,2.43
+382,Michael Cooper,2025-04-09,Gerente tienda,Rechazado,Feria empleo,4.63
+383,Michelle Frye,2024-08-03,Almacén,Entrevistado,Referido,2.47
+384,Jonathan Lee,2025-01-12,Almacén,Contratado,Web,4.24
+385,Dennis Cooper,2025-01-24,Cajero/a,Entrevistado,LinkedIn,3.99
+386,Jeffrey Adams,2024-08-22,Visual merchandiser,Rechazado,Portal Empleo,4.49
+387,Maria Ross,2024-10-25,Dependiente/a,Rechazado,Portal Empleo,2.54
+388,Paul Jacobs,2025-05-21,Visual merchandiser,Entrevistado,Feria empleo,4.06
+389,Carlos Howard,2025-02-08,Visual merchandiser,Entrevistado,LinkedIn,2.55
+390,Hunter Miller,2024-11-09,Encargado/a,Entrevistado,Feria empleo,2.64
+391,James Pearson,2025-01-29,Visual merchandiser,Rechazado,Web,3.52
+392,Cassandra Weaver,2024-07-15,Encargado/a,Contratado,LinkedIn,2.62
+393,Evan Brewer,2025-03-04,Gerente tienda,Rechazado,LinkedIn,2.73
+394,Danielle Robinson,2024-07-04,Visual merchandiser,Rechazado,Feria empleo,3.34
+395,Tracy May,2025-05-28,Cajero/a,Entrevistado,Feria empleo,3.32
+396,Mrs. Kayla Brock,2025-05-22,Dependiente/a,Entrevistado,LinkedIn,4.59
+397,Brian Bentley,2024-08-14,Gerente tienda,Rechazado,Portal Empleo,3.28
+398,Karen Gamble DDS,2025-04-18,Visual merchandiser,Contratado,Web,2.62
+399,Edward Medina,2025-06-11,Almacén,Rechazado,Web,4.69
+400,Erin Guerrero,2025-01-13,Visual merchandiser,Rechazado,Portal Empleo,2.85
+401,Andrea Parker,2024-10-11,Almacén,Entrevistado,Feria empleo,4.31
+402,Michael Rodriguez,2025-01-09,Visual merchandiser,Entrevistado,Referido,3.71
+403,Theresa Smith,2024-10-18,Cajero/a,Entrevistado,Feria empleo,3.31
+404,Jonathan Aguilar,2025-02-19,Visual merchandiser,Rechazado,Referido,3.53
+405,Mr. Larry Rivas,2024-12-07,Cajero/a,Rechazado,Referido,4.59
+406,Kylie Moran,2025-04-06,Dependiente/a,Rechazado,LinkedIn,4.72
+407,Brenda Tucker,2024-07-24,Almacén,Rechazado,Referido,4.6
+408,Denise Norris,2024-08-01,Cajero/a,Entrevistado,Feria empleo,3.98
+409,Vanessa Mclaughlin,2024-12-21,Cajero/a,Entrevistado,Web,2.23
+410,Jamie Adams,2025-02-14,Visual merchandiser,Rechazado,Referido,4.22
+411,Kelsey Gutierrez,2024-08-01,Gerente tienda,Contratado,Portal Empleo,2.95
+412,Alexander Smith,2024-09-09,Cajero/a,Rechazado,Portal Empleo,4.59
+413,Terry Carter,2025-03-20,Encargado/a,Entrevistado,Referido,2.96
+414,Donald Ochoa,2025-05-26,Cajero/a,Rechazado,Referido,4.24
+415,Patrick Nielsen,2025-01-03,Gerente tienda,Entrevistado,Feria empleo,2.93
+416,Joshua Ortiz,2024-07-08,Encargado/a,Entrevistado,Web,3.03
+417,Emily Andrade,2024-09-12,Cajero/a,Contratado,Feria empleo,4.95
+418,Shannon Oliver,2025-02-25,Visual merchandiser,Rechazado,Web,2.3
+419,Sarah Mitchell,2025-03-27,Almacén,Contratado,Feria empleo,4.93
+420,Natalie Davis,2024-12-05,Almacén,Entrevistado,LinkedIn,2.76
+421,Charles Mcdaniel,2025-02-21,Dependiente/a,Entrevistado,LinkedIn,3.44
+422,Nicholas Anderson,2024-10-28,Visual merchandiser,Entrevistado,LinkedIn,4.25
+423,Andrea Sullivan,2024-09-18,Almacén,Entrevistado,Referido,3.69
+424,Crystal Bauer,2024-06-27,Encargado/a,Entrevistado,Feria empleo,3.45
+425,Ronald Butler,2025-02-22,Gerente tienda,Entrevistado,Referido,3.52
+426,Holly Larson DVM,2024-07-22,Visual merchandiser,Entrevistado,Referido,2.82
+427,Lorraine Johnson,2024-10-17,Cajero/a,Rechazado,Feria empleo,3.99
+428,John Gonzalez,2024-06-24,Cajero/a,Entrevistado,Referido,2.32
+429,Eric Waller,2025-05-14,Almacén,Rechazado,Referido,4.65
+430,Jennifer Anderson,2024-12-19,Encargado/a,Entrevistado,LinkedIn,3.42
+431,Jennifer Anderson,2024-12-28,Visual merchandiser,Contratado,Feria empleo,2.13
+432,Kenneth Bailey,2024-09-28,Cajero/a,Contratado,LinkedIn,4.75
+433,Jorge Scott,2025-02-26,Cajero/a,Rechazado,Feria empleo,2.15
+434,Emily Mathews,2024-09-01,Almacén,Contratado,Referido,4.72
+435,Kimberly Duncan,2024-07-19,Visual merchandiser,Rechazado,Feria empleo,4.3
+436,Leslie Ruiz,2024-06-28,Dependiente/a,Rechazado,Portal Empleo,3.7
+437,Eric Owens,2024-07-27,Dependiente/a,Entrevistado,Referido,4.67
+438,Kelly Levy,2025-01-23,Visual merchandiser,Entrevistado,Referido,3.86
+439,Paul Werner,2025-04-16,Dependiente/a,Entrevistado,Web,2.21
+440,Daniel Todd,2025-01-25,Gerente tienda,Entrevistado,Portal Empleo,4.1
+441,Bryan Walters,2025-03-30,Gerente tienda,Entrevistado,Referido,3.17
+442,Ivan Stafford,2024-11-16,Visual merchandiser,Rechazado,LinkedIn,3.91
+443,Andrew Haas,2025-05-05,Almacén,Entrevistado,Web,2.2
+444,Jesse Cunningham,2024-11-23,Gerente tienda,Entrevistado,Feria empleo,3.04
+445,Fred Hampton,2024-07-18,Visual merchandiser,Rechazado,Portal Empleo,4.04
+446,Laura Hahn PhD,2024-07-08,Cajero/a,Entrevistado,Referido,4.97
+447,Eric Hodges,2024-09-04,Almacén,Entrevistado,LinkedIn,2.4
+448,Logan Long,2025-03-03,Cajero/a,Rechazado,LinkedIn,3.64
+449,Jonathan Steele,2024-12-21,Almacén,Entrevistado,Web,3.94
+450,Robert Hensley,2024-09-21,Visual merchandiser,Contratado,Feria empleo,4.52
+451,Micheal Graham,2025-04-25,Gerente tienda,Entrevistado,Referido,3.77
+452,Beth Chen,2025-03-25,Cajero/a,Entrevistado,Feria empleo,3.72
+453,Wanda Johnson,2025-06-09,Encargado/a,Rechazado,LinkedIn,3.96
+454,Kelly Green,2024-06-13,Dependiente/a,Rechazado,Feria empleo,2.28
+455,Dylan Petersen,2025-02-22,Gerente tienda,Entrevistado,Web,2.57
+456,Kelly Beard,2024-07-17,Almacén,Contratado,Web,2.67
+457,Matthew Schmitt,2025-02-07,Gerente tienda,Entrevistado,LinkedIn,3.0
+458,Lindsey Barrera,2025-03-27,Almacén,Contratado,Portal Empleo,3.23
+459,Victoria Smith,2024-10-10,Visual merchandiser,Contratado,Web,3.18
+460,Sarah Moore,2025-04-30,Gerente tienda,Rechazado,LinkedIn,2.02
+461,Holly Richardson,2025-01-27,Gerente tienda,Entrevistado,Referido,2.39
+462,Carl Johnson,2024-09-28,Visual merchandiser,Rechazado,Feria empleo,2.67
+463,Jody Sawyer,2025-05-25,Encargado/a,Entrevistado,Feria empleo,2.54
+464,Curtis Clark,2025-06-03,Dependiente/a,Rechazado,Feria empleo,3.82
+465,Rebecca Schneider,2025-01-05,Gerente tienda,Rechazado,Web,4.34
+466,Victoria Bowers,2025-06-01,Almacén,Rechazado,LinkedIn,4.13
+467,Matthew Carney,2025-04-01,Visual merchandiser,Rechazado,LinkedIn,4.52
+468,Valerie Smith,2024-08-01,Almacén,Entrevistado,Portal Empleo,3.5
+469,David Vega,2025-04-29,Dependiente/a,Rechazado,LinkedIn,2.18
+470,Kayla Davis,2025-04-23,Almacén,Entrevistado,Referido,3.02
+471,Gabriel Nelson,2025-03-28,Gerente tienda,Rechazado,Feria empleo,4.8
+472,Jonathan Oliver,2025-03-05,Gerente tienda,Entrevistado,Referido,2.88
+473,John Middleton MD,2024-10-12,Encargado/a,Entrevistado,LinkedIn,2.78
+474,Susan Brewer,2024-11-03,Dependiente/a,Rechazado,Web,3.7
+475,Dustin Graham,2025-03-27,Almacén,Rechazado,Referido,3.95
+476,Joanna Ryan,2025-01-07,Cajero/a,Entrevistado,Feria empleo,4.1
+477,Edward Wheeler,2024-10-21,Gerente tienda,Contratado,LinkedIn,4.07
+478,Amber Andersen,2025-05-28,Dependiente/a,Rechazado,LinkedIn,4.55
+479,Christopher Delgado,2025-03-08,Dependiente/a,Entrevistado,Feria empleo,3.79
+480,Wanda Warren,2024-09-07,Encargado/a,Rechazado,Referido,4.21
+481,Leslie Young,2024-06-15,Visual merchandiser,Entrevistado,Web,3.31
+482,Tyler Peterson,2024-12-02,Dependiente/a,Entrevistado,Portal Empleo,3.24
+483,Monica Mata,2024-11-06,Gerente tienda,Contratado,Web,2.75
+484,Danny Martinez,2024-08-24,Visual merchandiser,Entrevistado,Web,4.47
+485,Russell Howell,2024-08-19,Gerente tienda,Rechazado,Feria empleo,4.13
+486,Thomas Smith,2024-09-17,Visual merchandiser,Contratado,Web,4.56
+487,Allison Ward,2025-02-02,Gerente tienda,Entrevistado,LinkedIn,2.2
+488,James Price,2025-05-28,Cajero/a,Rechazado,Feria empleo,2.0
+489,Nathan Hayden,2025-01-27,Dependiente/a,Contratado,Portal Empleo,3.97
+490,Jennifer Ramos,2025-03-12,Gerente tienda,Contratado,Referido,3.7
+491,Sandra Cohen,2025-02-10,Gerente tienda,Rechazado,Feria empleo,3.21
+492,Amber Bennett,2024-07-06,Visual merchandiser,Entrevistado,Feria empleo,3.08
+493,Charles Goodman,2024-10-26,Gerente tienda,Rechazado,Referido,2.74
+494,Derrick Gomez II,2025-01-30,Visual merchandiser,Entrevistado,Web,4.24
+495,Shannon Costa,2024-12-26,Encargado/a,Rechazado,LinkedIn,3.9
+496,Dennis Walker,2024-12-26,Almacén,Rechazado,Portal Empleo,2.24
+497,Linda Rodriguez,2024-07-08,Cajero/a,Rechazado,LinkedIn,4.27
+498,Kelly Davis,2024-09-03,Almacén,Contratado,Web,4.14
+499,Robert Kelly,2024-07-13,Almacén,Entrevistado,LinkedIn,3.06
+500,Emily Castro,2024-12-17,Cajero/a,Rechazado,Referido,2.95
